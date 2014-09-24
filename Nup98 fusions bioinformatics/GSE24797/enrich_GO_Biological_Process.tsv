@@ -1,0 +1,390 @@
+Term	P-value	Genes
+phospholipid efflux (GO:0033700)	3.809752547588868E-4	APOE,APOC2,ABCA1
+reverse cholesterol transport (GO:0043691)	9.352513146951225E-4	APOE,APOC2,ABCA1
+phospholipid transport (GO:0015914)	9.352513146951225E-4	APOE,APOC2,ABCA1
+negative regulation of cell differentiation (GO:0045596)	0.006120107758350159	C1QC,ENPP1,ABCA1,HOXA7
+cholesterol transport (GO:0030301)	0.007818503042070572	APOC2,ABCA1,APOE
+positive regulation of endothelial cell proliferation (GO:0001938)	0.007864395560184562	HIF1A,VEGFA
+cellular iron ion homeostasis (GO:0006879)	0.009361079621190427	TFRC,SLC40A1
+positive regulation of positive chemotaxis (GO:0050927)	0.009361079621190427	VEGFA,F7
+regulation of viral genome replication (GO:0045069)	0.01097385793808486	CCL3,CD28
+iron ion homeostasis (GO:0055072)	0.01097385793808486	TFRC,SLC40A1
+regulation of nitric-oxide synthase activity (GO:0050999)	0.01097385793808486	HIF1A,APOE
+regulation of blood vessel endothelial cell migration (GO:0043535)	0.01097385793808486	APOE,VEGFA
+protein-lipid complex assembly (GO:0065005)	0.01269966432205329	APOE,ABCA1
+positive regulation of leukocyte migration (GO:0002687)	0.01269966432205329	VEGFA,F7
+positive regulation of monooxygenase activity (GO:0032770)	0.01269966432205329	HIF1A,APOE
+homeostatic process (GO:0042592)	0.01488517173823352	ENPP1,TFRC,HIF1A,SLC40A1,C3AR1,CCL3,APOC2,ABCA1,F2R
+T cell activation (GO:0042110)	0.015179052073529965	CHD7,DPP4,CD28
+cellular ion homeostasis (GO:0006873)	0.016355612629361062	SLC40A1,C3AR1,CCL3,ENPP1,TFRC,F2R
+negative regulation of macrophage differentiation (GO:0045650)	0.018525440060059288	ABCA1,C1QC
+lipoprotein particle clearance (GO:0034381)	0.018525440060059288	APOC2,APOE
+adaptive immune response (GO:0002250)	0.0206738238641348	IL18,TLR6
+cholesterol efflux (GO:0033344)	0.0206738238641348	APOC2,ABCA1
+glucose transport (GO:0015758)	0.0206738238641348	PPBP,SLC2A3
+ion homeostasis (GO:0050801)	0.022343144002547746	SLC40A1,C3AR1,CCL3,ENPP1,TFRC,F2R
+positive regulation of cell migration (GO:0030335)	0.022889261641179517	F7,VEGFA,F2R
+positive regulation of T cell proliferation (GO:0042102)	0.022920742148404633	IL18,CD28
+negative regulation of lipid metabolic process (GO:0045833)	0.022920742148404633	APOC2,APOE
+cellular amine metabolic process (GO:0009308)	0.02404438613497278	KMO,ARG1,B3GNT8,CKB,HDC,SHMT1
+cellular cation homeostasis (GO:0030003)	0.024266360342151662	SLC40A1,C3AR1,CCL3,TFRC,F2R
+regulation of cholesterol transport (GO:0032374)	0.025263457403842872	APOC2,APOE
+response to hypoxia (GO:0001666)	0.025416949833538302	DPP4,HIF1A,VEGFA
+regulation of cell migration (GO:0030334)	0.025683243072908455	APOE,F7,VEGFA,F2R
+cell surface receptor linked signal transduction (GO:0007166)	0.027117838673157105	PTPRF,IL7R,P2RY14,C3AR1,CCL3,ABCA1,PTGER4,APOE,STC2,LILRB3,VEGFA,CD28,CALCRL,IFNGR2,PRKD3
+positive regulation of signal transduction (GO:0009967)	0.027703989270559618	TLR6,F7,VEGFA,ECM1,P2RX3,F2R
+regulation of MAPKKK cascade (GO:0043408)	0.028089004119760813	TLR6,AMBP,F2R
+positive regulation of cell motion (GO:0051272)	0.028089004119760813	F7,VEGFA,F2R
+regulation of signal transduction (GO:0009966)	0.028108388631279475	F7,VEGFA,ENPP1,ECM1,SENP2,AMBP,TLR6,P2RX3,F2R
+cellular homeostasis (GO:0019725)	0.028347921606475483	SLC40A1,C3AR1,CCL3,ENPP1,TFRC,F2R
+lipid transport (GO:0006869)	0.029479036742889552	APOE,APOC2,ABCA1
+positive regulation of chemotaxis (GO:0050921)	0.030225586505368704	F7,VEGFA
+negative regulation of MAP kinase activity (GO:0043407)	0.030225586505368704	APOE,DUSP16
+positive regulation of mononuclear cell proliferation (GO:0032946)	0.03283978053177885	IL18,CD28
+regulation of cell motion (GO:0051270)	0.03370059294988149	APOE,F7,VEGFA,F2R
+cellular amino acid metabolic process (GO:0006520)	0.03370059294988149	HDC,KMO,ARG1,SHMT1
+regulation of blood coagulation (GO:0030193)	0.03553933024386605	APOE,F2R
+positive regulation of immune system process (GO:0002684)	0.035908883145231885	IL18,F7,VEGFA,CD28
+positive regulation of oxidoreductase activity (GO:0051353)	0.038321748389099596	HIF1A,APOE
+positive regulation of cell proliferation (GO:0008284)	0.03842016199783697	TBRG4,VEGFA,CD28,IL18,HIF1A,DNAJA2
+cholesterol homeostasis (GO:0042632)	0.04118459534183067	APOC2,ABCA1
+negative regulation of myeloid cell differentiation (GO:0045638)	0.04118459534183067	ABCA1,C1QC
+regulation of lipid metabolic process (GO:0019216)	0.04188168522514983	APOE,APOC2,ACSL1
+cellular amino acid and derivative metabolic process (GO:0006519)	0.042937699416596226	KMO,ARG1,CKB,HDC,SHMT1
+regulation of fatty acid metabolic process (GO:0019217)	0.04412547831931664	APOC2,ACSL1
+angiogenesis (GO:0001525)	0.05023201083079266	IL18,VEGFA
+Rho protein signal transduction (GO:0007266)	0.05023201083079266	ABCA1,APOE
+regulation of cell differentiation (GO:0045595)	0.05140854983718844	C1QC,APOE,ENPP1,ABCA1,HOXA7
+cell activation (GO:0001775)	0.05948620811715767	DPP4,CHD7,CD28,F2R
+regulation of JNK cascade (GO:0046328)	0.05991986928449233	TLR6,AMBP
+G-protein coupled receptor protein signaling pathway (GO:0007186)	0.06197901730678646	APOE,P2RY14,C3AR1,CCL3,ABCA1,CALCRL,PTGER4,PRKD3
+regulation of cell proliferation (GO:0042127)	0.06327520551577431	IL18,HIF1A,DNAJA2,GPNMB,APOE,TBRG4,VEGFA,CD28,F2R
+regulation of oxidoreductase activity (GO:0051341)	0.06670516122182825	APOE,HIF1A
+positive regulation of T cell activation (GO:0050870)	0.06670516122182825	IL18,CD28
+transcription from RNA polymerase II promoter (GO:0006366)	0.07043627908747875	AHR,HIF1A,MAFF,TSC22D1
+lipid homeostasis (GO:0055088)	0.07373245443052963	APOC2,ABCA1
+negative regulation of apoptosis (GO:0043066)	0.07659522284055635	MEF2C,CIAPIN1,APOE,F7,VEGFA
+negative regulation of programmed cell death (GO:0043069)	0.07942666238463934	MEF2C,CIAPIN1,APOE,F7,VEGFA
+blood circulation (GO:0008015)	0.08469258416936702	C3AR1,OLR1
+regulation of MAP kinase activity (GO:0043405)	0.08704034640176624	TLR6,APOE,DUSP16
+cyclic-nucleotide-mediated signaling (GO:0019935)	0.08704034640176624	APOE,CALCRL,PTGER4
+anti-apoptosis (GO:0006916)	0.08774619475135166	MEF2C,CIAPIN1,APOE,F7
+tissue development (GO:0009888)	0.08774619475135166	DSP,BMX,FABP5,MINPP1
+nervous system development (GO:0007399)	0.09130914617785205	MEF2C,ENC1,VEGFA,NINJ1,OLFM1
+positive regulation of I-kappaB kinase/NF-kappaB cascade (GO:0043123)	0.09187663746523186	TLR6,ECM1,F2R
+cofactor metabolic process (GO:0051186)	0.09682286756956184	AMBP,KMO,SHMT1
+positive regulation of metabolic process (GO:0009893)	0.10427019739629047	MEF2C,TCF4,HIF1A,APOC2,ABCA1,APOE,CD28,TLR6,F2R
+anatomical structure development (GO:0048856)	0.10958184760338516	MEF2C,MINPP1,ENC1,FABP5,CHD7,VEGFA,OLFM1,DSP,NINJ1,BMX,LSR,IGFBP4
+vitamin metabolic process (GO:0006766)	0.11196461161519777	KMO,SHMT1
+regulation of I-kappaB kinase/NF-kappaB cascade (GO:0043122)	0.11495664640123443	TLR6,ECM1,F2R
+leukocyte activation (GO:0045321)	0.11495664640123443	DPP4,CHD7,CD28
+regulation of cytokine biosynthetic process (GO:0042035)	0.11602943362566454	TLR6,CD28
+cellular calcium ion homeostasis (GO:0006874)	0.11764640069344064	C3AR1,CCL3,F2R
+spindle checkpoint (GO:0031577)	0.11797555532154895	TPR
+negative regulation of mitosis (GO:0045839)	0.11797555532154895	TPR
+G1 phase of mitotic cell cycle (GO:0000080)	0.11797555532154895	TBRG4
+positive regulation of endothelial cell migration (GO:0010595)	0.11797555532154895	VEGFA
+positive regulation of leukocyte chemotaxis (GO:0002690)	0.11797555532154895	F7
+regulation of mitosis (GO:0007088)	0.12013159937175222	TPR,CD28
+calcium ion homeostasis (GO:0055074)	0.12035977937114369	C3AR1,CCL3,F2R
+regulation of T cell activation (GO:0050863)	0.12426957119178891	IL18,CD28
+regulation of myeloid cell differentiation (GO:0045637)	0.12426957119178891	ABCA1,C1QC
+phosphate metabolic process (GO:0006796)	0.12511797101296301	TLK2,PTPRO,MINPP1,ENPP1,INPPL1,BMX,PRKD3,F2R
+transcription, DNA-dependent (GO:0006351)	0.1278330625827086	AHR,HIF1A,MAFF,TSC22D1
+negative regulation of protein kinase activity (GO:0006469)	0.12844184323392524	APOE,DUSP16
+activation of protein kinase activity (GO:0032147)	0.12844184323392524	TLR6,PRKD3
+nucleoside triphosphate catabolic process (GO:0009143)	0.12898667129561078	ENPP1
+negative regulation of endocytosis (GO:0045806)	0.12898667129561078	APOC2
+regulation of axonogenesis (GO:0050770)	0.12898667129561078	APOE
+negative regulation of immune response (GO:0050777)	0.12898667129561078	AMBP
+activation of protein kinase C activity by G-protein coupled receptor protein signaling pathway (GO:0007205)	0.12898667129561078	PRKD3
+calcium ion transport into cytosol (GO:0060402)	0.12898667129561078	F2R
+ER-associated protein catabolic process (GO:0030433)	0.12898667129561078	AMFR
+di-, tri-valent inorganic cation transport (GO:0015674)	0.13264694092289586	SLC40A1,F2R
+cellular metal ion homeostasis (GO:0006875)	0.1342670979857247	C3AR1,CCL3,F2R
+negative regulation of kinase activity (GO:0033673)	0.1368834204259485	APOE,DUSP16
+cell differentiation (GO:0030154)	0.13889080300247397	VEGFA,DSP,CHD7,CD28
+NAD metabolic process (GO:0019674)	0.13986172508445818	KMO
+regulation of glycolysis (GO:0006110)	0.13986172508445818	HIF1A
+peptidyl-tyrosine phosphorylation (GO:0018108)	0.13986172508445818	F2R
+positive regulation of calcium ion transport into cytosol (GO:0010524)	0.13986172508445818	P2RX3
+cytosolic calcium ion transport (GO:0060401)	0.13986172508445818	F2R
+positive regulation of translation (GO:0045727)	0.13986172508445818	CD28
+regulation of interleukin-2 biosynthetic process (GO:0045076)	0.13986172508445818	CD28
+protein export from nucleus (GO:0006611)	0.13986172508445818	DUSP16
+positive regulation of lipid catabolic process (GO:0050996)	0.13986172508445818	APOC2
+regulation of cytokine production (GO:0001817)	0.13998141708594233	TLR6,HIF1A,CD28
+metal ion homeostasis (GO:0055065)	0.14286941099944686	C3AR1,CCL3,F2R
+G1 phase (GO:0051318)	0.15060238068043233	TBRG4
+nitric oxide mediated signal transduction (GO:0007263)	0.15060238068043233	APOE
+regulation of DNA recombination (GO:0000018)	0.15060238068043233	IL7R
+positive regulation of lipid biosynthetic process (GO:0046889)	0.15060238068043233	APOC2
+positive regulation of angiogenesis (GO:0045766)	0.15060238068043233	HIF1A
+regulation of mitotic metaphase/anaphase transition (GO:0030071)	0.15060238068043233	TPR
+negative regulation of foam cell differentiation (GO:0010745)	0.15060238068043233	ABCA1
+high-density lipoprotein particle remodeling (GO:0034375)	0.15060238068043233	APOE
+activation of NF-kappaB-inducing kinase activity (GO:0007250)	0.15060238068043233	TLR6
+negative regulation of endothelial cell migration (GO:0010596)	0.15060238068043233	APOE
+negative regulation of lipid storage (GO:0010888)	0.15060238068043233	ABCA1
+lysosome organization (GO:0007040)	0.15060238068043233	ABCA1
+peptide cross-linking (GO:0018149)	0.15060238068043233	DSP
+DNA-dependent DNA replication (GO:0006261)	0.15060238068043233	RPA2
+negative regulation of transcription from RNA polymerase II promoter (GO:0000122)	0.1516519031677156	MEF2C,HOXA7,IRF8
+negative regulation of transferase activity (GO:0051348)	0.15411532668002076	APOE,DUSP16
+carboxylic acid catabolic process (GO:0046395)	0.15411532668002076	ARG1,SHMT1
+positive regulation of glucose metabolic process (GO:0010907)	0.16121028193957757	HIF1A
+vacuole organization (GO:0007033)	0.16121028193957757	ABCA1
+negative regulation of blood coagulation (GO:0030195)	0.16121028193957757	APOE
+regulation of protein kinase B signaling cascade (GO:0051896)	0.16121028193957757	F7
+response to stress (GO:0006950)	0.17078582218803706	DPP4,HIF1A,C3AR1,CCL3,APOE,LILRB3,VEGFA,AMFR,TLR6,AHR,KMO,PTPRCAP,F2R
+negative regulation of protein amino acid phosphorylation (GO:0001933)	0.17168705281920882	ENPP1
+negative regulation of coagulation (GO:0050819)	0.17168705281920882	APOE
+negative regulation of endothelial cell proliferation (GO:0001937)	0.17168705281920882	APOE
+regulation of fatty acid oxidation (GO:0046320)	0.17168705281920882	ACSL1
+regulation of cell shape (GO:0008360)	0.17168705281920882	VEGFA
+ER-nuclear signaling pathway (GO:0006984)	0.17168705281920882	AMFR
+positive regulation of anti-apoptosis (GO:0045768)	0.17168705281920882	CD28
+transcription (GO:0006350)	0.17421830603939362	AHR,HIF1A,MAFF,TSC22D1
+secretion by cell (GO:0032940)	0.17620024068355508	CCL3,ABCA1
+regulation of lymphocyte activation (GO:0051249)	0.17620024068355508	IL18,CD28
+polysaccharide metabolic process (GO:0005976)	0.18067752586610547	B3GNT8,CSGALNACT2
+regulation of interleukin-6 production (GO:0032675)	0.18203429761760415	TLR6
+inactivation of MAPK activity (GO:0000188)	0.18203429761760415	DUSP16
+regulation of cell-cell adhesion (GO:0022407)	0.18203429761760415	DPP4
+protein secretion (GO:0009306)	0.18203429761760415	ABCA1
+negative regulation of lipid transport (GO:0032369)	0.18203429761760415	APOC2
+regulation of Wnt receptor signaling pathway (GO:0030111)	0.18203429761760415	SENP2
+elevation of cytosolic calcium ion concentration (GO:0007204)	0.18517219531269344	C3AR1,F2R
+regulation of cell adhesion (GO:0030155)	0.18517219531269344	IL18,DPP4
+triglyceride metabolic process (GO:0006641)	0.19225360121623447	APOE
+negative regulation of specific transcription from RNA polymerase II promoter (GO:0010553)	0.19225360121623447	MEF2C
+protein import into nucleus, translocation (GO:0000060)	0.19225360121623447	F2R
+response to endoplasmic reticulum stress (GO:0034976)	0.19225360121623447	AMFR
+positive regulation of calcium ion transport (GO:0051928)	0.19225360121623447	P2RX3
+protein polyubiquitination (GO:0000209)	0.19225360121623447	AMFR
+metabolic process (GO:0008152)	0.19472933378607554	MMP14,IL18,HIF1A,RABGGTA,APOE,AMFR,FUS,GBE1,AMBP,CD28,AHR,KMO,BMX,TST,RPA2,CSGALNACT2,PTPRO,MINPP1,SHMT1,REPIN1,HDC,COX6A2,CKB,INPPL1,APOBEC1,MAFF,ARG1,FABP5,OLR1,DSP,AOAH,PRKD3,IGFBP4,TLK2,FBXW11,SLC2A3,TSC22D1,ENPP1,JMJD6,B3GNT8,F2R
+cytosolic calcium ion homeostasis (GO:0051480)	0.19874949550116225	C3AR1,F2R
+nucleotide-excision repair, DNA gap filling (GO:0006297)	0.20234652929651406	RPA2
+exocytosis (GO:0006887)	0.20234652929651406	CCL3
+positive regulation of proteolysis (GO:0045862)	0.20234652929651406	APOE
+mesoderm development (GO:0007498)	0.20234652929651406	BMX
+platelet activation (GO:0030168)	0.20234652929651406	F2R
+cellular amino acid derivative metabolic process (GO:0006575)	0.20330280918836233	CKB,KMO
+protein transport (GO:0015031)	0.21229685477717603	ABCA1,DUSP16,TPR,F2R
+regulation of glucose import (GO:0046324)	0.21231462858376218	ENPP1
+regulation of anti-apoptosis (GO:0045767)	0.21231462858376218	CD28
+nucleocytoplasmic transport (GO:0006913)	0.21703113580608233	TPR,DUSP16
+catabolic process (GO:0009056)	0.21726259605723267	ARG1,MMP14,SHMT1,OLR1,AMFR,ENPP1,AMBP,TST,RPA2
+establishment of protein localization (GO:0045184)	0.21754759839491744	ABCA1,DUSP16,TPR,F2R
+generation of precursor metabolites and energy (GO:0006091)	0.2205407951883775	ENPP1,GBE1,COX6A2
+cell adhesion (GO:0007155)	0.2208071136151234	PTPRF,CD34,CD72,AMBP,LPXN,NINJ1
+positive regulation of JAK-STAT cascade (GO:0046427)	0.2221594270676624	F2R
+regulation of bone mineralization (GO:0030500)	0.2221594270676624	ENPP1
+protein tetramerization (GO:0051262)	0.2221594270676624	SHMT1
+negative regulation of transport (GO:0051051)	0.22623066803229086	ENPP1,APOC2
+protein ubiquitination (GO:0016567)	0.2308418410252907	AMFR,FBXW11
+negative regulation of gene-specific transcription (GO:0032582)	0.23188243422866783	MEF2C
+positive regulation of JUN kinase activity (GO:0043507)	0.23188243422866783	TLR6
+positive regulation of mitosis (GO:0045840)	0.23188243422866783	CD28
+positive regulation of MAPKKK cascade (GO:0043410)	0.23188243422866783	F2R
+positive regulation of protein catabolic process (GO:0045732)	0.23188243422866783	APOE
+epidermis development (GO:0008544)	0.23545942922814878	DSP,FABP5
+protein oligomerization (GO:0051259)	0.24008256637418854	AMFR,SHMT1
+G-protein signaling, coupled to cyclic nucleotide second messenger (GO:0007187)	0.24008256637418854	CALCRL,PTGER4
+embryonic development (GO:0009790)	0.24148514126549986	LSR
+nucleotide-excision repair, DNA damage removal (GO:0000718)	0.24148514126549986	RPA2
+response to reactive oxygen species (GO:0000302)	0.24148514126549986	APOE
+amino acid transport (GO:0006865)	0.24148514126549986	SLC1A4
+regulation of phosphorylation (GO:0042325)	0.24668375777711712	APOE,ENPP1,DUSP16,TLR6,PRKD3
+regulation of protein kinase activity (GO:0045859)	0.24975469137724715	APOE,DUSP16,TLR6,PRKD3
+regulation of neuron differentiation (GO:0045664)	0.2509690212967819	APOE
+nucleotide metabolic process (GO:0009117)	0.2539769091744649	ENPP1,KMO
+regulation of gene-specific transcription (GO:0032583)	0.2539769091744649	MEF2C,HIF1A
+keratinocyte differentiation (GO:0030216)	0.2603355296050164	DSP
+negative regulation of phosphorylation (GO:0042326)	0.2603355296050164	ENPP1
+cell growth (GO:0016049)	0.2603355296050164	DDX5
+positive regulation of catalytic activity (GO:0043085)	0.2622053940087581	APOE,TLR6,HIF1A,APOC2,PRKD3,F2R
+immune system process (GO:0002376)	0.26422532749141514	DPP4,IL7R,IL18,PTGER4,CHD7,CD34,CD28,TLR6,IRF8
+second-messenger-mediated signaling (GO:0019932)	0.2672347861444158	APOE,CALCRL,PTGER4
+skeletal system development (GO:0001501)	0.26789190271746316	CHD7,IGFBP4
+Ras protein signal transduction (GO:0007265)	0.26789190271746316	APOE,ABCA1
+protein import into nucleus (GO:0006606)	0.2695861038165056	TPR
+cellular response to insulin stimulus (GO:0032869)	0.2695861038165056	ENPP1
+protein modification by small protein conjugation (GO:0032446)	0.2725312767529733	AMFR,FBXW11
+regulation of chromosome organization (GO:0033044)	0.2787221641578392	TLK2
+response to biotic stimulus (GO:0009607)	0.28081153321020436	TLR6,AMFR,IFNGR2
+regulation of calcium ion transport (GO:0051924)	0.28774511361538535	P2RX3
+nuclear import (GO:0051170)	0.28774511361538535	TPR
+regulation of JAK-STAT cascade (GO:0046425)	0.28774511361538535	F2R
+response to chemical stimulus (GO:0042221)	0.2880112386354771	DPP4,HIF1A,CCL3,APOE,STC2,VEGFA,AMFR,ENPP1,AHR
+cell-cell signaling (GO:0007267)	0.2901750448199226	APOE,STC2,IL1F9,IL18,CCL3,SLC1A4
+response to insulin stimulus (GO:0032868)	0.30545720700856516	ENPP1
+growth (GO:0040007)	0.31414907269111264	DDX5
+defense response to bacterium (GO:0042742)	0.31414907269111264	TLR6
+regulation of ossification (GO:0030278)	0.31414907269111264	ENPP1
+negative regulation of signal transduction (GO:0009968)	0.3141746971069106	AMBP,ENPP1
+intracellular protein transport (GO:0006886)	0.31499948156034335	DUSP16,TPR,F2R
+regulation of protein amino acid phosphorylation (GO:0001932)	0.3187778441727668	TLR6,ENPP1
+negative regulation of transcription, DNA-dependent (GO:0045892)	0.32185997708974773	MEF2C,HOXA7,IRF8
+regulation of inflammatory response (GO:0050727)	0.3227332713952524	APOE
+protein targeting (GO:0006605)	0.32796283377033925	TPR,DUSP16
+regulation of endocytosis (GO:0030100)	0.3395839316815074	APOC2
+regulation of immune response (GO:0050776)	0.3462329879031101	AMBP,CD28
+cell cycle (GO:0007049)	0.34785298533299286	AHR
+leukocyte migration (GO:0050900)	0.34785298533299286	CD34
+vesicle organization (GO:0016050)	0.34785298533299286	ABCA1
+defense response (GO:0006952)	0.3540108198308979	LILRB3,TLR6,C3AR1,CCL3,PTPRCAP
+regulation of proteolysis (GO:0030162)	0.3560195565165786	APOE
+G-protein signaling, coupled to cAMP nucleotide second messenger (GO:0007188)	0.3560195565165786	PTGER4
+DNA replication (GO:0006260)	0.3598328997939641	RPA2,REPIN1
+regulation of mitotic cell cycle (GO:0007346)	0.3598328997939641	TPR,CD28
+positive regulation of cytokine production (GO:0001819)	0.36408490228901863	HIF1A
+response to unfolded protein (GO:0006986)	0.36408490228901863	AMFR
+negative regulation of cell migration (GO:0030336)	0.36408490228901863	APOE
+positive regulation of cell cycle (GO:0045787)	0.37205026443823036	CD28
+regulation of tissue remodeling (GO:0034103)	0.37205026443823036	ENPP1
+blood coagulation (GO:0007596)	0.3799168696798774	F7
+nuclear export (GO:0051168)	0.3799168696798774	DUSP16
+response to nutrient (GO:0007584)	0.3799168696798774	STC2
+purine nucleotide metabolic process (GO:0006163)	0.3799168696798774	ENPP1
+response to bacterium (GO:0009617)	0.3799168696798774	TLR6
+small GTPase mediated signal transduction (GO:0007264)	0.3867172337671189	APOE,ABCA1
+carboxylic acid transport (GO:0046942)	0.3876859298279605	SLC1A4
+mitotic cell cycle checkpoint (GO:0007093)	0.3876859298279605	TPR
+negative regulation of cell motion (GO:0051271)	0.3876859298279605	APOE
+receptor-mediated endocytosis (GO:0006898)	0.3876859298279605	APOE
+regulation of angiogenesis (GO:0045765)	0.3876859298279605	HIF1A
+cAMP-mediated signaling (GO:0019933)	0.3876859298279605	PTGER4
+response to protein stimulus (GO:0051789)	0.3876859298279605	AMFR
+membrane fusion (GO:0006944)	0.3953586419818182	GCA
+activation of caspase activity (GO:0006919)	0.3953586419818182	F2R
+humoral immune response (GO:0006959)	0.3953586419818182	CD28
+positive regulation of gene expression (GO:0010628)	0.39941592737389375	MEF2C,TCF4,HIF1A,F2R
+amine transport (GO:0015837)	0.402936188717752	SLC1A4
+response to wounding (GO:0009611)	0.4105096730411659	C3AR1,CCL3,F2R
+regulation of transcription from RNA polymerase II promoter (GO:0006357)	0.4165295326275385	MEF2C,MYCN,HIF1A,HOXA7,IRF8
+endosome transport (GO:0016197)	0.41781044454159033	ABCA1
+hemostasis (GO:0007599)	0.42510944762479	F7
+positive regulation of caspase activity (GO:0043280)	0.42510944762479	F2R
+female pregnancy (GO:0007565)	0.42510944762479	AMBP
+calcium ion transport (GO:0006816)	0.42510944762479	F2R
+establishment of localization in cell (GO:0051649)	0.42678502796361983	DUSP16,CCL3,ABCA1,APOE,TPR,F2R
+anion transport (GO:0006820)	0.4323178736351758	ENPP1
+regulation of catalytic activity (GO:0050790)	0.4325974938354067	DUSP16,HIF1A,APOC2,APOE,TLR6,PRKD3,F2R
+positive regulation of protein kinase activity (GO:0045860)	0.4346824458908515	TLR6,PRKD3
+positive regulation of kinase activity (GO:0033674)	0.4346824458908515	TLR6,PRKD3
+positive regulation of cellular protein metabolic process (GO:0032270)	0.4346824458908515	APOE,CD28
+regulation of protein catabolic process (GO:0042176)	0.43943683500781233	APOE
+digestion (GO:0007586)	0.43943683500781233	ACSL1
+intracellular transport (GO:0046907)	0.441372048329852	APOE,DUSP16,ABCA1,TPR,F2R
+immune response (GO:0006955)	0.4425268135624026	IL7R,IL18,PTGER4,CD28,TLR6,IRF8
+secretion (GO:0046903)	0.4431938515174264	CCL3,ABCA1
+positive regulation of phospholipase activity (GO:0010518)	0.4464674306828944	APOC2
+regulation of specific transcription from RNA polymerase II promoter (GO:0010551)	0.4464674306828944	MEF2C
+regulation of apoptosis (GO:0042981)	0.44925191193910463	MEF2C,CIAPIN1,F7,APOE,VEGFA,F2R
+negative regulation of cell proliferation (GO:0008285)	0.45040013502895515	APOE,GPNMB,F2R
+positive regulation of protein metabolic process (GO:0051247)	0.4516355629272205	APOE,CD28
+positive regulation of hydrolase activity (GO:0051345)	0.4516355629272205	APOC2,F2R
+protein modification process (GO:0006464)	0.4542971493606035	TLK2,PTPRO,FBXW11,RABGGTA,AMFR,JMJD6,DSP,BMX,PRKD3,F2R
+positive regulation of transcription, DNA-dependent (GO:0045893)	0.45694954207368577	TCF4,HIF1A,F2R
+negative regulation of cell cycle (GO:0045786)	0.460267854058704	TPR
+sulfur metabolic process (GO:0006790)	0.460267854058704	ENPP1
+positive regulation of transferase activity (GO:0051347)	0.46416357153801047	TLR6,PRKD3
+transport (GO:0006810)	0.4705531779390267	DUSP16,CCL3,ABCA1,SLC1A4,APOE,PPBP,TPR,SLC2A3,SLC40A1,APOC2,ENPP1,TM9SF2,F2R
+cell motion (GO:0006928)	0.49237337606370907	CD34,AMFR,CCL3
+response to virus (GO:0009615)	0.4932969061073422	IFNGR2
+protein amino acid phosphorylation (GO:0006468)	0.4940809342079239	TLK2,BMX,PRKD3,F2R
+positive regulation of gene-specific transcription (GO:0043193)	0.4996585680446014	HIF1A
+regulation of cAMP metabolic process (GO:0030814)	0.4996585680446014	ABCA1
+regulation of cAMP biosynthetic process (GO:0030817)	0.4996585680446014	ABCA1
+negative regulation of cell growth (GO:0030308)	0.5059411724292787	ENPP1
+response to extracellular stimulus (GO:0009991)	0.5059411724292787	STC2
+regulation of endopeptidase activity (GO:0052548)	0.512145691628353	F2R
+synaptic transmission (GO:0007268)	0.5203556790021148	APOE,SLC1A4
+vesicle-mediated transport (GO:0016192)	0.523593742502463	APOE,CCL3,ABCA1
+muscle organ development (GO:0007517)	0.5243243048376846	MEF2C
+regulation of transcription, DNA-dependent (GO:0006355)	0.5287305977057096	MEF2C,TCF4,MYB,MYCN,HIF1A,HOXA7,IRF8,F2R
+phosphorylation (GO:0016310)	0.5287331519832397	TLK2,BMX,PRKD3,F2R
+negative regulation of growth (GO:0045926)	0.5303002849409046	ENPP1
+positive regulation of MAP kinase activity (GO:0043406)	0.5303002849409046	TLR6
+cell communication (GO:0007154)	0.5336003967456147	IL7R,IL18,CCL3,APOE,VEGFA,AMFR,CD28,PTPRF,LILRB3,IL1F9,IFNGR2,C3AR1,ABCA1,P2RX3,SLC1A4,PTGER4,LPXN,PRKD3,IGFBP4,TLK2,P2RY14,STC2,TLR6,CALCRL
+regulation of peptidase activity (GO:0052547)	0.5362019523512479	F2R
+cellular response to hormone stimulus (GO:0032870)	0.5534701686490627	ENPP1
+cognition (GO:0050890)	0.5537649695207401	RABGGTA,SLC1A4,CHD7
+negative regulation of transcription (GO:0016481)	0.5596654702137055	MEF2C,HOXA7,IRF8
+inflammatory response (GO:0006954)	0.5617128337260555	C3AR1,CCL3
+cell cycle checkpoint (GO:0000075)	0.5646272223100474	TPR
+regulation of translation (GO:0006417)	0.5646272223100474	CD28
+protein complex assembly (GO:0006461)	0.568429815783733	AMFR,LPXN,SHMT1
+cell cycle arrest (GO:0007050)	0.5701018346319392	TBRG4
+regulation of RNA metabolic process (GO:0051252)	0.5708707777778695	MEF2C,TCF4,MYB,MYCN,HIF1A,HOXA7,IRF8,F2R
+nucleobase, nucleoside, nucleotide and nucleic acid metabolic process (GO:0006139)	0.5836864598223843	HIF1A,FUS,AHR,KMO,RPA2,IGFBP4,SHMT1,REPIN1,TSC22D1,ENPP1,MAFF
+central nervous system development (GO:0007417)	0.586120179674938	CHD7
+protein amino acid dephosphorylation (GO:0006470)	0.586120179674938	PTPRO
+neurological system process (GO:0050877)	0.5940849899181393	RABGGTA,SLC1A4,CHD7
+positive regulation of transcription (GO:0045941)	0.6024192260193897	TCF4,HIF1A,F2R
+response to oxidative stress (GO:0006979)	0.6065625004301651	APOE
+endocytosis (GO:0006897)	0.6065625004301651	APOE
+signal transduction (GO:0007165)	0.6107538614713565	IL7R,CCL3,APOE,VEGFA,AMFR,CD28,PTPRF,LILRB3,IFNGR2,C3AR1,ABCA1,P2RX3,PTGER4,LPXN,PRKD3,IGFBP4,TLK2,P2RY14,STC2,TLR6,CALCRL
+dephosphorylation (GO:0016311)	0.611514931977716	PTPRO
+ion transport (GO:0006811)	0.6214331651765744	ENPP1,SLC40A1,F2R
+proteolysis (GO:0006508)	0.6240994869451572	AMFR,MMP14,OLR1
+membrane organization (GO:0016044)	0.6270758417379522	APOE,GCA
+proteasomal ubiquitin-dependent protein catabolic process (GO:0043161)	0.630715175426344	AMFR
+enzyme linked receptor protein signaling pathway (GO:0007167)	0.6398485062050273	PTPRF,VEGFA
+negative regulation of cellular protein metabolic process (GO:0032269)	0.6444961921982909	ENPP1
+regulation of secretion (GO:0051046)	0.6533994972731904	CHD7
+response to external stimulus (GO:0009605)	0.6545750077377572	STC2,C3AR1,CCL3,F2R
+cell migration (GO:0016477)	0.6577680327040176	CD34
+multicellular organismal development (GO:0007275)	0.6583684823768972	ENC1,HOXA9
+carbohydrate metabolic process (GO:0005975)	0.6650357946848325	SLC2A3,B3GNT8,CSGALNACT2
+protein catabolic process (GO:0030163)	0.6674857482465416	AMFR,MMP14,OLR1
+cytoskeleton organization (GO:0007010)	0.6732216476305731	APOE,CCL3
+negative regulation of catalytic activity (GO:0043086)	0.6732216476305731	APOE,DUSP16
+behavior (GO:0007610)	0.6761295874613554	IL18,CCL3
+anatomical structure morphogenesis (GO:0009653)	0.679543143392459	TMEM176B,SLC40A1,F2R
+muscle contraction (GO:0006936)	0.7023689583868971	ASPH
+regulation of cell cycle (GO:0051726)	0.7067602825958025	CD28,TPR
+cell motility (GO:0048870)	0.7171183354643744	CD34
+cation transport (GO:0006812)	0.7198768017472794	SLC40A1,F2R
+organ morphogenesis (GO:0009887)	0.7206911898208292	TMEM176B
+DNA metabolic process (GO:0006259)	0.7224469050986336	REPIN1,RPA2,IGFBP4
+regulation of cell growth (GO:0001558)	0.7242193776861386	ENPP1
+transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	0.7311439577922091	VEGFA
+cell-cell adhesion (GO:0016337)	0.7345414351344731	CD34
+lipid metabolic process (GO:0006629)	0.7368822270710412	FABP5,APOE,APOBEC1,AOAH
+response to hormone stimulus (GO:0009725)	0.7378964163455409	ENPP1
+nuclear mRNA splicing, via spliceosome (GO:0000398)	0.7378964163455409	FUS
+positive regulation of transcription from RNA polymerase II promoter (GO:0045944)	0.7412094274999543	HIF1A
+apoptosis (GO:0006915)	0.7412094274999543	AHR
+RNA splicing, via transesterification reactions (GO:0000375)	0.7412094274999543	FUS
+visual perception (GO:0007601)	0.7444809882418935	RABGGTA
+chemotaxis (GO:0006935)	0.754052069244227	CCL3
+programmed cell death (GO:0012501)	0.754052069244227	AHR
+intracellular signaling cascade (GO:0007242)	0.757665040237948	TLK2,ABCA1,PTGER4,APOE,AMFR,CALCRL
+RNA metabolic process (GO:0016070)	0.7605614385506021	HIF1A,TSC22D1,FUS,AHR,MAFF
+regulation of transcription (GO:0045449)	0.7721380895883663	MEF2C,MYCN,HIF1A,IRF8,TCF4,MYB,HOXA7,F2R
+ubiquitin-dependent protein catabolic process (GO:0006511)	0.7721424144110974	AMFR
+regulation of growth (GO:0040008)	0.7806872679043179	ENPP1
+locomotory behavior (GO:0007626)	0.7834644656867077	CCL3
+proteolysis involved in cellular protein catabolic process (GO:0051603)	0.7862068533014647	AMFR
+cellular protein metabolic process (GO:0044267)	0.7881521991357763	RABGGTA,AMFR,DSP,BMX,PRKD3,TLK2,PTPRO,FBXW11,JMJD6,F2R
+chromatin modification (GO:0016568)	0.7968368597327371	JMJD6
+protein metabolic process (GO:0019538)	0.7988540448284289	MMP14,RABGGTA,OLR1,AMFR,DSP,BMX,PRKD3,TLK2,PTPRO,FBXW11,JMJD6,F2R
+cell proliferation (GO:0008283)	0.8043260120560454	DAB2,IGFBP4
+cell death (GO:0008219)	0.8093914170445752	AHR
+response to abiotic stimulus (GO:0009628)	0.8165523192631166	KMO
+mRNA processing (GO:0006397)	0.8165523192631166	FUS
+regulation of gene expression (GO:0010468)	0.8284635719856219	MEF2C,MYCN,HIF1A,CD28,IRF8,TCF4,MYB,HOXA7,F2R
+mRNA metabolic process (GO:0016071)	0.8701194834629014	FUS
+RNA splicing (GO:0008380)	0.8701194834629014	FUS
+establishment or maintenance of chromatin architecture (GO:0006325)	0.8797333790775121	JMJD6
+induction of apoptosis (GO:0006917)	0.8900624053633663	APOE
+organelle organization (GO:0006996)	0.9242287193153407	CCL3,ABCA1,APOE,JMJD6
+sensory perception (GO:0007600)	0.9290082562436952	RABGGTA
+positive regulation of apoptosis (GO:0043065)	0.9422532063941821	APOE
+chromosome organization (GO:0051276)	0.9437264331685858	JMJD6
+cellular response to stimulus (GO:0051716)	0.9440516881943464	AMFR,ENPP1
+positive regulation of programmed cell death (GO:0043068)	0.9444490352402399	APOE
+RNA processing (GO:0006396)	0.9642390708340757	FUS
+biological_process (GO:0008150)	1.0	ENC1,RABGGTA,GCA,PPBP,FUS,TMEM176B,PTPRCAP,CSGALNACT2,PTPRF,PTPRO,HDC,NINJ1,MAFF,IFNGR2,F7,ACSL1,ABCA1,OLR1,PRKD3,IRF8,IGFBP4,TCF4,FBXW11,CHD7,ENPP1,MEF2C,MMP14,APOE,GBE1,BMX,TST,TPR,RPA2,MINPP1,SHMT1,REPIN1,APOC2,COX6A2,CKB,IL1F9,HOXA7,HOXA9,TM9SF2,ARG1,MYCN,P2RX3,SLC1A4,DSP,DPP4,SLC2A3,ASPH,TSC22D1,STC2,B3GNT8,F2R,DUSP16,HIF1A,SDC1,VEGFA,AMFR,AMBP,SENP2,DAB2,SLC40A1,ECM1,INPPL1,APOBEC1,LEPROT,GPNMB,OLFM1,AOAH,TLK2,TBRG4,JMJD6,TLR6,IL7R,IL18,CCL3,CD34,CD72,DDX5,CD28,AHR,KMO,CIAPIN1,LILRB3,LSR,TFRC,C3AR1,DNAJA2,FABP5,PTGER4,C1QC,LPXN,MYB,P2RY14,CALCRL

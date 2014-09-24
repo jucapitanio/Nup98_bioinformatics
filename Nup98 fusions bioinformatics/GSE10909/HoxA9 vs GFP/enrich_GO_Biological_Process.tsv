@@ -1,0 +1,486 @@
+Term	P-value	Genes
+regulation of lymphocyte activation (GO:0051249)	0.0025540593201130676	SLA2,CD27,CD28,IL6,LAT,IRF4
+regulation of protein transport (GO:0051223)	0.00427379455057987	UHMK1,CD27,MDFI,IL6,TNFSF4,TGFBR1
+signal transduction (GO:0007165)	0.004382377012977229	MKNK1,GNA14,SLA2,NRGN,CD7,CD36,CAMK1,PTPLAD1,IL1RL1,IL1RL2,KIT,CD27,CD28,GRIA3,FCGR2B,FGFR1,NEDD9,NRIP1,PECAM1,PTPRF,NPHP1,TGFBR1,GNAZ,SRPK2,FFAR2,CCL22,LAT,LBP,FLT3,PDGFRB,MED1,PAG1,ARHGAP5,HIPK2,USP9X,FGF3,IL6,P2RY6,PTGER4,TNFSF4,TNFSF9,PEX11A,EPHA3,PRKACB,PRKD3,IGFBP5,CLNK,ANGPT1,PITPNC1,STK25,HOMER2,TLR4,CALCRL
+protein amino acid phosphorylation (GO:0006468)	0.005055896261220843	PDGFRB,CAMK1,PTPLAD1,UHMK1,TGFBR1,SRPK2,MKNK1,SNRK,RNASEL,PRKACB,FGFR1,MYLK,PRKCB,PRKD3
+regulation of establishment of protein localization (GO:0070201)	0.005576440900697762	UHMK1,CD27,MDFI,IL6,TNFSF4,TGFBR1
+regulation of immune response (GO:0050776)	0.006426388449169315	PVR,LBP,SLA2,CD28,IL6,TNFSF4,IRF4
+regulation of protein localization (GO:0032880)	0.006728533454794609	UHMK1,CD27,MDFI,IL6,TNFSF4,TGFBR1
+adaptive immune response (GO:0002250)	0.007248192183319462	SLA2,TLR4,CD27
+cell structure disassembly during apoptosis (GO:0006921)	0.007248192183319462	GZMB,PMAIP1,CASP3
+phosphorylation (GO:0016310)	0.007280368081471137	PDGFRB,CAMK1,PTPLAD1,UHMK1,TGFBR1,SRPK2,MKNK1,SNRK,RNASEL,PRKACB,FGFR1,MYLK,PRKCB,PRKD3
+regulation of nucleocytoplasmic transport (GO:0046822)	0.00847328850445598	UHMK1,CD27,MDFI,TGFBR1
+positive regulation of metabolic process (GO:0009893)	0.008550484201193798	MEF2C,ARF6,TGFBR1,ABHD5,SOAT1,IL6,LBP,ETS1,ENY2,MED1,SEC14L2,CD28,TLR4,SOX4,NRIP1,HIPK2,IRF4,SH3D19
+regulation of cell differentiation (GO:0045595)	0.00914503447584509	TLR4,SERPINF1,HOXA7,ETS1,MSR1,CDK6,CD27,IL6,IRF4
+regulation of gene expression (GO:0010468)	0.009521024151012292	MEF2C,MYCN,IL6,ATRX,PAWR,SLA2,TNFSF4,ID2,KLF7,ETS1,ZEB2,CD28,NRIP1,IRF4,IGFBP5,TGFBR1,CDK6,HMGA2,TSC22D3,H2AFY2,TULP4,ENY2,MED1,SEC14L2,LANCL2,SOX4,HOXA7,RUNX2,EIF4G1,HIPK2,GRLF1
+response to molecule of bacterial origin (GO:0002237)	0.010991927731583603	IL6,TLR4,LBP
+positive regulation of MAPKKK cascade (GO:0043410)	0.012445201554869985	IL6,ADRB2,HIPK2
+T cell activation (GO:0042110)	0.013047150209512026	CD28,CD7,SLA2,IRF4
+phosphate metabolic process (GO:0006796)	0.013707908113167477	TGFBR1,SRPK2,MKNK1,SNRK,DUSP3,RNASEL,PDGFRB,CAMK1,PTPLAD1,UHMK1,PRKACB,FGFR1,PTPN2,MYLK,PRKCB,PRKD3
+negative regulation of transcription (GO:0016481)	0.014199522331454637	MEF2C,ZEB2,LANCL2,HOXA7,RUNX2,PAWR,SLA2,NRIP1,TNFSF4,ID2,GRLF1
+cell activation (GO:0001775)	0.014901383245129598	TLR4,LBP,SLA2,CD7,CD28,IL6,IRF4
+leukocyte activation (GO:0045321)	0.01831708321209372	TLR4,LBP,SLA2,CD28,CD7,IRF4
+regulation of transcription (GO:0045449)	0.019527550739089582	MEF2C,MYCN,IL6,ATRX,PAWR,SLA2,TNFSF4,ID2,KLF7,ETS1,ZEB2,NRIP1,IRF4,TGFBR1,HMGA2,TSC22D3,TULP4,ENY2,MED1,SEC14L2,LANCL2,SOX4,HOXA7,RUNX2,HIPK2,GRLF1
+positive regulation of immune system process (GO:0002684)	0.021866339643169985	PVR,LBP,SLA2,CD27,CD28,IL6
+regulation of erythrocyte differentiation (GO:0045646)	0.022053281716819566	ETS1,CDK6
+regulation of T cell activation (GO:0050863)	0.023175102150152553	CD28,IL6,LAT,IRF4
+regulation of myeloid cell differentiation (GO:0045637)	0.023175102150152553	MSR1,TLR4,CDK6,ETS1
+positive regulation of gene expression (GO:0010628)	0.025996487413908007	MEF2C,TGFBR1,ETS1,ENY2,MED1,SEC14L2,IL6,SOX4,NRIP1,HIPK2,IRF4
+cellular iron ion homeostasis (GO:0006879)	0.026096572760802867	TFRC,HFE
+fructose metabolic process (GO:0006000)	0.026096572760802867	SORD,ALDOC
+nucleotide-sugar metabolic process (GO:0009225)	0.026096572760802867	CSGALNACT1,SLC35A3
+defense response to Gram-positive bacterium (GO:0050830)	0.026096572760802867	IL6,LBP
+positive regulation of inflammatory response (GO:0050729)	0.026096572760802867	IL6,LBP
+cell communication (GO:0007154)	0.027836391984967655	MKNK1,GNA14,SLA2,NRGN,CD7,CD36,CAMK1,PTPLAD1,IL1RL1,IL1RL2,KIT,CD27,CD28,GRIA3,FCGR2B,FGFR1,NEDD9,NRIP1,PECAM1,PTPRF,NPHP1,TGFBR1,GNAZ,SRPK2,FFAR2,CCL22,LAT,LBP,FLT3,PDGFRB,MED1,PAG1,ARHGAP5,HIPK2,USP9X,FGF3,IL6,P2RY6,PTGER4,TNFSF4,TNFSF9,PEX11A,EPHA3,PRKACB,PRKD3,IGFBP5,CLNK,ANGPT1,PITPNC1,STK25,HOMER2,TLR4,CALCRL
+regulation of MAPKKK cascade (GO:0043408)	0.027927765739329626	ADRB2,HIPK2,PTPLAD1,IL6
+positive regulation of cell motion (GO:0051272)	0.027927765739329626	IL6,TGFBR1,ETS1,PDGFRB
+cell surface receptor linked signal transduction (GO:0007166)	0.02937195570777471	PTPRF,TGFBR1,GNAZ,FGF3,FFAR2,IL6,P2RY6,LAT,LBP,PTGER4,SLA2,CD7,FLT3,HOMER2,CD27,CD28,GRIA3,PRKACB,FGFR1,NEDD9,CALCRL,PRKD3,USP9X
+positive regulation of cell differentiation (GO:0045597)	0.029399044151789074	MSR1,SERPINF1,CD27,IL6,ETS1
+lipid transport (GO:0006869)	0.029631668955266165	MSR1,CD36,ABCD3,SOAT1
+defense response to bacterium (GO:0042742)	0.0303157975088977	TLR4,LBP,IL6
+iron ion homeostasis (GO:0055072)	0.03041403053189115	TFRC,HFE
+positive regulation of translation (GO:0045727)	0.03041403053189115	IL6,CD28
+regulation of interleukin-2 biosynthetic process (GO:0045076)	0.03041403053189115	IRF4,CD28
+regulation of inflammatory response (GO:0050727)	0.03283720728709341	LBP,IL6,CMA1
+regulation of cell-matrix adhesion (GO:0001952)	0.03981814033367815	CD36,CDK6
+response to lipopolysaccharide (GO:0032496)	0.04487923568135739	TLR4,LBP
+positive regulation of anti-apoptosis (GO:0045768)	0.04487923568135739	IL6,CD28
+positive regulation of cellular protein metabolic process (GO:0032270)	0.04654014297013941	ARF6,TGFBR1,CD28,SOAT1,IL6,SH3D19
+positive regulation of transcription (GO:0045941)	0.046751091931120745	TGFBR1,ETS1,ENY2,MED1,SEC14L2,IL6,SOX4,NRIP1,HIPK2,IRF4
+regulation of interleukin-6 production (GO:0032675)	0.050163359427937905	IL6,LBP
+positive regulation of protein metabolic process (GO:0051247)	0.05295944044190358	ARF6,TGFBR1,CD28,SOAT1,IL6,SH3D19
+response to bacterium (GO:0009617)	0.05340659240145211	TLR4,LBP,IL6
+regulation of cell proliferation (GO:0042127)	0.05409807657187613	TGFBR1,IL6,SESN1,PAWR,CDK6,NDN,TNFSF4,FLT3,PDGFRB,COL18A1,ETS1,CD28,SOX4,IGFBP5
+detection of biotic stimulus (GO:0009595)	0.05565877392952228	TLR4,LBP
+hemopoiesis (GO:0030097)	0.05565877392952228	FLT3,AHSP
+glutamate signaling pathway (GO:0007215)	0.05565877392952228	GRIA3,HOMER2
+receptor-mediated endocytosis (GO:0006898)	0.05674939845615656	MSR1,HFE,ADRB2
+nervous system development (GO:0007399)	0.057669080924341885	MEF2C,ENC1,OLFM1,ZEB2,NRGN,GPM6B,AVIL,CSGALNACT1
+regulation of translation (GO:0006417)	0.05987967198097119	EIF4G1,CD28,IL6,IGFBP5
+regulation of cell motion (GO:0051270)	0.060719087522202946	PDGFRB,IL6,TGFBR1,ETS1,IGFBP5
+positive regulation of T cell proliferation (GO:0042102)	0.061354136487228796	IL6,CD28
+regulation of anti-apoptosis (GO:0045767)	0.06723848799560073	IL6,CD28
+positive regulation of cell proliferation (GO:0008284)	0.06797127719713822	PDGFRB,TGFBR1,CD28,IL6,SOX4,CDK6,TNFSF4,FLT3
+negative regulation of cell proliferation (GO:0008285)	0.06953019857422887	COL18A1,ETS1,IL6,SESN1,PAWR,CDK6,NDN,IGFBP5
+cell death (GO:0008219)	0.07126709095508303	PMAIP1,SGPL1,RRAGA,GZMB,IL6,TNFSF9
+cell motility (GO:0048870)	0.07184671385061467	PDGFRB,TGFBR1,ETS1,SORD,IL6
+positive regulation of transcription, DNA-dependent (GO:0045893)	0.07271375658922595	ETS1,ENY2,MED1,SEC14L2,IL6,SOX4,NRIP1,HIPK2
+positive regulation of intracellular transport (GO:0032388)	0.07330124186843394	TGFBR1,CD27
+regulation of cytokine production (GO:0001817)	0.07659157180209376	TLR4,LBP,CD28,IL6,IRF4
+negative regulation of gene-specific transcription (GO:0032582)	0.07953217328222581	MEF2C,TNFSF4
+positive regulation of innate immune response (GO:0045089)	0.07953217328222581	PVR,LBP
+protein deubiquitination (GO:0016579)	0.07953217328222581	ENY2,USP9X
+immune response (GO:0006955)	0.082173658240118	CLNK,CCL22,IL6,LAT,LBP,PTGER4,SLA2,CD7,CRISP3,ETS1,CD27,CD28,FCGR2B,TLR4
+endocytosis (GO:0006897)	0.0824478243979077	MSR1,ITSN1,ADRB2,HFE
+regulation of cytokine biosynthetic process (GO:0042035)	0.08278157917005848	TLR4,CD28,IRF4
+protein modification process (GO:0006464)	0.08562790215351222	TGFBR1,SRPK2,MKNK1,SNRK,DUSP3,RNASEL,GALNT7,TSPAN17,CAMK1,PDGFRB,PTPLAD1,UHMK1,ENY2,PRKACB,FGFR1,B3GNT5,PTPN2,MYLK,METAP2,PRKCB,PRKD3,USP9X
+amino sugar metabolic process (GO:0006040)	0.08592140868433361	SLC35A3,CSGALNACT1
+embryonic development (GO:0009790)	0.08592140868433361	MDFI,TGFBR1
+positive regulation of mononuclear cell proliferation (GO:0032946)	0.08592140868433361	IL6,CD28
+negative regulation of transcription from RNA polymerase II promoter (GO:0000122)	0.08657773776596825	MEF2C,HOXA7,PAWR,SLA2,NRIP1
+membrane lipid metabolic process (GO:0006643)	0.08685635477874698	B3GNT5,B4GALT4,SGPL1
+enzyme linked receptor protein signaling pathway (GO:0007167)	0.08713033692740156	PTPRF,FGFR1,TGFBR1,FGF3,USP9X,CD7,FLT3
+regulation of transcription, DNA-dependent (GO:0006355)	0.08858856968852381	MEF2C,MYCN,IL6,ATRX,PAWR,SLA2,HMGA2,TSC22D3,TNFSF4,KLF7,TULP4,ETS1,ENY2,MED1,SEC14L2,SOX4,HOXA7,NRIP1,HIPK2
+apoptosis (GO:0006915)	0.08917645252448554	PMAIP1,SGPL1,GZMB,IL6,TNFSF9
+regulation of gene-specific transcription (GO:0032583)	0.09185218306204168	MEF2C,IL6,TNFSF4,ETS1
+I-kappaB kinase/NF-kappaB cascade (GO:0007249)	0.09245941559468525	PTPLAD1,TLR4
+intracellular signaling cascade (GO:0007242)	0.09434318978054043	CLNK,SRPK2,MKNK1,P2RY6,LAT,PTGER4,SLA2,CD36,PTPLAD1,MED1,TLR4,PRKACB,PAG1,FGFR1,ARHGAP5,CALCRL,NRIP1,HIPK2
+second-messenger-mediated signaling (GO:0019932)	0.09512961737215364	PRKACB,CD36,P2RY6,LAT,CALCRL,PTGER4
+activation of protein kinase activity (GO:0032147)	0.09525465678825756	TGFBR1,ADRB2,PRKD3
+protein kinase cascade (GO:0007243)	0.09748919835399301	TLR4,PRKACB,FGFR1,PTPLAD1,SRPK2,MKNK1
+cell adhesion (GO:0007155)	0.09756112264436032	POSTN,PTPRF,CD36,ARF6,NPHP1,PKP2,PLXNC1,NEDD9,ITGB7,EMR1,ARHGAP5
+positive regulation of cell adhesion (GO:0045785)	0.09913699266811926	CDK6,CD36
+integrin-mediated signaling pathway (GO:0007229)	0.09913699266811926	NEDD9,LAT
+multicellular organismal development (GO:0007275)	0.09950515788861505	ENC1,SERPINF1,HOXA9,HLF,HLX,HMGA2,ID2
+negative regulation of apoptosis (GO:0043066)	0.09950515788861505	MEF2C,KRT18,SOX4,TGFBR1,CASP3,CD27,IL6
+programmed cell death (GO:0012501)	0.09997224139479774	PMAIP1,SGPL1,GZMB,IL6,TNFSF9
+negative regulation of programmed cell death (GO:0043069)	0.10383516661110928	MEF2C,KRT18,SOX4,TGFBR1,CASP3,CD27,IL6
+positive regulation of immune response (GO:0050778)	0.10397176150049839	PVR,LBP,SLA2
+lipid catabolic process (GO:0016042)	0.10397176150049839	SGPL1,HSD17B11,HACL1
+cyclic-nucleotide-mediated signaling (GO:0019935)	0.10860344006752341	PRKACB,CALCRL,PTGER4,CD36
+cell recognition (GO:0008037)	0.11287564988306112	CSGALNACT1,PECAM1
+fibroblast growth factor receptor signaling pathway (GO:0008543)	0.11287564988306112	FGFR1,FGF3
+regulation of RNA metabolic process (GO:0051252)	0.1144931106067725	MEF2C,MYCN,IL6,ATRX,PAWR,SLA2,HMGA2,TSC22D3,TNFSF4,KLF7,TULP4,ETS1,ENY2,MED1,SEC14L2,SOX4,HOXA7,NRIP1,HIPK2
+regulation of innate immune response (GO:0045088)	0.11991989729999378	PVR,LBP
+regulation of signal transduction (GO:0009966)	0.12595622473056867	PTPLAD1,ARF6,TGFBR1,ECM1,RGS3,IL6,LBP,SLA2,ADRB2,HIPK2,IGFBP5
+negative regulation of cell differentiation (GO:0045596)	0.1270547366161605	TLR4,CDK6,HOXA7
+detection of chemical stimulus (GO:0009593)	0.12707003137681053	TLR4,LBP
+cell chemotaxis (GO:0060326)	0.13431836651057436	IL6,PDGFRB
+myeloid cell differentiation (GO:0030099)	0.13431836651057436	SOAT1,SNRK
+negative regulation of transcription, DNA-dependent (GO:0045892)	0.13651239301476947	MEF2C,HOXA7,PAWR,SLA2,NRIP1,TNFSF4
+intracellular receptor-mediated signaling pathway (GO:0030522)	0.13676122191478363	SLA2,NRIP1,MED1
+cellular defense response (GO:0006968)	0.13676122191478363	LBP,ITK,IL1RL2
+positive regulation of protein secretion (GO:0050714)	0.14165749399029537	IL6,TNFSF4
+regulation of ossification (GO:0030278)	0.14165749399029537	IL6,CDK6
+defense response (GO:0006952)	0.14563428164480904	CRISP3,IL1RL2,PLA2G7,CCL22,IL6,TLR4,DARC,ITK,TPSAB1,LBP
+extracellular matrix organization (GO:0030198)	0.14908027375439883	TGFBR1,CSGALNACT1
+regulation of JNK cascade (GO:0046328)	0.14908027375439883	PTPLAD1,HIPK2
+cholesterol transport (GO:0030301)	0.14908027375439883	MSR1,SOAT1
+negative regulation of transcription factor activity (GO:0043433)	0.14908027375439883	TNFSF4,ID2
+monosaccharide metabolic process (GO:0005996)	0.1497773004003585	SLC35A3,SORD,ALDOC,CSGALNACT1
+regulation of cell adhesion (GO:0030155)	0.1568947259012266	TGFBI,CDK6,CD36
+transforming growth factor beta receptor signaling pathway (GO:0007179)	0.16414952553414824	USP9X,TGFBR1
+positive regulation of T cell activation (GO:0050870)	0.16414952553414824	CD28,IL6
+regulation of G-protein coupled receptor protein signaling pathway (GO:0008277)	0.16414952553414824	ADRB2,RGS3
+negative regulation of DNA binding (GO:0043392)	0.17178298992401414	TNFSF4,ID2
+pattern specification process (GO:0007389)	0.17178298992401414	TGFBR1,PBX3
+regulation of gene expression, epigenetic (GO:0040029)	0.17947407642211327	ATRX,H2AFY2
+G-protein signaling, coupled to cAMP nucleotide second messenger (GO:0007188)	0.17947407642211327	PRKACB,PTGER4
+androgen receptor signaling pathway (GO:0030521)	0.17947407642211327	NRIP1,MED1
+cell cycle arrest (GO:0007050)	0.18324245465710812	RPRM,SESN1,UHMK1
+regulation of transcription factor activity (GO:0051090)	0.18324245465710812	IL6,TNFSF4,ID2
+positive regulation of cytokine production (GO:0001819)	0.1872168726619638	LBP,IL6
+protein amino acid autophosphorylation (GO:0046777)	0.1872168726619638	UHMK1,PDGFRB
+negative regulation of epithelial cell proliferation (GO:0050680)	0.19461398823061296	CDK6
+positive regulation of leukocyte mediated cytotoxicity (GO:0001912)	0.19461398823061296	PVR
+regulation of macrophage activation (GO:0043030)	0.19461398823061296	LBP
+positive regulation of protein polymerization (GO:0032273)	0.19461398823061296	ARF6
+regulation of natural killer cell mediated cytotoxicity (GO:0042269)	0.19461398823061296	PVR
+positive regulation of smooth muscle cell proliferation (GO:0048661)	0.19461398823061296	IL6
+G1 phase of mitotic cell cycle (GO:0000080)	0.19461398823061296	CDK6
+regulation of interleukin-8 biosynthetic process (GO:0045414)	0.19461398823061296	TLR4
+positive regulation of T cell mediated immunity (GO:0002711)	0.19461398823061296	PVR
+positive regulation of transforming growth factor beta receptor signaling pathway (GO:0030511)	0.19461398823061296	HIPK2
+positive regulation of leukocyte chemotaxis (GO:0002690)	0.19461398823061296	IL6
+regulation of tissue remodeling (GO:0034103)	0.1950056901336083	IL6,CDK6
+transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	0.19594652914520297	FGFR1,FGF3,CD7,FLT3
+regulation of transcription from RNA polymerase II promoter (GO:0006357)	0.20173553892543852	MEF2C,KLF7,ETS1,MYCN,MED1,IL6,HOXA7,PAWR,SLA2,NRIP1
+positive regulation of signal transduction (GO:0009967)	0.20470920040054083	TGFBR1,ECM1,LBP,ADRB2,HIPK2,IL6
+vesicle-mediated transport (GO:0016192)	0.20693789389293385	ITSN1,KRT18,HFE,ARF6,MSR1,KIF1C,ADRB2
+positive regulation of transcription from RNA polymerase II promoter (GO:0045944)	0.2092402435959601	ETS1,NRIP1,MED1,IL6
+regulation of angiogenesis (GO:0045765)	0.21069971343240165	IL6,SERPINF1
+cAMP-mediated signaling (GO:0019933)	0.21069971343240165	PRKACB,PTGER4
+negative regulation of endocytosis (GO:0045806)	0.21187005888345845	ARF6
+actin filament bundle formation (GO:0051017)	0.21187005888345845	NEDD9
+hexose biosynthetic process (GO:0019319)	0.21187005888345845	SORD
+positive regulation of tyrosine phosphorylation of Stat3 protein (GO:0042517)	0.21187005888345845	IL6
+gas transport (GO:0015669)	0.21187005888345845	RHAG
+positive regulation of transcription factor import into nucleus (GO:0042993)	0.21187005888345845	CD27
+activation of protein kinase C activity by G-protein coupled receptor protein signaling pathway (GO:0007205)	0.21187005888345845	PRKD3
+glycolipid biosynthetic process (GO:0009247)	0.21187005888345845	B3GNT5
+DNA replication initiation (GO:0006270)	0.21187005888345845	PURA
+negative regulation of transcription factor import into nucleus (GO:0042992)	0.21187005888345845	MDFI
+response to tumor necrosis factor (GO:0034612)	0.21187005888345845	CASP3
+cytoplasmic sequestering of protein (GO:0051220)	0.21187005888345845	MDFI
+N-terminal protein amino acid modification (GO:0031365)	0.21187005888345845	METAP2
+activation of caspase activity (GO:0006919)	0.21859460137894082	PMAIP1,IFT57
+humoral immune response (GO:0006959)	0.21859460137894082	CD28,IL6
+regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)	0.21859460137894082	TGFBR1,HIPK2
+G-protein signaling, coupled to cyclic nucleotide second messenger (GO:0007187)	0.22188092596851844	PRKACB,CALCRL,PTGER4
+regulation of apoptosis (GO:0042981)	0.22309855009856233	MEF2C,TGFBR1,IL6,PAWR,CASP3,KRT18,ETS1,CD27,IFT57,PMAIP1,SOX4,HIPK2
+regulation of protein secretion (GO:0050708)	0.22651486213791108	IL6,TNFSF4
+regulation of DNA binding (GO:0051101)	0.22753361927429253	IL6,TNFSF4,ID2
+histone deubiquitination (GO:0016578)	0.22875855761893155	ENY2
+regulation of viral genome replication (GO:0045069)	0.22875855761893155	CD28
+fat cell differentiation (GO:0045444)	0.22875855761893155	MED1
+regulation of leukocyte mediated cytotoxicity (GO:0001910)	0.22875855761893155	PVR
+positive regulation of foam cell differentiation (GO:0010744)	0.22875855761893155	MSR1
+positive regulation of adaptive immune response (GO:0002821)	0.22875855761893155	PVR
+antigen receptor-mediated signaling pathway (GO:0050851)	0.22875855761893155	SLA2
+DNA methylation (GO:0006306)	0.22875855761893155	ATRX
+endosome to lysosome transport (GO:0008333)	0.22875855761893155	ADRB2
+positive regulation of lipid catabolic process (GO:0050996)	0.22875855761893155	ABHD5
+immune system process (GO:0002376)	0.23153871726035177	CLNK,CCL22,IL6,LAT,LBP,PTGER4,SLA2,CD7,CRISP3,ETS1,CD27,CD28,FCGR2B,TLR4,IRF4
+anatomical structure development (GO:0048856)	0.23770883954862868	MEF2C,TGFBR1,PAPSS2,IL6,ENC1,NRGN,AVIL,FLT3,POSTN,AHSP,OLFM1,ZEB2,GPM6B,FGFR1,B3GNT5,UBE3A,CSGALNACT1
+carbohydrate metabolic process (GO:0005975)	0.24176944024555888	SLC35A3,ALDOC,SORD,SLC2A3,B3GNT5,ALDH1B1,GALNT7,CSGALNACT1
+defense response to virus (GO:0051607)	0.24528726820533714	IL6
+release of cytochrome c from mitochondria (GO:0001836)	0.24528726820533714	PMAIP1
+positive regulation of osteoblast differentiation (GO:0045669)	0.24528726820533714	IL6
+positive regulation of protein complex assembly (GO:0031334)	0.24528726820533714	ARF6
+G1 phase (GO:0051318)	0.24528726820533714	CDK6
+nitric oxide mediated signal transduction (GO:0007263)	0.24528726820533714	CD36
+steroid catabolic process (GO:0006706)	0.24528726820533714	HSD17B11
+regulation of NF-kappaB import into nucleus (GO:0042345)	0.24528726820533714	CD27
+positive regulation of pathway-restricted SMAD protein phosphorylation (GO:0010862)	0.24528726820533714	TGFBR1
+protein-lipid complex assembly (GO:0065005)	0.24528726820533714	SOAT1
+positive regulation of leukocyte migration (GO:0002687)	0.24528726820533714	IL6
+negative regulation of lipid storage (GO:0010888)	0.24528726820533714	ABHD5
+N-acetylglucosamine metabolic process (GO:0006044)	0.24528726820533714	SLC35A3
+cellular aldehyde metabolic process (GO:0006081)	0.24528726820533714	ALDH3A1
+lipid metabolic process (GO:0006629)	0.24696071781238527	HSD17B11,HACL1,ABHD5,SOAT1,B4GALT4,ABCB4,SGPL1,CD36,ABCD2,B3GNT5,PIGN
+positive regulation of caspase activity (GO:0043280)	0.25038213171656787	PMAIP1,IFT57
+positive regulation of protein kinase activity (GO:0045860)	0.2552190647706799	PTPLAD1,TGFBR1,ADRB2,PRKD3
+positive regulation of kinase activity (GO:0033674)	0.2552190647706799	PTPLAD1,TGFBR1,ADRB2,PRKD3
+skeletal system development (GO:0001501)	0.25617425128573246	POSTN,FGFR1,PAPSS2
+Ras protein signal transduction (GO:0007265)	0.25617425128573246	ARHGAP5,PTPLAD1,LAT
+acute-phase response (GO:0006953)	0.26146381055989343	LBP
+positive regulation of macrophage differentiation (GO:0045651)	0.26146381055989343	MSR1
+peptide hormone secretion (GO:0030072)	0.26146381055989343	IL6
+regulation of actin filament polymerization (GO:0030833)	0.26146381055989343	ARF6
+female gamete generation (GO:0007292)	0.26146381055989343	USP9X
+positive regulation of nucleocytoplasmic transport (GO:0046824)	0.26146381055989343	CD27
+regulation of protein kinase B signaling cascade (GO:0051896)	0.26146381055989343	TGFBR1
+regulation of Ras protein signal transduction (GO:0046578)	0.26146381055989343	ARF6
+immune response-activating cell surface receptor signaling pathway (GO:0002429)	0.26146381055989343	SLA2
+cell differentiation (GO:0030154)	0.26196599783812163	RUNX2,MED1,SNRK,CD28,SOAT1
+positive regulation of cell migration (GO:0030335)	0.27432057956259076	IL6,PDGFRB
+regulation of specific transcription from RNA polymerase II promoter (GO:0010551)	0.27432057956259076	MEF2C,ETS1
+regulation of T cell differentiation (GO:0045580)	0.2772956441426845	IRF4
+peptidyl-serine phosphorylation (GO:0018105)	0.2772956441426845	TGFBR1
+kidney development (GO:0001822)	0.2772956441426845	TGFBR1
+negative regulation of intracellular transport (GO:0032387)	0.2772956441426845	MDFI
+positive regulation of fibroblast proliferation (GO:0048146)	0.2772956441426845	CDK6
+immune response-regulating cell surface receptor signaling pathway (GO:0002768)	0.2772956441426845	SLA2
+glucosamine metabolic process (GO:0006041)	0.2772956441426845	SLC35A3
+neuron projection development (GO:0031175)	0.2772956441426845	IL6
+cellular protein metabolic process (GO:0044267)	0.28131262023102316	MKNK1,SNRK,DUSP3,CAMK1,PTPLAD1,PRKACB,FGFR1,METAP2,PRKCB,PRKD3,UBE3A,CSGALNACT1,TGFBR1,SRPK2,RNASEL,GALNT7,TSPAN17,PDGFRB,UHMK1,ENY2,B3GNT5,PTPN2,MYLK,USP9X
+innate immune response (GO:0045087)	0.28229778062014327	LBP,CRISP3
+positive regulation of transferase activity (GO:0051347)	0.28854765464914167	PTPLAD1,TGFBR1,ADRB2,PRKD3
+spliceosome assembly (GO:0000245)	0.29279007137645546	SRPK2
+ceramide metabolic process (GO:0006672)	0.29279007137645546	SGPL1
+inactivation of MAPK activity (GO:0000188)	0.29279007137645546	RGS3
+regulation of pathway-restricted SMAD protein phosphorylation (GO:0060393)	0.29279007137645546	TGFBR1
+lipoprotein particle clearance (GO:0034381)	0.29279007137645546	MSR1
+nucleus organization (GO:0006997)	0.29279007137645546	ETS1
+regulation of cell migration (GO:0030334)	0.2970098563543679	PDGFRB,IL6,IGFBP5
+di-, tri-valent inorganic cation transport (GO:0015674)	0.29822763428877186	HFE,CSN2
+steroid hormone receptor signaling pathway (GO:0030518)	0.29822763428877186	NRIP1,MED1
+positive regulation of secretion (GO:0051047)	0.3061737661416572	IL6,TNFSF4
+membrane organization (GO:0016044)	0.3076038613561015	ITSN1,CRISP1,HFE,MSR1,ADRB2
+collagen fibril organization (GO:0030199)	0.3079542408709475	TGFBR1
+apoptotic mitochondrial changes (GO:0008637)	0.3079542408709475	PMAIP1
+preassembly of GPI anchor in ER membrane (GO:0016254)	0.3079542408709475	PIGN
+negative regulation of specific transcription from RNA polymerase II promoter (GO:0010553)	0.3079542408709475	MEF2C
+cholesterol efflux (GO:0033344)	0.3079542408709475	SOAT1
+glucose transport (GO:0015758)	0.3079542408709475	SLC2A3
+regulation of actin polymerization or depolymerization (GO:0008064)	0.3079542408709475	ARF6
+organic cation transport (GO:0015695)	0.3079542408709475	RHAG
+cell motion (GO:0006928)	0.3087947944181417	PDGFRB,ARF6,TGFBR1,ETS1,SORD,IL6
+negative regulation of signal transduction (GO:0009968)	0.3146519527184429	SLA2,ADRB2,IGFBP5
+regulation of protein amino acid phosphorylation (GO:0001932)	0.3205402941652406	PTPLAD1,IL6,TGFBR1
+activation of JUN kinase activity (GO:0007257)	0.3227951506958402	PTPLAD1
+positive regulation of tyrosine phosphorylation of STAT protein (GO:0042531)	0.3227951506958402	IL6
+positive regulation of proteolysis (GO:0045862)	0.3227951506958402	SH3D19
+positive regulation of cell growth (GO:0030307)	0.3227951506958402	TGFBR1
+positive regulation of cytoskeleton organization (GO:0051495)	0.3227951506958402	ARF6
+platelet activation (GO:0030168)	0.3227951506958402	IL6
+lysosomal transport (GO:0007041)	0.3227951506958402	ADRB2
+cellular alcohol metabolic process (GO:0006066)	0.3287446602244035	SLC35A3,ALDOC,SORD,SOAT1,CSGALNACT1
+positive regulation of protein amino acid phosphorylation (GO:0001934)	0.32990078939418727	IL6,TGFBR1
+response to virus (GO:0009615)	0.32990078939418727	CCL22,IL6
+peptide transport (GO:0015833)	0.3373196514817549	IL6
+proteoglycan metabolic process (GO:0006029)	0.3373196514817549	CSGALNACT1
+regulation of protein binding (GO:0043393)	0.3373196514817549	ADRB2
+regulation of actin filament length (GO:0030832)	0.3373196514817549	ARF6
+glycolipid metabolic process (GO:0006664)	0.3373196514817549	B3GNT5
+positive regulation of gene-specific transcription (GO:0043193)	0.33776339297926644	IL6,ETS1
+transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178)	0.3455984689726882	USP9X,TGFBR1
+positive regulation of JAK-STAT cascade (GO:0046427)	0.35153444956083374	IL6
+DNA damage response, signal transduction by p53 class mediator (GO:0030330)	0.35153444956083374	HIPK2
+fatty acid oxidation (GO:0019395)	0.35153444956083374	HACL1
+retrograde vesicle-mediated transport, Golgi to ER (GO:0006890)	0.35153444956083374	KIF1C
+negative regulation of angiogenesis (GO:0016525)	0.35153444956083374	SERPINF1
+glycosaminoglycan biosynthetic process (GO:0006024)	0.35153444956083374	CSGALNACT1
+post-Golgi vesicle-mediated transport (GO:0006892)	0.35153444956083374	KRT18
+regulation of endopeptidase activity (GO:0052548)	0.3534036022694253	PMAIP1,IFT57
+fatty acid catabolic process (GO:0009062)	0.36544610994812854	HACL1
+positive regulation of JUN kinase activity (GO:0043507)	0.36544610994812854	PTPLAD1
+positive regulation of mitosis (GO:0045840)	0.36544610994812854	CD28
+calcium-mediated signaling (GO:0019722)	0.36544610994812854	LAT
+positive regulation of chemotaxis (GO:0050921)	0.36544610994812854	IL6
+protein amino acid O-linked glycosylation (GO:0006493)	0.36544610994812854	GALNT7
+negative regulation of MAP kinase activity (GO:0043407)	0.36544610994812854	RGS3
+positive regulation of protein catabolic process (GO:0045732)	0.36544610994812854	SH3D19
+protein metabolic process (GO:0019538)	0.3731699087999902	MKNK1,SNRK,DUSP3,CASP3,AHSP,CAMK1,PTPLAD1,PRKACB,FGFR1,METAP2,PRKCB,PRKD3,UBE3A,CSGALNACT1,TGFBR1,SRPK2,RNASEL,GALNT7,TSPAN17,PDGFRB,UHMK1,ENY2,PGCP,B3GNT5,PTPN2,MYLK,USP9X
+regulation of lipid metabolic process (GO:0019216)	0.37661689288668354	ABHD5,SEC14L2
+negative regulation of translation (GO:0017148)	0.37906105931128226	IGFBP5
+peptide metabolic process (GO:0006518)	0.37906105931128226	PGCP
+regulation of peptidase activity (GO:0052547)	0.38428034247065473	PMAIP1,IFT57
+positive regulation of phosphorylation (GO:0042327)	0.38428034247065473	IL6,TGFBR1
+actin cytoskeleton organization (GO:0030036)	0.38511413995313676	NEDD9,ARF6,NPHP1
+glycerophospholipid metabolic process (GO:0006650)	0.39190342067368195	PIGN,ABHD5
+regulation of blood coagulation (GO:0030193)	0.39238558888321745	TLR4
+response to biotic stimulus (GO:0009607)	0.3956973892833085	TLR4,LBP,CCL22,IL6
+response to temperature stimulus (GO:0009266)	0.4054258572861806	GMPR
+cell growth (GO:0016049)	0.4054258572861806	NUPR1
+small GTPase mediated signal transduction (GO:0007264)	0.4083094589835382	PTPLAD1,LAT,ARHGAP5
+inflammatory response (GO:0006954)	0.4102686005726787	LBP,PLA2G7,CCL22,IL6
+cholesterol homeostasis (GO:0042632)	0.4181878933135361	SOAT1
+negative regulation of myeloid cell differentiation (GO:0045638)	0.4181878933135361	TLR4
+striated muscle contraction (GO:0006941)	0.4306775986425715	SMPX
+positive regulation of growth (GO:0045927)	0.4306775986425715	TGFBR1
+chemotaxis (GO:0006935)	0.4369276902727017	PDGFRB,CCL22,IL6
+regulation of protein complex assembly (GO:0043254)	0.44290075052470024	ARF6
+positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731)	0.44290075052470024	IL6
+leukocyte chemotaxis (GO:0030595)	0.44290075052470024	IL6
+regulation of JAK-STAT cascade (GO:0046425)	0.44290075052470024	IL6
+G-protein coupled receptor protein signaling pathway (GO:0007186)	0.44681097356967037	HOMER2,GNAZ,FFAR2,PRKACB,P2RY6,CALCRL,PTGER4,PRKD3
+regulation of protein kinase activity (GO:0045859)	0.44799942155170785	PTPLAD1,TGFBR1,RGS3,ADRB2,PRKD3
+protein amino acid dephosphorylation (GO:0006470)	0.4512398393748147	PTPN2,DUSP3
+positive regulation of NF-kappaB transcription factor activity (GO:0051092)	0.4548630043427566	IL6
+negative regulation of cell adhesion (GO:0007162)	0.4548630043427566	TGFBI
+glycosaminoglycan metabolic process (GO:0030203)	0.4548630043427566	CSGALNACT1
+BMP signaling pathway (GO:0030509)	0.4548630043427566	USP9X
+Rho protein signal transduction (GO:0007266)	0.4548630043427566	ARHGAP5
+cellular ion homeostasis (GO:0006873)	0.45824347741846655	HFE,PRNP,RHAG,TFRC
+detection of stimulus (GO:0051606)	0.4584300281722052	TLR4,LBP
+negative regulation of transport (GO:0051051)	0.4584300281722052	ARF6,MDFI
+positive regulation of protein modification process (GO:0031401)	0.4655658911223827	IL6,TGFBR1
+activation of phospholipase C activity by G-protein coupled receptor protein signaling pathway coupled to IP3 second messenger (GO:0007200)	0.4665698962356764	P2RY6
+regulation of translational initiation (GO:0006446)	0.4665698962356764	EIF4G1
+response to chemical stimulus (GO:0042221)	0.4705958925903404	TGFBR1,CCL22,IL6,STK25,ABCB4,CASP3,LBP,PDGFRB,TULP4,ETS1,TLR4,PMAIP1,PRKACB
+growth (GO:0040007)	0.4780268455336905	NUPR1
+induction of apoptosis by intracellular signals (GO:0008629)	0.4780268455336905	HIPK2
+dephosphorylation (GO:0016311)	0.4866380974214303	PTPN2,DUSP3
+glucose metabolic process (GO:0006006)	0.48923915725692874	SORD
+heart development (GO:0007507)	0.48923915725692874	TGFBR1
+actin filament-based process (GO:0030029)	0.4924973861377137	NEDD9,ARF6,NPHP1
+locomotory behavior (GO:0007626)	0.4924973861377137	PDGFRB,CCL22,IL6
+positive regulation of hydrolase activity (GO:0051345)	0.4924973861377137	PMAIP1,P2RY6,IFT57
+transcription from RNA polymerase II promoter (GO:0006366)	0.497910334748937	ETS1,HLF,TSC22D1
+Golgi vesicle transport (GO:0048193)	0.50039843635343	KIF1C,KRT18
+protein amino acid glycosylation (GO:0006486)	0.5071900876060261	GALNT7,B3GNT5
+regulation of endocytosis (GO:0030100)	0.5109505306496488	ARF6
+one-carbon metabolic process (GO:0006730)	0.5109505306496488	ATRX
+ion homeostasis (GO:0050801)	0.5139888455783058	HFE,PRNP,RHAG,TFRC
+regulation of peptidyl-tyrosine phosphorylation (GO:0050730)	0.5214596520186217	IL6
+positive regulation of specific transcription from RNA polymerase II promoter (GO:0010552)	0.5214596520186217	ETS1
+leukocyte migration (GO:0050900)	0.5214596520186217	IL6
+regulation of phosphorylation (GO:0042325)	0.5252430810469717	PTPLAD1,TGFBR1,RGS3,IL6,ADRB2,PRKD3
+cellular cation homeostasis (GO:0030003)	0.5297653913262097	HFE,PRNP,TFRC
+phospholipid biosynthetic process (GO:0008654)	0.5317442597258331	ABHD5
+hormone-mediated signaling (GO:0009755)	0.5317442597258331	PRKACB
+regulation of proteolysis (GO:0030162)	0.5317442597258331	SH3D19
+lipid homeostasis (GO:0055088)	0.5317442597258331	SOAT1
+response to steroid hormone stimulus (GO:0048545)	0.5317442597258331	IL6
+regulation of MAP kinase activity (GO:0043405)	0.5337528575999307	PTPLAD1,RGS3
+negative regulation of cell migration (GO:0030336)	0.5418091221150436	IGFBP5
+response to drug (GO:0042493)	0.5418091221150436	ABCB4
+positive regulation of apoptosis (GO:0043065)	0.5420063050729594	ETS1,PMAIP1,SOX4,PAWR,HIPK2
+regulation of secretion (GO:0051046)	0.5466653075589535	IL6,TNFSF4
+fatty acid metabolic process (GO:0006631)	0.5466653075589535	HACL1,ABCD2
+anti-apoptosis (GO:0006916)	0.5503728088741073	MEF2C,TGFBR1,CD27
+positive regulation of cell cycle (GO:0045787)	0.5516589068129278	CD28
+response to cytokine stimulus (GO:0034097)	0.5516589068129278	CASP3
+regulation of actin cytoskeleton organization (GO:0032956)	0.5516589068129278	ARF6
+cell migration (GO:0016477)	0.5530279684936205	IL6,TGFBR1
+positive regulation of programmed cell death (GO:0043068)	0.5537441420126373	ETS1,PMAIP1,SOX4,PAWR,HIPK2
+cellular homeostasis (GO:0019725)	0.558385226407003	HFE,PRNP,RHAG,TFRC
+blood coagulation (GO:0007596)	0.5612981829470387	CD36
+positive regulation of transcription factor activity (GO:0051091)	0.5612981829470387	IL6
+response to nutrient (GO:0007584)	0.5612981829470387	TULP4
+actin filament organization (GO:0007015)	0.570731423096237	NEDD9
+cholesterol metabolic process (GO:0008203)	0.570731423096237	SOAT1
+negative regulation of cell motion (GO:0051271)	0.570731423096237	IGFBP5
+behavior (GO:0007610)	0.5712805080897939	PDGFRB,NPHP1,CCL22,IL6
+response to wounding (GO:0009611)	0.5712805080897939	LBP,PLA2G7,CCL22,IL6
+transport (GO:0006810)	0.5746259038331158	ITSN1,ARF6,IL6,ABCB4,KIF1C,SLC35A3,ABCB10,KRT18,CD36,PRKCB,CSN2,HFE,NPHP1,MSR1,SOAT1,SLC2A3,LBP,ADRB2,ABCD2,ABCD3,RHAG
+glycoprotein metabolic process (GO:0009100)	0.579963005397754	CSGALNACT1
+membrane fusion (GO:0006944)	0.579963005397754	CRISP1
+cytokine-mediated signaling pathway (GO:0019221)	0.579963005397754	IL6
+MAPKKK cascade (GO:0000165)	0.579963005397754	FGFR1
+steroid metabolic process (GO:0008202)	0.5838955170743381	HSD17B11,SOAT1
+mitochondrion organization (GO:0007005)	0.5889972154937956	PMAIP1
+positive regulation of DNA binding (GO:0043388)	0.5889972154937956	IL6
+brain development (GO:0007420)	0.5889972154937956	UBE3A
+excretion (GO:0007588)	0.5978382484903848	NPHP1
+sphingolipid metabolic process (GO:0006665)	0.5978382484903848	SGPL1
+phospholipid metabolic process (GO:0006644)	0.6016540627644914	PIGN,ABHD5
+endosome transport (GO:0016197)	0.6064902108785938	ADRB2
+hemostasis (GO:0007599)	0.6149571223225933	CD36
+calcium ion transport (GO:0006816)	0.6149571223225933	CSN2
+activation of phospholipase C activity (GO:0007202)	0.6149571223225933	P2RY6
+positive regulation of catalytic activity (GO:0043085)	0.6181592395954943	PTPLAD1,TGFBR1,IFT57,PMAIP1,P2RY6,ADRB2,PRKD3
+muscle contraction (GO:0006936)	0.6188395144397892	SLMAP,SMPX
+regulation of protein catabolic process (GO:0042176)	0.6313514481585071	SH3D19
+protein processing (GO:0016485)	0.6313514481585071	METAP2
+regulation of mitosis (GO:0007088)	0.6392864842582169	CD28
+positive regulation of phospholipase activity (GO:0010518)	0.6392864842582169	P2RY6
+positive regulation of binding (GO:0051099)	0.6392864842582169	IL6
+transcription, DNA-dependent (GO:0006351)	0.6450274763028222	ETS1,HLF,TSC22D1
+organ morphogenesis (GO:0009887)	0.646213363340637	COL18A1,TGFBR1
+activation of MAPK activity (GO:0000187)	0.6470517162646992	PTPLAD1
+regulation of cell growth (GO:0001558)	0.6514991345426865	NET1,TGFBR1
+response to external stimulus (GO:0009605)	0.6538514688461566	PDGFRB,TULP4,PLA2G7,CCL22,IL6,TLR4,LBP
+negative regulation of cell cycle (GO:0045786)	0.6546507565913585	ETS1
+sulfur metabolic process (GO:0006790)	0.6546507565913585	CSGALNACT1
+negative regulation of protein kinase activity (GO:0006469)	0.6546507565913585	RGS3
+sensory perception of sound (GO:0007605)	0.6546507565913585	DFNA5
+cell-cell adhesion (GO:0016337)	0.6669822054986341	NPHP1,PKP2
+phosphoinositide-mediated signaling (GO:0048015)	0.6693643313522938	P2RY6
+negative regulation of kinase activity (GO:0033673)	0.6693643313522938	RGS3
+hormone metabolic process (GO:0042445)	0.6693643313522938	HSD17B11
+response to hormone stimulus (GO:0009725)	0.6720193378181148	PRKACB,IL6
+visual perception (GO:0007601)	0.6819094868138753	TGFBI,COL18A1
+protein maturation (GO:0051604)	0.6834546084341209	METAP2
+DNA damage response, signal transduction (GO:0042770)	0.6834546084341209	HIPK2
+DNA recombination (GO:0006310)	0.6902742577975655	ATRX
+negative regulation of transferase activity (GO:0051348)	0.6969478405391208	RGS3
+carboxylic acid catabolic process (GO:0046395)	0.6969478405391208	HACL1
+response to extracellular stimulus (GO:0009991)	0.7034784668635274	TULP4
+response to stress (GO:0006950)	0.7119410354037118	CCL22,IL6,ATRX,STK25,SESN1,TPSAB1,LBP,CRISP3,IL1RL2,GMPR,PLA2G7,TLR4,DARC,ITK,HIPK2
+anatomical structure morphogenesis (GO:0009653)	0.7215448427736504	KRT18,COL18A1,TGFBR1,FGF3,CSGALNACT1
+muscle organ development (GO:0007517)	0.7222427299351694	MEF2C
+regulation of cytoskeleton organization (GO:0051493)	0.7222427299351694	ARF6
+transcription (GO:0006350)	0.7248277384240935	ETS1,HLF,TSC22D1
+positive regulation of MAP kinase activity (GO:0043406)	0.728231336364309	PTPLAD1
+secretion by cell (GO:0032940)	0.728231336364309	IL6
+response to organic substance (GO:0010033)	0.728231336364309	TGFBR1
+cellular amine metabolic process (GO:0009308)	0.7319878638158042	CKB,HDC,CSGALNACT1
+induction of apoptosis (GO:0006917)	0.7319878638158042	PMAIP1,ETS1,HIPK2
+secretion (GO:0046903)	0.7320332095785654	NPHP1,IL6
+transcription initiation from RNA polymerase II promoter (GO:0006367)	0.7340915770968481	MED1
+polysaccharide metabolic process (GO:0005976)	0.7340915770968481	CSGALNACT1
+regulation of growth (GO:0040008)	0.736242379021689	NET1,TGFBR1
+lipid biosynthetic process (GO:0008610)	0.7444929698405515	B3GNT5,ABHD5
+cellular response to hormone stimulus (GO:0032870)	0.7509291704067704	PRKACB
+cellular amino acid derivative metabolic process (GO:0006575)	0.7615610311099952	CKB
+cytoskeleton organization (GO:0007010)	0.7624182215015655	NEDD9,ARF6,NPHP1
+cell proliferation (GO:0008283)	0.7637977204721773	SERPINF1,TGFBI,TNFSF9,CSGALNACT1
+response to light stimulus (GO:0009416)	0.7667065348604726	NPHP1
+transcription initiation (GO:0006352)	0.7717416456227454	MED1
+central nervous system development (GO:0007417)	0.7814900562829442	B3GNT5
+response to abiotic stimulus (GO:0009628)	0.7894980244154644	NPHP1,GMPR
+homeostatic process (GO:0042592)	0.7901818009869923	HFE,SOAT1,TFRC,PRNP,RHAG
+protein ubiquitination (GO:0016567)	0.790824506496025	TSPAN17
+response to oxidative stress (GO:0006979)	0.7997624740374929	STK25
+response to DNA damage stimulus (GO:0006974)	0.8095999025641056	ATRX,SESN1,HIPK2
+cation transport (GO:0006812)	0.8122698117649146	HFE,RHAG,CSN2
+protein modification by small protein conjugation (GO:0032446)	0.8281585377083515	TSPAN17
+negative regulation of cellular protein metabolic process (GO:0032269)	0.8318740287844478	IGFBP5
+sensory perception (GO:0007600)	0.8325160817044424	COL18A1,DFNA5,TGFBI
+cellular amino acid and derivative metabolic process (GO:0006519)	0.8386209418962641	CKB,HDC
+positive regulation of I-kappaB kinase/NF-kappaB cascade (GO:0043123)	0.8390671165727392	ECM1
+regulation of catalytic activity (GO:0050790)	0.8493225571046896	TGFBR1,RGS3,P2RY6,ADRB2,PTPLAD1,IFT57,PMAIP1,PRKD3
+oxidation reduction (GO:0055114)	0.8588616366222513	ALDH3A1
+RNA splicing (GO:0008380)	0.866148352923149	FUS,SRPK2
+regulation of I-kappaB kinase/NF-kappaB cascade (GO:0043122)	0.8678313325815125	ECM1
+response to radiation (GO:0009314)	0.8734939565010583	NPHP1
+cellular amino acid metabolic process (GO:0006520)	0.8734939565010583	HDC
+cognition (GO:0050890)	0.8769928694986613	COL18A1,DFNA5,TGFBI
+establishment or maintenance of chromatin architecture (GO:0006325)	0.8792921687584536	ENY2,HMGA2
+DNA replication (GO:0006260)	0.886617382111351	RBMS1
+regulation of mitotic cell cycle (GO:0007346)	0.886617382111351	CD28
+cellular response to stimulus (GO:0051716)	0.8958094869487905	PDGFRB,IL6,ATRX,PRKACB,HIPK2
+gamete generation (GO:0007276)	0.8983866762540087	USP9X
+neurological system process (GO:0050877)	0.9005377534620752	COL18A1,DFNA5,TGFBI
+nuclear mRNA splicing, via spliceosome (GO:0000398)	0.9005905283573085	FUS
+cellular response to DNA damage stimulus (GO:0034984)	0.9020922426605873	HIPK2,ATRX
+RNA splicing, via transesterification reactions (GO:0000375)	0.9027468603264741	FUS
+metabolic process (GO:0008152)	0.9111695052059027	HSD17B11,HACL1,ABHD5,MKNK1,ATRX,DUSP3,SGPL1,CD36,AHSP,CAMK1,FUS,PTPLAD1,ALDOC,CD28,RBMS1,FGFR1,CSGALNACT1,TGFBR1,HLF,SRPK2,B4GALT4,HDC,PURA,ALDH3A1,TSPAN17,PDGFRB,ENY2,CKB,PTPN2,MYLK,PIGN,USP9X,SNRK,ABCB4,CASP3,SLC35A3,ETS1,CMA1,PRKACB,METAP2,PRKCB,PRNP,PRKD3,UBE3A,SORD,SOAT1,RNASEL,SLC2A3,ALDH1B1,GALNT7,TSC22D1,UHMK1,ABCD2,PGCP,B3GNT5
+ion transport (GO:0006811)	0.9147992557848219	HFE,RHAG,CSN2
+protein transport (GO:0015031)	0.9150007344403346	KRT18,PRKCB
+proteolysis (GO:0006508)	0.9161187786173222	PGCP,CASP3,UBE3A
+establishment of protein localization (GO:0045184)	0.9179702529403738	KRT18,PRKCB
+organelle organization (GO:0006996)	0.9208341485883765	ARF6,NPHP1,HMGA2,ETS1,ENY2,ABCD3,PMAIP1,NEDD9
+ubiquitin-dependent protein catabolic process (GO:0006511)	0.9219102849002108	UBE3A
+RNA processing (GO:0006396)	0.9248493876316718	FUS,SRPK2,RBMS1
+regulation of cell cycle (GO:0051726)	0.9263072795884579	ETS1,CD28
+proteolysis involved in cellular protein catabolic process (GO:0051603)	0.9300331678722117	UBE3A
+protein catabolic process (GO:0030163)	0.935891624240824	PGCP,CASP3,UBE3A
+chromatin modification (GO:0016568)	0.9359220748765553	ENY2
+catabolic process (GO:0009056)	0.9426206906866156	HSD17B11,HACL1,SORD,CASP3,SGPL1,PGCP,UBE3A
+mRNA processing (GO:0006397)	0.9462620746099678	FUS
+DNA repair (GO:0006281)	0.9549418656323978	ATRX
+DNA metabolic process (GO:0006259)	0.9565932764797813	ATRX,RBMS1,PURA
+chromosome organization (GO:0051276)	0.9580994863554949	ENY2,HMGA2
+RNA metabolic process (GO:0016070)	0.9634686431630439	HLF,SRPK2,TSC22D1,FUS,ETS1,RBMS1
+protein complex assembly (GO:0006461)	0.9638775850347735	HFE,ADRB2
+intracellular protein transport (GO:0006886)	0.9669104095842957	KRT18
+mRNA metabolic process (GO:0016071)	0.9703690722881937	FUS
+establishment of localization in cell (GO:0051649)	0.981260974480916	IL6,KIF1C,ADRB2,KRT18
+intracellular transport (GO:0046907)	0.9813827545879906	KRT18,KIF1C,ADRB2
+negative regulation of catalytic activity (GO:0043086)	0.9817859261768136	RGS3
+cell-cell signaling (GO:0007267)	0.9840832789953391	FGF3,CCL22,TNFSF9
+nucleobase, nucleoside, nucleotide and nucleic acid metabolic process (GO:0006139)	0.9953275468385538	ATRX,SLC35A3,FUS,ETS1,RBMS1,CSGALNACT1,HLF,SRPK2,PURA,TSC22D1
+biological_process (GO:0008150)	1.0	ATRX,NET1,ENC1,PAWR,SLA2,ABCB10,SGPL1,FUS,MDFI,EMR1,CSGALNACT1,PECAM1,PTPRF,SMPX,HFE,HLF,HLX,FFAR2,HDC,TSPAN17,ENY2,MED1,PAG1,PTPN2,GRLF1,SNRK,IL6,ABCB4,AVIL,TNFSF4,TNFSF9,ID2,KLF7,EPHA3,PLA2G7,PLXNC1,RRAGA,PRKCB,PRNP,PRKD3,UBE3A,IRF4,IGFBP5,MSR1,SORD,SOAT1,RNASEL,NIPBL,TPSAB1,ADRB2,ABCD2,ABCD3,DFNA5,SOX4,ITK,MEF2C,HACL1,PKP2,MKNK1,TGFBI,CD7,KRT18,CAMK1,GRIA3,RBMS1,TGFBR1,RPRM,CKB,SEC14L2,LANCL2,NUPR1,IFT57,HOXA7,HOXA9,MYLK,ARHGAP5,USP9X,ARF6,MYCN,P2RY6,CMA1,ITGB7,CLNK,SLC2A3,PITPNC1,STK25,TSC22D1,TSC22D3,POSTN,UHMK1,B3GNT5,ABHD5,GNA14,ALDOC,COL18A1,IL1RL1,IL1RL2,FCGR2B,NEDD9,GNAZ,SLMAP,SRPK2,CCL22,B4GALT4,ALDH3A1,PVR,CRISP3,CRISP1,PDGFRB,ECM1,GMPR,DARC,PIGN,EIF4G1,HIPK2,SERPINF1,FGF3,KIF1C,PEX11A,OLFM1,ETS1,ALDH1B1,HOMER2,TLR4,PGCP,SH3D19,HSD17B11,RGS3,PAPSS2,DUSP3,NRGN,CD36,AHSP,PTPLAD1,GPM6B,KIT,CD27,CD28,FGFR1,NRIP1,CSN2,NPHP1,SESN1,LAT,LBP,CDK6,HMGA2,PURA,FLT3,H2AFY2,RUNX2,RHAG,ITSN1,TFRC,CASP3,PTGER4,SLC35A3,ZEB2,GZMB,PMAIP1,PRKACB,METAP2,ANGPT1,GALNT7,NDN,TULP4,PBX3,CALCRL

@@ -1,0 +1,179 @@
+Term	P-value	Genes
+negative regulation of protein complex assembly (GO:0031333)	6.860532781519518E-5	TRIOBP,GSN,CLU
+regulation of protein complex assembly (GO:0043254)	6.469395853608646E-4	TRIOBP,CLU,GSN
+negative regulation of protein complex disassembly (GO:0043242)	0.0034637371131998065	TRIOBP,GSN
+regulation of actin filament polymerization (GO:0030833)	0.0034637371131998065	TRIOBP,GSN
+regulation of actin polymerization or depolymerization (GO:0008064)	0.004990203424874775	TRIOBP,GSN
+regulation of actin filament length (GO:0030832)	0.006150320644809945	TRIOBP,GSN
+regulation of actin cytoskeleton organization (GO:0032956)	0.021265337823031305	TRIOBP,GSN
+cell motion (GO:0006928)	0.03660290368506233	SORD,LSP1,CCL3,ANXA1
+transcription from RNA polymerase II promoter (GO:0006366)	0.037108697545379224	AHR,HLF,TSC22D1
+regulation of cytoskeleton organization (GO:0051493)	0.049319052686330196	GSN,TRIOBP
+transcription, DNA-dependent (GO:0006351)	0.06321870711106659	AHR,HLF,TSC22D1
+hexose biosynthetic process (GO:0019319)	0.06359383432818	SORD
+glycolipid biosynthetic process (GO:0009247)	0.06359383432818	B3GNT5
+fructose metabolic process (GO:0006000)	0.06359383432818	SORD
+nucleotide-sugar metabolic process (GO:0009225)	0.06359383432818	CSGALNACT1
+cell differentiation (GO:0030154)	0.06822563834163735	KLF6,MITF,ANXA1
+regulation of viral genome replication (GO:0045069)	0.0691749024301743	CCL3
+protein modification process (GO:0006464)	0.06988334642151249	DUSP3,ST8SIA4,PRMT2,SGK1,PADI4,ANXA1,TRIOBP,B3GNT5
+release of cytochrome c from mitochondria (GO:0001836)	0.07472342575336369	CLU
+actin polymerization or depolymerization (GO:0008154)	0.07472342575336369	GSN
+peptide cross-linking (GO:0018149)	0.07472342575336369	ANXA1
+carbohydrate metabolic process (GO:0005975)	0.0781723765466845	SORD,B3GNT5,ST8SIA4,CSGALNACT1
+protein amino acid glycosylation (GO:0006486)	0.08001789499770293	B3GNT5,ST8SIA4
+reverse cholesterol transport (GO:0043691)	0.0802395898814773	CLU
+transcription (GO:0006350)	0.08429360230466851	AHR,HLF,TSC22D1
+response to stress (GO:0006950)	0.08439891925196094	LSP1,DUSP1,CCL3,SGK1,ANXA1,LILRB3,GMPR,AHR
+B cell differentiation (GO:0030183)	0.08572357936647011	KLF6
+positive regulation of fibroblast proliferation (GO:0048146)	0.08572357936647011	S100A6
+negative regulation of cellular protein metabolic process (GO:0032269)	0.08708803678469776	GSN,TRIOBP
+multicellular organismal development (GO:0007275)	0.09114127211923582	HOXA9,HLF,ID2
+apoptotic mitochondrial changes (GO:0008637)	0.09659576746022615	CLU
+hemopoiesis (GO:0030097)	0.09659576746022615	FLT3
+oligosaccharide metabolic process (GO:0009311)	0.09659576746022615	ST8SIA4
+cytoskeleton organization (GO:0007010)	0.09702228384984907	CCL3,GSN,TRIOBP
+exocytosis (GO:0006887)	0.10198433005102378	CCL3
+axonogenesis (GO:0007409)	0.10198433005102378	S100A6
+proteoglycan metabolic process (GO:0006029)	0.10734144596532545	CSGALNACT1
+protein amino acid methylation (GO:0006479)	0.10734144596532545	PRMT2
+glycolipid metabolic process (GO:0006664)	0.10734144596532545	B3GNT5
+monosaccharide metabolic process (GO:0005996)	0.10743318415939666	SORD,CSGALNACT1
+leukocyte activation (GO:0045321)	0.10743318415939666	CD93,KLF6
+glycosaminoglycan biosynthetic process (GO:0006024)	0.11266729466634835	CSGALNACT1
+defense response (GO:0006952)	0.11444098264915348	LILRB3,LSP1,CCL3,ANXA1
+cellular protein metabolic process (GO:0044267)	0.11617791862002351	DUSP3,ST8SIA4,PRMT2,TRIOBP,CSGALNACT1,SGK1,PADI4,ANXA1,B3GNT5
+amino sugar metabolic process (GO:0006040)	0.12322590327678351	CSGALNACT1
+neuron projection morphogenesis (GO:0048812)	0.12322590327678351	S100A6
+mRNA catabolic process (GO:0006402)	0.12322590327678351	ZFP36
+actin cytoskeleton organization (GO:0030036)	0.12493350319881966	GSN,TRIOBP
+cell adhesion (GO:0007155)	0.1255500564930642	CD33,PLXNC1,EMR1,CD93
+B cell activation (GO:0042113)	0.12845901712892743	KLF6
+keratinocyte differentiation (GO:0030216)	0.13366157165808012	ANXA1
+response to temperature stimulus (GO:0009266)	0.13366157165808012	GMPR
+cell growth (GO:0016049)	0.13366157165808012	NUPR1
+visual perception (GO:0007601)	0.1369619649389845	TGFBI,ABLIM1
+protein metabolic process (GO:0019538)	0.1401091564285604	DUSP3,ST8SIA4,PRMT2,TRIOBP,CSGALNACT1,CPA3,SGK1,PADI4,ANXA1,B3GNT5
+cell recognition (GO:0008037)	0.14397569982947525	CSGALNACT1
+cell activation (GO:0001775)	0.15130898678347404	KLF6,CD93
+negative regulation of cell adhesion (GO:0007162)	0.15416967222674588	TGFBI
+glycosaminoglycan metabolic process (GO:0030203)	0.15416967222674588	CSGALNACT1
+actin filament-based process (GO:0030029)	0.16383963181074793	GSN,TRIOBP
+growth (GO:0040007)	0.16424485786260254	NUPR1
+glucose metabolic process (GO:0006006)	0.16923832929336113	SORD
+extracellular matrix organization (GO:0030198)	0.16923832929336113	CSGALNACT1
+sodium ion transport (GO:0006814)	0.16923832929336113	SGK1
+cholesterol transport (GO:0030301)	0.16923832929336113	CLU
+negative regulation of transcription factor activity (GO:0043433)	0.16923832929336113	ID2
+protein amino acid N-linked glycosylation (GO:0006487)	0.17420261051542663	ST8SIA4
+cellular cation homeostasis (GO:0030003)	0.1786895783900083	CCL3,PRNP
+one-carbon metabolic process (GO:0006730)	0.17913786839897938	PRMT2
+negative regulation of DNA binding (GO:0043392)	0.1840442688738701	ID2
+pattern specification process (GO:0007389)	0.1840442688738701	PBX3
+cell cycle (GO:0007049)	0.1840442688738701	AHR
+actin filament organization (GO:0007015)	0.20814915320361058	GSN
+glycoprotein metabolic process (GO:0009100)	0.21288584227543772	CSGALNACT1
+membrane fusion (GO:0006944)	0.21288584227543772	CRISP1
+RNA catabolic process (GO:0006401)	0.21288584227543772	ZFP36
+mitochondrion organization (GO:0007005)	0.21759480979382703	CLU
+inflammatory response (GO:0006954)	0.22432270782019686	CCL3,ANXA1
+anatomical structure morphogenesis (GO:0009653)	0.2288198225525075	S100A6,ABLIM1,CSGALNACT1
+cell surface receptor linked signal transduction (GO:0007166)	0.22921256171315127	FFAR2,CCL3,FLT3,ANXA1,LILRB3,CALCRL
+membrane lipid metabolic process (GO:0006643)	0.24527528522053024	B3GNT5
+cellular ion homeostasis (GO:0006873)	0.24640898562488853	CCL3,PRNP
+sulfur metabolic process (GO:0006790)	0.2542874276737238	CSGALNACT1
+membrane organization (GO:0016044)	0.26637300747104653	CRISP1,CD93
+lipid transport (GO:0006869)	0.26760857740464533	CLU
+ion homeostasis (GO:0050801)	0.27303454479873845	CCL3,PRNP
+cellular alcohol metabolic process (GO:0006066)	0.2774756060818986	SORD,CSGALNACT1
+cellular defense response (GO:0006968)	0.2935562137891418	LSP1
+cellular homeostasis (GO:0019725)	0.29522709555803206	CCL3,PRNP
+response to wounding (GO:0009611)	0.30187350371614396	CCL3,ANXA1
+secretion by cell (GO:0032940)	0.3020038961570816	CCL3
+polysaccharide metabolic process (GO:0005976)	0.3061905985708061	CSGALNACT1
+regulation of cell adhesion (GO:0030155)	0.3103527311289575	TGFBI
+nervous system development (GO:0007399)	0.31072177036181553	ST8SIA4,CSGALNACT1
+G-protein coupled receptor protein signaling pathway (GO:0007186)	0.3231704832541386	FFAR2,CCL3,CALCRL
+positive regulation of cell proliferation (GO:0008284)	0.3261573021516904	S100A6,FLT3
+cell cycle arrest (GO:0007050)	0.3307997537048049	PLAGL1
+regulation of transcription factor activity (GO:0051090)	0.3307997537048049	ID2
+cation transport (GO:0006812)	0.33713487837218786	TRPC6,SGK1
+central nervous system development (GO:0007417)	0.3427820324146683	B3GNT5
+protein amino acid dephosphorylation (GO:0006470)	0.3427820324146683	DUSP3
+RNA metabolic process (GO:0016070)	0.34978168009055993	HLF,TSC22D1,ZFP36,AHR
+sensory perception (GO:0007600)	0.354596680732955	TGFBI,ABLIM1
+cell-cell signaling (GO:0007267)	0.3562118158830367	CD33,CCL3,TSPAN32
+response to oxidative stress (GO:0006979)	0.35843241570136497	DUSP1
+endocytosis (GO:0006897)	0.35843241570136497	CD93
+G-protein signaling, coupled to cyclic nucleotide second messenger (GO:0007187)	0.35843241570136497	CALCRL
+dephosphorylation (GO:0016311)	0.3622876879283374	DUSP3
+regulation of DNA binding (GO:0051101)	0.3622876879283374	ID2
+vesicle-mediated transport (GO:0016192)	0.3783584986900255	CCL3,CD93
+cyclic-nucleotide-mediated signaling (GO:0019935)	0.3886471860263589	CALCRL
+cognition (GO:0050890)	0.3996646036588519	TGFBI,ABLIM1
+cell proliferation (GO:0008283)	0.4185652733898292	TGFBI,CSGALNACT1
+lipid metabolic process (GO:0006629)	0.4216682853332324	ANXA1,CLU,B3GNT5
+regulation of cell proliferation (GO:0042127)	0.4232836082365463	FLT3,S100A6,CD33
+organelle organization (GO:0006996)	0.4257023261501602	CCL3,TRIOBP,CLU,GSN
+neurological system process (GO:0050877)	0.4289432832303036	TGFBI,ABLIM1
+cellular calcium ion homeostasis (GO:0006874)	0.4313763528347647	CCL3
+calcium ion homeostasis (GO:0055074)	0.4348022451525011	CCL3
+positive regulation of transcription (GO:0045941)	0.435125973720216	PLAGL1,EGR1
+ion transport (GO:0006811)	0.44941851483112316	TRPC6,SGK1
+positive regulation of gene expression (GO:0010628)	0.45144462420616116	PLAGL1,EGR1
+cellular metal ion homeostasis (GO:0006875)	0.4516311069010108	CCL3
+cell motility (GO:0048870)	0.4516311069010108	SORD
+organ morphogenesis (GO:0009887)	0.4549375650366188	ABLIM1
+metal ion homeostasis (GO:0055065)	0.46149207628212946	CCL3
+transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	0.4647403538105714	FLT3
+cell-cell adhesion (GO:0016337)	0.4679694611842244	CD93
+positive regulation of transcription from RNA polymerase II promoter (GO:0045944)	0.47437060736943665	PLAGL1
+apoptosis (GO:0006915)	0.47437060736943665	AHR
+chemotaxis (GO:0006935)	0.48694768412704886	CCL3
+programmed cell death (GO:0012501)	0.48694768412704886	AHR
+regulation of transcription (GO:0045449)	0.5001777126407011	MYCN,ID2,PLAGL1,MITF,EGR1
+secretion (GO:0046903)	0.5112249324471907	CCL3
+locomotory behavior (GO:0007626)	0.5171164353149307	CCL3
+lipid biosynthetic process (GO:0008610)	0.5200360783147603	B3GNT5
+anatomical structure development (GO:0048856)	0.5397976790820445	ST8SIA4,FLT3,B3GNT5,CSGALNACT1
+transport (GO:0006810)	0.5431059089726342	CCL3,CD93,SGK1,SLC14A1,TRPC6,CLU
+homeostatic process (GO:0042592)	0.5436222581805278	CCL3,PRNP
+cell death (GO:0008219)	0.5455475218057907	AHR
+anti-apoptosis (GO:0006916)	0.5482988792698836	ANXA1
+response to abiotic stimulus (GO:0009628)	0.5537527964980509	GMPR
+second-messenger-mediated signaling (GO:0019932)	0.5749315002478124	CALCRL
+metabolic process (GO:0008152)	0.5854778246851079	DUSP3,ST8SIA4,PRMT2,ZFP36,AHR,CSGALNACT1,HLF,PADI4,CLU,TRIOBP,PRNP,SORD,CPA3,SGK1,TSC22D1,ANXA1,B3GNT5
+regulation of transcription from RNA polymerase II promoter (GO:0006357)	0.6007283832203898	PLAGL1,MYCN
+catabolic process (GO:0009056)	0.6146601564412756	SORD,CPA3,ZFP36
+mRNA metabolic process (GO:0016071)	0.6213679319754742	ZFP36
+response to external stimulus (GO:0009605)	0.6296231949952966	CCL3,ANXA1
+nucleobase, nucleoside, nucleotide and nucleic acid metabolic process (GO:0006139)	0.6329675622143718	ZFP36,AHR,CSGALNACT1,HLF,TSC22D1
+enzyme linked receptor protein signaling pathway (GO:0007167)	0.6459436916888348	FLT3
+cellular amine metabolic process (GO:0009308)	0.650241188710252	CSGALNACT1
+induction of apoptosis (GO:0006917)	0.650241188710252	PLAGL1
+regulation of gene expression (GO:0010468)	0.653081317367907	MYCN,ID2,PLAGL1,MITF,EGR1
+negative regulation of apoptosis (GO:0043066)	0.658683649507886	ANXA1
+negative regulation of programmed cell death (GO:0043069)	0.6628297923728532	ANXA1
+response to chemical stimulus (GO:0042221)	0.668711230665316	DUSP1,CCL3,AHR
+behavior (GO:0007610)	0.6709748007693435	CCL3
+phosphate metabolic process (GO:0006796)	0.6881525130024528	DUSP3,SGK1
+negative regulation of cell proliferation (GO:0008285)	0.6942720478997975	CD33
+positive regulation of transcription, DNA-dependent (GO:0045893)	0.6979947279929067	PLAGL1
+regulation of transcription, DNA-dependent (GO:0006355)	0.7287954132887787	MYCN,PLAGL1,MITF
+regulation of apoptosis (GO:0042981)	0.7294961009711064	ANXA1,PLAGL1
+cell communication (GO:0007154)	0.730461280355626	CCL3,PRMT2,CD33,FFAR2,TSPAN32,FLT3,S100A6,LILRB3,ANXA1,CALCRL
+signal transduction (GO:0007165)	0.7320235649810247	CCL3,PRMT2,CD33,FFAR2,FLT3,S100A6,LILRB3,ANXA1,CALCRL
+positive regulation of apoptosis (GO:0043065)	0.7425356125194948	PLAGL1
+positive regulation of metabolic process (GO:0009893)	0.7461190141141607	PLAGL1,EGR1
+positive regulation of programmed cell death (GO:0043068)	0.7472414666341397	PLAGL1
+regulation of RNA metabolic process (GO:0051252)	0.7517657504161812	MYCN,PLAGL1,MITF
+negative regulation of transcription (GO:0016481)	0.7533852539368034	ID2
+protein complex assembly (GO:0006461)	0.7578969845144952	GSN
+proteolysis (GO:0006508)	0.7859777945613258	CPA3
+protein catabolic process (GO:0030163)	0.8073204693696556	CPA3
+protein amino acid phosphorylation (GO:0006468)	0.826576520925233	SGK1
+phosphorylation (GO:0016310)	0.8400188170902325	SGK1
+immune system process (GO:0002376)	0.85210917937844	KLF6,CD93
+establishment of localization in cell (GO:0051649)	0.9216313060184517	CCL3
+intracellular signaling cascade (GO:0007242)	0.9738638722331244	CALCRL
+biological_process (GO:0008150)	1.0	ST8SIA4,PRMT2,EMR1,CSGALNACT1,HLF,FFAR2,TSPAN32,GSN,ID2,KLF6,PLXNC1,PRNP,SORD,ABLIM1,TGFBI,TRPC6,MITF,NUPR1,CLU,HOXA9,MYCN,TSC22D1,B3GNT5,PLAGL1,ZFP36,S100A6,CRISP1,GMPR,CPA3,SGK1,DUSP3,DUSP1,CCL3,CD33,AHR,CD93,LSP1,PADI4,FLT3,LILRB3,EGR1,TRIOBP,ANXA1,SLC14A1,PBX3,CALCRL

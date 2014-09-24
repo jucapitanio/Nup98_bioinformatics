@@ -1,0 +1,330 @@
+Term	P-value	Genes
+defense response (GO:0006952)	6.589553804858491E-5	CFP,CRISP3,LILRB3,CLEC7A,CCR1,CXCL2,FPR2,LSP1,C3AR1,CCL3,CYSLTR1,ITGB2,FOS,ANXA1
+inflammatory response (GO:0006954)	9.078689922036013E-4	C3AR1,CCL3,ITGB2,FOS,CCR1,CXCL2,FPR2,ANXA1
+cell adhesion (GO:0007155)	0.0011610065311850259	PTPRF,CD33,PKP2,CCR1,FPR2,PLEK,ERBB2IP,PLXNC1,ITGB2,ITGB7,EMR1,CDH1
+cell surface receptor linked signal transduction (GO:0007166)	0.0016631266940060402	PTPRF,JUN,RGS1,FPR2,C3AR1,CCL3,GABBR1,FLT3,ANXA1,LILRB3,CCR1,CD28,PLEK,ERBB2IP,SOCS2,ITGB2,CD274,FOS,CALCRL
+cellular cation homeostasis (GO:0030003)	0.0017182955190878121	CD52,C3AR1,CCL3,CYSLTR1,PRNP,CCR1,TFR2
+immune system process (GO:0002376)	0.0024799812954561175	PDCD1LG2,RGS1,CLNK,IL15,TNFSF11,CFP,CRISP3,CD74,KLF6,CLEC7A,CCR1,CD28,ITGB2,CD274,PDCD1,CTSS
+apoptosis (GO:0006915)	0.003246882567892927	PMAIP1,AHR,ITGB2,IER3,PDCD1,GZMB
+response to wounding (GO:0009611)	0.0032718201088272397	C3AR1,CCL3,ITGB2,FOS,CCR1,CXCL2,FPR2,ANXA1
+signal transduction (GO:0007165)	0.003588479962021669	JUN,RGS1,IL15,CCL3,GABBR1,CD33,CD74,CCR1,CD28,PLEK,CSF1R,FOS,PTPRF,CSF2RB,NCOA1,FLT3,LILRB3,CLEC7A,CISH,ERBB2IP,SOCS2,SOCS3,GRN,FPR2,C3AR1,NR4A1,P2RX5,VLDLR,ITGB2,CLNK,HBEGF,ANXA1,S100A11,CD274,CALCRL
+programmed cell death (GO:0012501)	0.0038634191896483043	PMAIP1,AHR,ITGB2,IER3,PDCD1,GZMB
+integrin-mediated signaling pathway (GO:0007229)	0.004438706036361565	PLEK,ITGB2,ERBB2IP
+response to stress (GO:0006950)	0.0053825593323567535	ERRFI1,FPR2,LSP1,DUSP1,C3AR1,CCL3,CYSLTR1,ANXA1,CFP,CRISP3,LILRB3,CLEC7A,SEPP1,CCR1,CXCL2,AHR,ITGB2,FOS,BTG2
+cellular ion homeostasis (GO:0006873)	0.0054897457197064375	CD52,C3AR1,CCL3,CYSLTR1,PRNP,TFR2,CCR1
+cell motion (GO:0006928)	0.006836678538319989	SORD,FPR2,LSP1,CCL3,ITGB2,BTG1,TPM4,ANXA1
+ion homeostasis (GO:0050801)	0.007984519997230557	CD52,C3AR1,CCL3,CYSLTR1,PRNP,TFR2,CCR1
+cell death (GO:0008219)	0.008320078974895676	PMAIP1,AHR,ITGB2,IER3,PDCD1,GZMB
+cellular calcium ion homeostasis (GO:0006874)	0.008729659066214633	CD52,C3AR1,CCL3,CYSLTR1,CCR1
+calcium ion homeostasis (GO:0055074)	0.009101424927378417	CD52,C3AR1,CCL3,CYSLTR1,CCR1
+multicellular organismal development (GO:0007275)	0.009780849106177613	DLK1,EMP1,CSF1R,HLF,PDCD1,HLX,ID2
+elevation of cytosolic calcium ion concentration (GO:0007204)	0.009872803645075943	CD52,C3AR1,CYSLTR1,CCR1
+immune response (GO:0006955)	0.009959131743108439	PDCD1LG2,RGS1,CLNK,IL15,TNFSF11,CFP,CRISP3,CCR1,CD28,CD274,PDCD1,CTSS
+cellular homeostasis (GO:0019725)	0.010635100485952382	CD52,C3AR1,CCL3,CYSLTR1,PRNP,TFR2,CCR1
+cellular metal ion homeostasis (GO:0006875)	0.0111253978249256	CD52,C3AR1,CCL3,CYSLTR1,CCR1
+cytosolic calcium ion homeostasis (GO:0051480)	0.011531309170731885	CD52,C3AR1,CYSLTR1,CCR1
+regulation of viral genome replication (GO:0045069)	0.011846151173783093	CCL3,CD28
+metal ion homeostasis (GO:0055065)	0.012477071856511306	CD52,C3AR1,CCL3,CYSLTR1,CCR1
+cell communication (GO:0007154)	0.01653972258434466	JUN,RGS1,IL15,CCL3,GABBR1,CD33,CD74,CCR1,CD28,PLEK,CSF1R,FOS,PTPRF,CSF2RB,NCOA1,FLT3,LILRB3,CLEC7A,CISH,ERBB2IP,SOCS2,SOCS3,GRN,FPR2,C3AR1,NR4A1,P2RX5,VLDLR,ITGB2,CLNK,HBEGF,ANXA1,S100A11,CD274,CALCRL
+chemotaxis (GO:0006935)	0.01661673765620535	CCL3,ITGB2,CCR1,CXCL2,FPR2
+humoral immune response (GO:0006959)	0.016881190303915664	PDCD1,CFP,CD28
+respiratory gaseous exchange (GO:0007585)	0.01777046185963305	CYSLTR1,CSF2RB
+cell structure disassembly during apoptosis (GO:0006921)	0.022280112193091808	GZMB,PMAIP1
+regulation of actin polymerization or depolymerization (GO:0008064)	0.022280112193091808	PLEK,GSN
+locomotory behavior (GO:0007626)	0.022962565167100716	CCL3,ITGB2,CCR1,CXCL2,FPR2
+JAK-STAT cascade (GO:0007259)	0.024693457113167543	SOCS2,SOCS3
+fatty acid biosynthetic process (GO:0006633)	0.02720839838125983	FADS3,CD74
+regulation of actin filament length (GO:0030832)	0.02720839838125983	PLEK,GSN
+enzyme linked receptor protein signaling pathway (GO:0007167)	0.027230089427772126	PTPRF,SOCS2,JUN,FOS,FLT3,ERBB2IP
+behavior (GO:0007610)	0.035900434819438914	CCL3,ITGB2,CCR1,CXCL2,FPR2,VLDLR
+cell recognition (GO:0008037)	0.0474140735894081	CSGALNACT1,CLEC7A
+negative regulation of adenylate cyclase activity (GO:0007194)	0.05063908182408651	GABBR1,RGS1
+cell-cell adhesion (GO:0016337)	0.05143864220969971	ITGB2,PKP2,CDH1,PLEK
+cell differentiation (GO:0030154)	0.05786116595726136	KLF6,MITF,CD28,PLEK,ANXA1
+response to chemical stimulus (GO:0042221)	0.07006256396618311	FPR2,DUSP1,CCL3,CLEC7A,SEPP1,CCR1,CXCL2,PMAIP1,SOCS2,AHR,ITGB2,FOS
+transforming growth factor beta receptor signaling pathway (GO:0007179)	0.07151557193663947	FOS,JUN
+regulation of G-protein coupled receptor protein signaling pathway (GO:0008277)	0.07151557193663947	PLEK,RGS2
+G-protein coupled receptor protein signaling pathway (GO:0007186)	0.07463556957609357	RGS1,CCR1,FPR2,PLEK,C3AR1,CCL3,GABBR1,CALCRL
+cell cycle (GO:0007049)	0.0752273046595775	AHR,ERBB2IP
+response to oxidative stress (GO:0006979)	0.07564940427029511	FOS,SEPP1,DUSP1
+G-protein signaling, coupled to cyclic nucleotide second messenger (GO:0007187)	0.07564940427029511	CALCRL,CCR1,RGS1
+regulation of actin cytoskeleton organization (GO:0032956)	0.0867160503821011	GSN,PLEK
+negative regulation of apoptosis (GO:0043066)	0.08741013635509703	SOCS2,SOCS3,CD74,IER3,ANXA1
+negative regulation of programmed cell death (GO:0043069)	0.09057338260059246	SOCS2,SOCS3,CD74,IER3,ANXA1
+response to external stimulus (GO:0009605)	0.094977773810808	CCR1,CXCL2,FPR2,C3AR1,CCL3,ITGB2,FOS,ANXA1
+cyclic-nucleotide-mediated signaling (GO:0019935)	0.09536881442714797	CALCRL,CCR1,RGS1
+cell proliferation (GO:0008283)	0.09550821973418189	CD74,TGFBI,EMP1,CSF1R,CD274,CSGALNACT1
+anti-apoptosis (GO:0006916)	0.09808115810904329	SOCS2,SOCS3,IER3,ANXA1
+T cell activation (GO:0042110)	0.09869126913160473	CD28,CLEC7A
+nervous system development (GO:0007399)	0.10381311293435888	OLFM1,P2RX5,ST8SIA4,CSGALNACT1,VLDLR
+homeostatic process (GO:0042592)	0.10469093161267505	CD52,TFR2,CCR1,C3AR1,CCL3,CYSLTR1,PRNP
+negative regulation of cell proliferation (GO:0008285)	0.11796509823945635	CD33,S100A11,MXD4,BTG2,BTG1
+regulation of macrophage activation (GO:0043030)	0.12250019857566881	CD74
+icosanoid biosynthetic process (GO:0046456)	0.12250019857566881	CD74
+gamma-aminobutyric acid signaling pathway (GO:0007214)	0.12250019857566881	GABBR1
+regulation of cell size (GO:0008361)	0.12250019857566881	PLEK
+actin cytoskeleton reorganization (GO:0031532)	0.12250019857566881	PLEK
+respiratory burst (GO:0045730)	0.12250019857566881	CD52
+intermediate filament cytoskeleton organization (GO:0045104)	0.12250019857566881	ERBB2IP
+leukocyte activation (GO:0045321)	0.12548628677034246	CD28,KLF6,CLEC7A
+innate immune response (GO:0045087)	0.13260723558171214	CFP,CRISP3
+vesicle docking during exocytosis (GO:0006904)	0.13390069766958163	PLEK
+response to carbohydrate stimulus (GO:0009743)	0.13390069766958163	CLEC7A
+cellular iron ion homeostasis (GO:0006879)	0.13390069766958163	TFR2
+hexose biosynthetic process (GO:0019319)	0.13390069766958163	SORD
+positive regulation of transcription factor import into nucleus (GO:0042993)	0.13390069766958163	CDH1
+fructose metabolic process (GO:0006000)	0.13390069766958163	SORD
+nucleotide-sugar metabolic process (GO:0009225)	0.13390069766958163	CSGALNACT1
+antigen processing and presentation (GO:0019882)	0.13390069766958163	CD74
+iron ion homeostasis (GO:0055072)	0.14515452881960458	TFR2
+prostaglandin metabolic process (GO:0006693)	0.14515452881960458	CD74
+positive regulation of calcium ion transport into cytosol (GO:0010524)	0.14515452881960458	P2RX5
+neutrophil chemotaxis (GO:0030593)	0.14515452881960458	ITGB2
+response to estradiol stimulus (GO:0032355)	0.14515452881960458	SOCS2
+vesicle docking (GO:0048278)	0.14515452881960458	PLEK
+DNA methylation (GO:0006306)	0.14515452881960458	FOS
+negative regulation of protein complex assembly (GO:0031333)	0.14515452881960458	GSN
+positive regulation of translation (GO:0045727)	0.14515452881960458	CD28
+regulation of interleukin-2 biosynthetic process (GO:0045076)	0.14515452881960458	CD28
+cell motility (GO:0048870)	0.14622276731788303	ITGB2,BTG1,SORD
+regulation of cell proliferation (GO:0042127)	0.1501104861468833	MXD4,IL15,FLT3,CD33,S100A11,CD28,BTG2,BTG1
+regulation of cell growth (GO:0001558)	0.15234480834422684	SOCS2,BTG1,CISH
+release of cytochrome c from mitochondria (GO:0001836)	0.15626356028762903	PMAIP1
+positive regulation of angiogenesis (GO:0045766)	0.15626356028762903	BTG1
+cellular response to reactive oxygen species (GO:0034614)	0.15626356028762903	FOS
+actin polymerization or depolymerization (GO:0008154)	0.15626356028762903	GSN
+peptide cross-linking (GO:0018149)	0.15626356028762903	ANXA1
+transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	0.1585479002272743	SOCS2,FLT3,ERBB2IP
+regulation of cAMP metabolic process (GO:0030814)	0.1641053145062576	GABBR1,RGS1
+regulation of cAMP biosynthetic process (GO:0030817)	0.1641053145062576	GABBR1,RGS1
+negative regulation of protein complex disassembly (GO:0043242)	0.16722963677980193	GSN
+regulation of actin filament polymerization (GO:0030833)	0.16722963677980193	GSN
+complement activation (GO:0006956)	0.16722963677980193	CFP
+inhibition of adenylate cyclase activity by G-protein signaling (GO:0007193)	0.16722963677980193	RGS1
+positive regulation of nucleocytoplasmic transport (GO:0046824)	0.16722963677980193	CDH1
+transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178)	0.1687106893522255	FOS,JUN
+B cell differentiation (GO:0030183)	0.17805457972518382	KLF6
+regulation of dephosphorylation (GO:0035303)	0.17805457972518382	PLEK
+retinoid metabolic process (GO:0001523)	0.17805457972518382	DHRS3
+regulation of cell shape (GO:0008360)	0.17805457972518382	ITGB2
+activation of plasma proteins involved in acute inflammatory response (GO:0002541)	0.17805457972518382	CFP
+vitamin A metabolic process (GO:0006776)	0.17805457972518382	DHRS3
+positive regulation of anti-apoptosis (GO:0045768)	0.17805457972518382	CD28
+regulation of cytoskeleton organization (GO:0051493)	0.18265459617142982	GSN,PLEK
+secretion by cell (GO:0032940)	0.18734081881954015	CCL3,PLEK
+protein secretion (GO:0009306)	0.18874018758126326	PLEK
+lipoprotein particle clearance (GO:0034381)	0.18874018758126326	VLDLR
+regulation of Wnt receptor signaling pathway (GO:0030111)	0.18874018758126326	ZRANB1
+cell activation (GO:0001775)	0.193952905488206	KLF6,CLEC7A,CD28
+regulation of cell adhesion (GO:0030155)	0.1967631410327412	CYTIP,TGFBI
+regulation of apoptosis (GO:0042981)	0.1973348066194541	BCL2L11,IER3,ANXA1,CD74,PMAIP1,SOCS2,SOCS3,BTG1
+apoptotic mitochondrial changes (GO:0008637)	0.19928823612172805	PMAIP1
+hemopoiesis (GO:0030097)	0.19928823612172805	FLT3
+protein import into nucleus, translocation (GO:0000060)	0.19928823612172805	JUN
+positive regulation of calcium ion transport (GO:0051928)	0.19928823612172805	P2RX5
+organic cation transport (GO:0015695)	0.19928823612172805	SLC22A3
+oligosaccharide metabolic process (GO:0009311)	0.19928823612172805	ST8SIA4
+positive regulation of T cell proliferation (GO:0042102)	0.20970047870787115	CD28
+regulation of striated muscle tissue development (GO:0016202)	0.20970047870787115	BTG1
+exocytosis (GO:0006887)	0.20970047870787115	CCL3
+cellular response to oxidative stress (GO:0034599)	0.20970047870787115	FOS
+positive regulation of cytoskeleton organization (GO:0051495)	0.20970047870787115	PLEK
+regulation of growth (GO:0040008)	0.21066044210161852	SOCS2,BTG1,CISH
+transcription from RNA polymerase II promoter (GO:0006366)	0.21743279279789615	AHR,HLF,TSC22D1
+learning or memory (GO:0007611)	0.21997864657197583	VLDLR
+regulation of anti-apoptosis (GO:0045767)	0.21997864657197583	CD28
+proteoglycan metabolic process (GO:0006029)	0.21997864657197583	CSGALNACT1
+cytoskeleton organization (GO:0007010)	0.22172813524992596	CCL3,GSN,PLEK,ERBB2IP
+phosphoinositide metabolic process (GO:0030384)	0.23012444910788377	PLEK
+epidermal growth factor receptor signaling pathway (GO:0007173)	0.23012444910788377	ERBB2IP
+glycosaminoglycan biosynthetic process (GO:0006024)	0.23012444910788377	CSGALNACT1
+positive regulation of intracellular transport (GO:0032388)	0.23012444910788377	CDH1
+protein amino acid dephosphorylation (GO:0006470)	0.23494834029630965	PTPN12,DUSP3
+positive regulation of mitosis (GO:0045840)	0.2401395741295858	CD28
+leukocyte adhesion (GO:0007159)	0.2401395741295858	ITGB2
+activation of pro-apoptotic gene products (GO:0008633)	0.2401395741295858	BCL2L11
+intracellular signaling cascade (GO:0007242)	0.24360753638222302	RGS1,CLNK,NCOA1,CLEC7A,CCR1,PLEK,CISH,SOCS2,SOCS3,CALCRL
+amino sugar metabolic process (GO:0006040)	0.25002568813405585	CSGALNACT1
+negative regulation of DNA replication (GO:0008156)	0.25002568813405585	S100A11
+mRNA catabolic process (GO:0006402)	0.25002568813405585	ZFP36
+positive regulation of mononuclear cell proliferation (GO:0032946)	0.25002568813405585	CD28
+response to reactive oxygen species (GO:0000302)	0.25002568813405585	FOS
+homophilic cell adhesion (GO:0007156)	0.25002568813405585	CDH1
+dephosphorylation (GO:0016311)	0.2590465408184142	PTPN12,DUSP3
+establishment or maintenance of cell polarity (GO:0007163)	0.25978443658711786	ERBB2IP
+regulation of blood coagulation (GO:0030193)	0.25978443658711786	PLEK
+B cell activation (GO:0042113)	0.25978443658711786	KLF6
+positive regulation of cell differentiation (GO:0045597)	0.2687027862700229	BTG1,TNFSF11
+keratinocyte differentiation (GO:0030216)	0.26941744417338565	ANXA1
+cell growth (GO:0016049)	0.26941744417338565	ERBB2IP
+response to estrogen stimulus (GO:0043627)	0.26941744417338565	SOCS2
+icosanoid metabolic process (GO:0006690)	0.2789263150665954	CD74
+second-messenger-mediated signaling (GO:0019932)	0.28715735131460274	RGS1,CALCRL,CCR1
+protein kinase cascade (GO:0007243)	0.29070808371172213	SOCS2,SOCS3,PLEK
+regulation of calcium ion transport (GO:0051924)	0.2975779623917675	P2RX5
+regulation of protein complex assembly (GO:0043254)	0.2975779623917675	GSN
+leukocyte chemotaxis (GO:0030595)	0.2975779623917675	ITGB2
+fatty acid metabolic process (GO:0006631)	0.30245493336396756	CD74,FADS3
+negative regulation of cell adhesion (GO:0007162)	0.306723846857231	TGFBI
+glycosaminoglycan metabolic process (GO:0030203)	0.306723846857231	CSGALNACT1
+cell migration (GO:0016477)	0.30726102870211996	BTG1,ITGB2
+cell chemotaxis (GO:0060326)	0.3157518112022453	ITGB2
+transcription, DNA-dependent (GO:0006351)	0.32278047385534425	AHR,HLF,TSC22D1
+growth (GO:0040007)	0.3246633607915713	ERBB2IP
+defense response to bacterium (GO:0042742)	0.3246633607915713	CFP
+glucose metabolic process (GO:0006006)	0.3334599819646529	SORD
+extracellular matrix organization (GO:0030198)	0.3334599819646529	CSGALNACT1
+negative regulation of transcription factor activity (GO:0043433)	0.3334599819646529	ID2
+protein maturation by peptide bond cleavage (GO:0051605)	0.3334599819646529	CFP
+protein amino acid N-linked glycosylation (GO:0006487)	0.3421431422640865	ST8SIA4
+regulation of cell differentiation (GO:0045595)	0.3442002286921639	HOXA7,TNFSF11,BTG1
+monosaccharide metabolic process (GO:0005996)	0.34544168379138634	SORD,CSGALNACT1
+positive regulation of T cell activation (GO:0050870)	0.35071429069677884	CD28
+one-carbon metabolic process (GO:0006730)	0.35071429069677884	FOS
+negative regulation of DNA binding (GO:0043392)	0.3591748579380453	ID2
+regulation of peptidyl-tyrosine phosphorylation (GO:0050730)	0.3591748579380453	ITGB2
+pattern specification process (GO:0007389)	0.3591748579380453	PBX3
+leukocyte migration (GO:0050900)	0.3591748579380453	ITGB2
+negative regulation of hydrolase activity (GO:0051346)	0.3591748579380453	PLEK
+positive regulation of immune system process (GO:0002684)	0.36429319764803086	CFP,CD28
+regulation of immune response (GO:0050776)	0.36429319764803086	CFP,CD28
+regulation of gene expression, epigenetic (GO:0040029)	0.36752625656029814	FOS
+regulation of nucleocytoplasmic transport (GO:0046822)	0.36752625656029814	CDH1
+G-protein signaling, coupled to cAMP nucleotide second messenger (GO:0007188)	0.36752625656029814	RGS1
+response to steroid hormone stimulus (GO:0048545)	0.36752625656029814	SOCS2
+androgen receptor signaling pathway (GO:0030521)	0.36752625656029814	NCOA1
+positive regulation of cell cycle (GO:0045787)	0.38390710922573573	CD28
+regulation of tissue remodeling (GO:0034103)	0.38390710922573573	TNFSF11
+actin cytoskeleton organization (GO:0030036)	0.38756895949248715	GSN,PLEK
+blood circulation (GO:0008015)	0.3919393000046823	C3AR1
+response to bacterium (GO:0009617)	0.3919393000046823	CFP
+transcription (GO:0006350)	0.3938996049935873	AHR,HLF,TSC22D1
+actin filament organization (GO:0007015)	0.3998677960964461	GSN
+receptor-mediated endocytosis (GO:0006898)	0.3998677960964461	SORL1
+regulation of angiogenesis (GO:0045765)	0.3998677960964461	BTG1
+cAMP-mediated signaling (GO:0019933)	0.3998677960964461	RGS1
+negative regulation of transcription from RNA polymerase II promoter (GO:0000122)	0.4059248838114171	HOXA7,MXD4
+glycoprotein metabolic process (GO:0009100)	0.40769392296654217	CSGALNACT1
+membrane fusion (GO:0006944)	0.40769392296654217	CRISP1
+cytokine-mediated signaling pathway (GO:0019221)	0.40769392296654217	CCR1
+activation of caspase activity (GO:0006919)	0.40769392296654217	PMAIP1
+RNA catabolic process (GO:0006401)	0.40769392296654217	ZFP36
+visual perception (GO:0007601)	0.41500615910170835	TGFBI,DHRS3
+mitochondrion organization (GO:0007005)	0.41541898931285737	PMAIP1
+amine transport (GO:0015837)	0.41541898931285737	SLC22A3
+positive regulation of signal transduction (GO:0009967)	0.4219103045650624	TSPAN6,P2RX5,ZRANB1
+proteolysis (GO:0006508)	0.4289746386834581	MMP13,MMP12,CTSS,CTSH
+negative regulation of catalytic activity (GO:0043086)	0.4323097519215008	RGS1,GABBR1,PLEK
+positive regulation of caspase activity (GO:0043280)	0.4380006649765921	PMAIP1
+vitamin metabolic process (GO:0006766)	0.44533424803096944	DHRS3
+protein processing (GO:0016485)	0.45257306970610106	CFP
+regulation of cytokine biosynthetic process (GO:0042035)	0.45257306970610106	CD28
+positive regulation of cellular protein metabolic process (GO:0032270)	0.4549936243651595	CD28,PLEK
+regulation of signal transduction (GO:0009966)	0.45837686832292346	RGS2,PLEK,TSPAN6,P2RX5,ZRANB1
+regulation of mitosis (GO:0007088)	0.45971834238036313	CD28
+secretion (GO:0046903)	0.46367120621461916	CCL3,PLEK
+regulation of T cell activation (GO:0050863)	0.4667712630723792	CD28
+regulation of myeloid cell differentiation (GO:0045637)	0.4667712630723792	TNFSF11
+positive regulation of protein metabolic process (GO:0051247)	0.4722687518007568	CD28,PLEK
+actin filament-based process (GO:0030029)	0.4722687518007568	GSN,PLEK
+positive regulation of hydrolase activity (GO:0051345)	0.4722687518007568	PMAIP1,PLEK
+positive regulation of cell proliferation (GO:0008284)	0.4732015267820331	CD28,IL15,FLT3
+regulation of DNA replication (GO:0006275)	0.4737330136388797	S100A11
+sulfur metabolic process (GO:0006790)	0.4737330136388797	CSGALNACT1
+lipid biosynthetic process (GO:0008610)	0.4765369847431904	CD74,FADS3
+protein catabolic process (GO:0030163)	0.4781060539215024	MMP13,MMP12,CTSS,CTSH
+di-, tri-valent inorganic cation transport (GO:0015674)	0.48060476097146243	TFR2
+steroid hormone receptor signaling pathway (GO:0030518)	0.48060476097146243	NCOA1
+protein localization (GO:0008104)	0.48060476097146243	ERBB2IP
+positive regulation of immune response (GO:0050778)	0.4873876571686909	CFP
+hormone metabolic process (GO:0042445)	0.4873876571686909	DHRS3
+cation transport (GO:0006812)	0.4898574942338704	TRPC6,SLC22A3,TFR2
+cell-cell signaling (GO:0007267)	0.49878896679006146	CD33,CCR1,IL15,CCL3,ITGB2
+protein maturation (GO:0051604)	0.5006914317007916	CFP
+cellular response to stimulus (GO:0051716)	0.5136687286006303	CLEC7A,SOCS2,ITGB2,FOS,BTG2
+negative regulation of cell growth (GO:0030308)	0.5200086825521449	BTG1
+negative regulation of cell differentiation (GO:0045596)	0.5200086825521449	HOXA7
+regulation of endopeptidase activity (GO:0052548)	0.5262818610047815	PMAIP1
+intracellular receptor-mediated signaling pathway (GO:0030522)	0.5324738542797405	NCOA1
+cellular defense response (GO:0006968)	0.5324738542797405	LSP1
+muscle organ development (GO:0007517)	0.538585702676852	HBEGF
+negative regulation of growth (GO:0045926)	0.5446184332947993	BTG1
+regulation of lymphocyte activation (GO:0051249)	0.5446184332947993	CD28
+response to organic substance (GO:0010033)	0.5446184332947993	CLEC7A
+regulation of peptidase activity (GO:0052547)	0.550573060208933	PMAIP1
+polysaccharide metabolic process (GO:0005976)	0.550573060208933	CSGALNACT1
+glycerophospholipid metabolic process (GO:0006650)	0.5564505846046723	PLEK
+cellular response to hormone stimulus (GO:0032870)	0.5679782672913485	SOCS2
+response to biotic stimulus (GO:0009607)	0.5724523374175559	CFP,CLEC7A
+regulation of translation (GO:0006417)	0.5792092397027087	CD28
+cognition (GO:0050890)	0.5810156970087952	VLDLR,TGFBI,DHRS3
+regulation of protein transport (GO:0051223)	0.5847158303705725	CDH1
+regulation of transcription factor activity (GO:0051090)	0.5847158303705725	ID2
+negative regulation of transcription (GO:0016481)	0.5869230154679451	MXD4,HOXA7,ID2
+lipid metabolic process (GO:0006629)	0.5942833595625088	FADS3,DHRS3,ANXA1,CD74,PLEK
+regulation of establishment of protein localization (GO:0070201)	0.6060377242020482	CDH1
+anatomical structure development (GO:0048856)	0.6099029058055824	HBEGF,P2RX5,ST8SIA4,FLT3,OLFM1,VLDLR,EMP1,CSGALNACT1
+negative regulation of transcription, DNA-dependent (GO:0045892)	0.6154762635608805	HOXA7,MXD4
+epidermis development (GO:0008544)	0.6162885252013294	EMP1
+neurological system process (GO:0050877)	0.6212556093605118	VLDLR,TGFBI,DHRS3
+endocytosis (GO:0006897)	0.6213144438833147	SORL1
+regulation of protein localization (GO:0032880)	0.6213144438833147	CDH1
+mRNA metabolic process (GO:0016071)	0.6257080837246066	ZFP36,ZFP36L1
+regulation of DNA binding (GO:0051101)	0.6262751755512833	ID2
+positive regulation of transcription (GO:0045941)	0.6295355701774978	JUN,FOS,EGR1
+protein amino acid glycosylation (GO:0006486)	0.6407745667963776	ST8SIA4
+ion transport (GO:0006811)	0.6483757584531769	TRPC6,SLC22A3,TFR2
+membrane organization (GO:0016044)	0.6487707241353489	CRISP1,SORL1
+positive regulation of gene expression (GO:0010628)	0.6510120795091625	JUN,FOS,EGR1
+negative regulation of cellular protein metabolic process (GO:0032269)	0.6592440563087463	GSN
+cellular alcohol metabolic process (GO:0006066)	0.6645538997055754	SORD,CSGALNACT1
+induction of apoptosis (GO:0006917)	0.6676421459458978	PMAIP1,BCL2L11
+regulation of gene expression (GO:0010468)	0.6677707145410681	JUN,MYCN,ID2,ZFP36L1,CD28,FOS,MXD4,MITF,HOXA7,EGR1,BTG1
+positive regulation of I-kappaB kinase/NF-kappaB cascade (GO:0043123)	0.6681230219261947	TSPAN6
+positive regulation of metabolic process (GO:0009893)	0.6888873184959144	JUN,CD28,PLEK,FOS,EGR1
+carbohydrate metabolic process (GO:0005975)	0.6913076076251976	SORD,ST8SIA4,CSGALNACT1
+catabolic process (GO:0009056)	0.691900305301917	MMP13,MMP12,SORD,ZFP36,CTSS,CTSH
+negative regulation of signal transduction (GO:0009968)	0.6934084416809059	PLEK
+regulation of protein amino acid phosphorylation (GO:0001932)	0.6974331034124378	ITGB2
+regulation of transcription (GO:0045449)	0.6989414536852948	JUN,MYCN,ID2,FOS,MXD4,MITF,HOXA7,EGR1,BTG1
+regulation of I-kappaB kinase/NF-kappaB cascade (GO:0043122)	0.7053261525346904	TSPAN6
+phospholipid metabolic process (GO:0006644)	0.7053261525346904	PLEK
+protein transport (GO:0015031)	0.7057515228375436	JUN,PLEK
+establishment of protein localization (GO:0045184)	0.7112845283178467	JUN,PLEK
+regulation of mitotic cell cycle (GO:0007346)	0.7313798689406165	CD28
+regulation of cytokine production (GO:0001817)	0.7383955041568329	CD28
+response to hormone stimulus (GO:0009725)	0.7518870353492353	SOCS2
+sensory perception (GO:0007600)	0.7596576836962476	TGFBI,DHRS3
+vesicle-mediated transport (GO:0016192)	0.7843737667552281	CCL3,SORL1
+RNA metabolic process (GO:0016070)	0.7903843664888495	HLF,TSC22D1,ZFP36,ZFP36L1,AHR
+positive regulation of apoptosis (GO:0043065)	0.7948607218611382	BCL2L11,PMAIP1
+positive regulation of programmed cell death (GO:0043068)	0.8009370398901663	BCL2L11,PMAIP1
+regulation of transcription from RNA polymerase II promoter (GO:0006357)	0.8197196429635052	MYCN,MXD4,HOXA7
+tissue development (GO:0009888)	0.8242551800982982	EMP1
+DNA repair (GO:0006281)	0.8461337278215282	BTG2
+organelle organization (GO:0006996)	0.8592718761951357	CCL3,PLEK,ERBB2IP,PMAIP1,GSN
+intracellular protein transport (GO:0006886)	0.8723029721238212	JUN
+anatomical structure morphogenesis (GO:0009653)	0.8799675951332171	IER3,CSGALNACT1
+phosphate metabolic process (GO:0006796)	0.8933119215755727	MAP3K8,DUSP3,PTPN12
+regulation of catalytic activity (GO:0050790)	0.8940122015620134	RGS1,GABBR1,PLEK,PMAIP1
+cellular amine metabolic process (GO:0009308)	0.8995694381551255	CSGALNACT1
+DNA metabolic process (GO:0006259)	0.9020007059325196	FOS,BTG2
+protein metabolic process (GO:0019538)	0.9030226182882154	MAP3K8,MMP13,MMP12,DUSP3,ST8SIA4,CSGALNACT1,ANXA1,CFP,PTPN12,CTSS,CTSH
+cellular response to DNA damage stimulus (GO:0034984)	0.9060611042114286	BTG2
+nucleobase, nucleoside, nucleotide and nucleic acid metabolic process (GO:0006139)	0.9119370782458455	ZFP36,ZFP36L1,AHR,FOS,CSGALNACT1,HLF,TSC22D1,BTG2
+establishment of localization in cell (GO:0051649)	0.9133711268046546	JUN,CCL3,PLEK
+regulation of cell cycle (GO:0051726)	0.9241682983685934	CD28
+response to DNA damage stimulus (GO:0006974)	0.9281260852144365	BTG2
+regulation of RNA metabolic process (GO:0051252)	0.9313187475201345	MYCN,MXD4,MITF,ZFP36L1,HOXA7
+positive regulation of catalytic activity (GO:0043085)	0.9407973561587428	PLEK,PMAIP1
+protein complex assembly (GO:0006461)	0.9550896014466875	GSN
+regulation of transcription, DNA-dependent (GO:0006355)	0.9665656311400773	MYCN,MXD4,MITF,HOXA7
+protein modification process (GO:0006464)	0.9695923338839013	MAP3K8,DUSP3,ST8SIA4,ANXA1,PTPN12
+regulation of phosphorylation (GO:0042325)	0.9708397195012958	ITGB2
+protein amino acid phosphorylation (GO:0006468)	0.9783538481047699	MAP3K8
+transport (GO:0006810)	0.9786780992998638	JUN,SLC22A3,TFR2,CCL3,PLEK,SORL1,TRPC6
+phosphorylation (GO:0016310)	0.9818560968999567	MAP3K8
+intracellular transport (GO:0046907)	0.9900390308203852	JUN
+cellular protein metabolic process (GO:0044267)	0.9902275900422951	MAP3K8,DUSP3,ST8SIA4,CSGALNACT1,ANXA1,PTPN12
+metabolic process (GO:0008152)	0.995230190591903	MAP3K8,MMP13,MMP12,DUSP3,ST8SIA4,CD52,CD74,ZFP36,ZFP36L1,CD28,PLEK,AHR,FOS,CSGALNACT1,HLF,CFP,DHRS3,PRNP,SORD,FADS3,TSC22D1,ANXA1,PTPN12,CTSS,BTG2,CTSH
+biological_process (GO:0008150)	1.0	ERRFI1,ST8SIA4,ZFP36L1,EMP1,EMR1,FOS,CSGALNACT1,PTPRF,HLF,HLX,CSF2RB,ZRANB1,SOCS2,SOCS3,GSN,GRN,NR4A1,DHRS3,ID2,KLF6,PLXNC1,SORL1,PRNP,PDCD1LG2,SORD,DLK1,NIPBL,CD274,BTG2,BTG1,PKP2,MMP13,MMP12,TGFBI,PLEK,CSF1R,BCL2L11,CFP,TRPC6,CLEC7A,MITF,CISH,ERBB2IP,HOXA7,MYCN,FPR2,P2RX5,IER3,ITGB2,ITGB7,CLNK,MXD4,FADS3,HBEGF,TSC22D1,TPM4,ZFP36,CRISP3,CRISP1,OLFM1,PTPN12,MAP3K8,JUN,RGS1,RGS2,SLC22A3,DUSP3,DUSP1,IL15,CCL3,GABBR1,CD52,CD33,CD74,CCR1,CXCL2,CD28,AHR,CYTIP,PDCD1,LSP1,NCOA1,CDH1,FLT3,LILRB3,EGR1,TFR2,C3AR1,CYSLTR1,SEPP1,GZMB,VLDLR,PMAIP1,TSPAN6,TNFSF11,ANXA1,S100A11,PBX3,CALCRL,CTSS,CTSH

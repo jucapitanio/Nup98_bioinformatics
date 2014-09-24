@@ -1,0 +1,347 @@
+Term	P-value	Genes
+response to biotic stimulus (GO:0009607)	1.1948165842508093E-4	ISG20,CCL2,CCL8,SLC11A1,IL12A,ADAM17,RSAD2,BCL2,IRF7
+defense response (GO:0006952)	1.6545134005044833E-4	S100A8,AIF1,S100A9,IL12A,FPR2,BCL2,MX1,MX2,CCL3,RSAD2,RNASE6,ANXA1,MPO
+response to virus (GO:0009615)	7.381115648769497E-4	ISG20,CCL8,RSAD2,BCL2,IRF7
+response to stress (GO:0006950)	0.0014387388743289052	AIF1,IL12A,FPR2,CCL3,SESN1,RNASE6,ANXA1,S100A8,S100A9,PDLIM1,VEGFA,TREX1,ADAM17,BCL2,MX1,MX2,FN1,EYA1,RSAD2,MPO
+response to bacterium (GO:0009617)	0.0016149756395509004	CCL2,SLC11A1,IL12A,ADAM17
+positive regulation of immune system process (GO:0002684)	0.0016528395144825387	IL18,LAT2,VEGFA,IL12A,ADAM17,CD27
+cell cycle arrest (GO:0007050)	0.0018465709298722311	AIF1,CDKN2C,IL12A,SESN1,GAS7
+humoral immune response (GO:0006959)	0.001931007582693426	CCL2,BCL2,LTF,TREM2
+regulation of apoptosis (GO:0042981)	0.0028685503990342944	MEF2C,IL12A,CDKN2C,CCL2,ANXA1,VEGFA,BCL2,CD27,STAT1,PMAIP1,MX1,SCIN,MPO
+anti-apoptosis (GO:0006916)	0.007124796966377045	MEF2C,CCL2,BCL2,CD27,ANXA1,MPO
+negative regulation of apoptosis (GO:0043066)	0.007922365955992246	MEF2C,VEGFA,CCL2,BCL2,CD27,ANXA1,MPO
+negative regulation of programmed cell death (GO:0043069)	0.008386019193328815	MEF2C,VEGFA,CCL2,BCL2,CD27,ANXA1,MPO
+behavior (GO:0007610)	0.00937308636637286	IL18,CCL3,CCL2,CCL8,CCL7,FPR2,VLDLR
+response to wounding (GO:0009611)	0.00937308636637286	S100A8,AIF1,S100A9,CCL3,FN1,FPR2,ANXA1
+regulation of cell proliferation (GO:0042127)	0.01169091901162975	AIF1,IL12A,IL18,SESN1,DLG3,GPNMB,VEGFA,NRP1,ADAM17,IGFBP7,SCIN
+inflammatory response (GO:0006954)	0.012300821457140591	S100A8,AIF1,S100A9,CCL3,FPR2,ANXA1
+response to chemical stimulus (GO:0042221)	0.012312028516159697	RTP4,IL12A,FPR2,CCL3,CCL2,CCL8,CCL7,PDLIM1,VEGFA,HVCN1,ADAM17,BCL2,PMAIP1,MPO
+defense response to virus (GO:0051607)	0.01269966432205329	BCL2,RSAD2
+release of cytochrome c from mitochondria (GO:0001836)	0.01269966432205329	BCL2,PMAIP1
+positive regulation of leukocyte migration (GO:0002687)	0.01269966432205329	VEGFA,ADAM17
+peptide cross-linking (GO:0018149)	0.01269966432205329	ANXA1,FN1
+negative regulation of cell proliferation (GO:0008285)	0.012846823071115338	AIF1,IL12A,SESN1,IGFBP7,DLG3,SCIN,GPNMB
+chemotaxis (GO:0006935)	0.014187200599419768	CCL3,CCL2,CCL8,CCL7,FPR2
+response to external stimulus (GO:0009605)	0.014390305630237124	S100A8,AIF1,S100A9,FPR2,CCL3,CCL2,CCL8,CCL7,FN1,ANXA1
+cellular ion homeostasis (GO:0006873)	0.016355612629361062	CD52,SLC40A1,CCL3,CCL2,CCL7,BCL2
+response to lipopolysaccharide (GO:0032496)	0.01647838081017423	IL12A,ADAM17
+cell motion (GO:0006928)	0.01756935747439998	NRP1,IL12A,ADAM17,FPR2,CCL3,CCL2,ANXA1
+locomotory behavior (GO:0007626)	0.01968336335866135	CCL3,CCL2,CCL8,CCL7,FPR2
+adaptive immune response (GO:0002250)	0.0206738238641348	IL18,CD27
+apoptotic mitochondrial changes (GO:0008637)	0.0206738238641348	PMAIP1,BCL2
+cell adhesion (GO:0007155)	0.021106477922609595	ADAM17,FPR2,LPXN,NLGN2,MFGE8,CCL2,FN1,EMR1,IGFBP7
+ion homeostasis (GO:0050801)	0.022343144002547746	CD52,SLC40A1,CCL3,CCL2,CCL7,BCL2
+immune system process (GO:0002376)	0.022560091348029162	IL12A,IL18,CCL2,TREM2,PRG3,ADAM17,BCL2,CD27,LAT2,LTF,CTSS,CTSC,RSAD2
+JAK-STAT cascade (GO:0007259)	0.022920742148404633	CCL2,STAT2
+exocytosis (GO:0006887)	0.022920742148404633	CCL3,CCL8
+cellular cation homeostasis (GO:0030003)	0.024266360342151662	CD52,SLC40A1,CCL3,CCL2,CCL7
+response to molecule of bacterial origin (GO:0002237)	0.027699283832479382	IL12A,ADAM17
+cellular homeostasis (GO:0019725)	0.028347921606475483	CD52,SLC40A1,CCL3,CCL2,CCL7,BCL2
+positive regulation of chemotaxis (GO:0050921)	0.030225586505368704	VEGFA,ADAM17
+cellular calcium ion homeostasis (GO:0006874)	0.03262720205205509	CD52,CCL3,CCL2,CCL7
+calcium ion homeostasis (GO:0055074)	0.03370059294988149	CD52,CCL3,CCL2,CCL7
+B cell activation (GO:0042113)	0.03553933024386605	LAT2,BCL2
+homeostatic process (GO:0042592)	0.03848161738695022	CD52,BCL2,NLGN2,SLC40A1,CCL3,CCL2,CCL7,WHRN
+cellular metal ion homeostasis (GO:0006875)	0.03937551946925871	CD52,CCL3,CCL2,CCL7
+icosanoid metabolic process (GO:0006690)	0.04118459534183067	PRG3,HPGD
+regulation of lymphocyte activation (GO:0051249)	0.04188168522514983	IL18,IL12A,CD27
+metal ion homeostasis (GO:0055065)	0.043027604448667676	CD52,CCL3,CCL2,CCL7
+negative regulation of transcription from RNA polymerase II promoter (GO:0000122)	0.046865220338264686	MEF2C,HOXA7,GFI1B,IRF7
+angiogenesis (GO:0001525)	0.05023201083079266	IL18,VEGFA
+positive regulation of apoptosis (GO:0043065)	0.06588971497522968	IL12A,BCL2,PMAIP1,CDKN2C,MX1,SCIN
+positive regulation of programmed cell death (GO:0043068)	0.06925568018221005	IL12A,BCL2,PMAIP1,CDKN2C,MX1,SCIN
+lipid biosynthetic process (GO:0008610)	0.07043627908747875	CHPT1,HSD11B1,PRG3,DGAT2
+regulation of gene expression, epigenetic (GO:0040029)	0.07373245443052963	DNMT3L,H2AFY
+positive regulation of cytokine production (GO:0001819)	0.07733186494115739	IL12A,ADAM17
+immune response (GO:0006955)	0.08694512093542078	IL12A,IL18,CCL2,TREM2,BCL2,CD27,LTF,CTSS,CTSC
+receptor-mediated endocytosis (GO:0006898)	0.08845015569393015	SORL1,SCARF1
+response to abiotic stimulus (GO:0009628)	0.09143599986481492	HVCN1,EYA1,IL12A,BCL2
+activation of caspase activity (GO:0006919)	0.09225677257828156	PMAIP1,STAT1
+RNA catabolic process (GO:0006401)	0.09225677257828156	ISG20,RNASE6
+cell migration (GO:0016477)	0.0943361966486138	IL12A,ADAM17,CCL2
+cell surface receptor linked signal transduction (GO:0007166)	0.09533309203154736	FPR2,P2RY14,HPGD,CCL3,CCL2,P2RY6,ANXA1,VEGFA,HOMER2,GPR171,ADAM17,CD27,LAT2
+mitochondrion organization (GO:0007005)	0.09611065860224265	PMAIP1,BCL2
+response to metal ion (GO:0010038)	0.10793870336188355	HVCN1,BCL2
+positive regulation of caspase activity (GO:0043280)	0.10793870336188355	PMAIP1,STAT1
+female pregnancy (GO:0007565)	0.10793870336188355	BCL2,HPGD
+leukocyte activation (GO:0045321)	0.11495664640123443	PRG3,LAT2,BCL2
+low-density lipoprotein particle remodeling (GO:0034374)	0.11797555532154895	MPO
+positive regulation of leukocyte mediated cytotoxicity (GO:0001912)	0.11797555532154895	IL12A
+regulation of natural killer cell mediated cytotoxicity (GO:0042269)	0.11797555532154895	IL12A
+superoxide anion generation (GO:0042554)	0.11797555532154895	PRG3
+icosanoid biosynthetic process (GO:0046456)	0.11797555532154895	PRG3
+respiratory burst (GO:0045730)	0.11797555532154895	CD52
+positive regulation of endothelial cell migration (GO:0010595)	0.11797555532154895	VEGFA
+regulation of interleukin-8 biosynthetic process (GO:0045414)	0.11797555532154895	PRG3
+positive regulation of T cell mediated immunity (GO:0002711)	0.11797555532154895	IL12A
+positive regulation of endothelial cell proliferation (GO:0001938)	0.11797555532154895	VEGFA
+positive regulation of leukocyte chemotaxis (GO:0002690)	0.11797555532154895	ADAM17
+positive regulation of cell migration (GO:0030335)	0.12013159937175222	VEGFA,ADAM17
+response to radiation (GO:0009314)	0.12035977937114369	EYA1,IL12A,BCL2
+regulation of cyclin-dependent protein kinase activity (GO:0000079)	0.12426957119178891	CDKN2C,ADAM17
+lipid metabolic process (GO:0006629)	0.12640875688101133	HSD11B1,HPGD,ANXA1,PRG3,CHPT1,AOAH,DGAT2,SCARF1
+signal transduction (GO:0007165)	0.12646168041584888	HPGD,CCL3,CCL2,CCL8,CCL7,VEGFA,NRP1,GPR171,CD27,CSF1R,LILRB4,ADAM17,PKD2L1,LAT2,FPR2,P2RY6,LPXN,VLDLR,MX1,PILRA,P2RY14,ANXA1,ANXA3,HOMER2,STAT1,STAT2,ELK3
+sensory perception of sound (GO:0007605)	0.12844184323392524	WHRN,EYA1
+response to hypoxia (GO:0001666)	0.12844184323392524	VEGFA,ADAM17
+regulation of epidermal growth factor receptor activity (GO:0007176)	0.12898667129561078	ADAM17
+cellular iron ion homeostasis (GO:0006879)	0.12898667129561078	SLC40A1
+positive regulation of positive chemotaxis (GO:0050927)	0.12898667129561078	VEGFA
+positive regulation of transcription factor import into nucleus (GO:0042993)	0.12898667129561078	CD27
+mononuclear cell proliferation (GO:0032943)	0.12898667129561078	BCL2
+defense response to Gram-positive bacterium (GO:0050830)	0.12898667129561078	IL12A
+G-protein coupled receptor protein signaling pathway (GO:0007186)	0.13110654339775799	HOMER2,GPR171,FPR2,P2RY14,CCL3,CCL2,P2RY6
+di-, tri-valent inorganic cation transport (GO:0015674)	0.13264694092289586	SLC40A1,CCL8
+cell motility (GO:0048870)	0.1342670979857247	CCL2,IL12A,ADAM17
+positive regulation of immune response (GO:0050778)	0.1368834204259485	LAT2,IL12A
+positive regulation of cell motion (GO:0051272)	0.1368834204259485	VEGFA,ADAM17
+regulation of receptor activity (GO:0010469)	0.13986172508445818	ADAM17
+tissue homeostasis (GO:0001894)	0.13986172508445818	WHRN
+long-chain fatty acid metabolic process (GO:0001676)	0.13986172508445818	HPGD
+regulation of viral genome replication (GO:0045069)	0.13986172508445818	CCL3
+iron ion homeostasis (GO:0055072)	0.13986172508445818	SLC40A1
+prostaglandin metabolic process (GO:0006693)	0.13986172508445818	HPGD
+regulation of leukocyte mediated cytotoxicity (GO:0001910)	0.13986172508445818	IL12A
+peptidyl-tyrosine phosphorylation (GO:0018108)	0.13986172508445818	STAT1
+very-long-chain fatty acid metabolic process (GO:0000038)	0.13986172508445818	HPGD
+positive regulation of adaptive immune response (GO:0002821)	0.13986172508445818	IL12A
+antigen receptor-mediated signaling pathway (GO:0050851)	0.13986172508445818	LAT2
+DNA methylation (GO:0006306)	0.13986172508445818	DNMT3L
+skeletal muscle tissue development (GO:0007519)	0.13986172508445818	CSRP3
+regulation of blood vessel endothelial cell migration (GO:0043535)	0.13986172508445818	VEGFA
+regulation of cell growth (GO:0001558)	0.13998141708594233	CDKN2C,CHPT1,ADAM17
+regulation of cytokine production (GO:0001817)	0.13998141708594233	PRG3,IL12A,ADAM17
+negative regulation of transcription, DNA-dependent (GO:0045892)	0.1411479030511394	MEF2C,HOXA7,GFI1B,IRF7
+cell communication (GO:0007154)	0.14376428948146144	HPGD,IL18,CCL3,CCL2,CCL8,CCL7,VEGFA,NRP1,GPR171,CD27,CSF1R,S100A9,LILRB4,ADAM17,PKD2L1,LAT2,FPR2,P2RY6,LPXN,VLDLR,MX1,PILRA,P2RY14,ANXA1,ANXA3,HOMER2,STAT1,STAT2,ELK3
+positive regulation of protein amino acid phosphorylation (GO:0001934)	0.14976716162871917	IL12A,ADAM17
+mitochondrial membrane organization (GO:0007006)	0.15060238068043233	BCL2
+steroid catabolic process (GO:0006706)	0.15060238068043233	SCARF1
+regulation of NF-kappaB import into nucleus (GO:0042345)	0.15060238068043233	CD27
+phosphatidylcholine metabolic process (GO:0046470)	0.15060238068043233	CHPT1
+positive regulation of nucleocytoplasmic transport (GO:0046824)	0.16121028193957757	CD27
+immune response-activating cell surface receptor signaling pathway (GO:0002429)	0.16121028193957757	LAT2
+regulation of endopeptidase activity (GO:0052548)	0.16288420373002854	PMAIP1,STAT1
+membrane organization (GO:0016044)	0.16450268139886443	SORL1,SCARF1,BCL2,GCA
+negative regulation of transcription (GO:0016481)	0.1692422864643249	MEF2C,GFI1B,ELK3,HOXA7,IRF7
+regulation of epidermal growth factor receptor signaling pathway (GO:0042058)	0.17168705281920882	ADAM17
+protein targeting to membrane (GO:0006612)	0.17168705281920882	RTP4
+immune response-regulating cell surface receptor signaling pathway (GO:0002768)	0.17168705281920882	LAT2
+regulation of cell shape (GO:0008360)	0.17168705281920882	VEGFA
+neuron projection development (GO:0031175)	0.17168705281920882	STX3
+superoxide metabolic process (GO:0006801)	0.17168705281920882	PRG3
+secretion by cell (GO:0032940)	0.17620024068355508	CCL3,CCL8
+response to organic substance (GO:0010033)	0.17620024068355508	ADAM17,BCL2
+cell activation (GO:0001775)	0.17897215287559734	LAT2,PRG3,BCL2
+regulation of peptidase activity (GO:0052547)	0.18067752586610547	PMAIP1,STAT1
+positive regulation of phosphorylation (GO:0042327)	0.18067752586610547	IL12A,ADAM17
+positive regulation of DNA repair (GO:0045739)	0.18203429761760415	EYA1
+mismatch repair (GO:0006298)	0.18203429761760415	TREX1
+lipoprotein particle clearance (GO:0034381)	0.18203429761760415	VLDLR
+cell proliferation (GO:0008283)	0.18389428703960592	ISG20,GFI1B,BCL2,DAB2,CSF1R
+regulation of cell adhesion (GO:0030155)	0.18517219531269344	IL18,IL12A
+viral genome replication (GO:0019079)	0.19225360121623447	CCL2
+triglyceride metabolic process (GO:0006641)	0.19225360121623447	DGAT2
+negative regulation of specific transcription from RNA polymerase II promoter (GO:0010553)	0.19225360121623447	MEF2C
+glucose transport (GO:0015758)	0.19225360121623447	PPBP
+response to toxin (GO:0009636)	0.19225360121623447	BCL2
+cell structure disassembly during apoptosis (GO:0006921)	0.19225360121623447	PMAIP1
+glutamate signaling pathway (GO:0007215)	0.19225360121623447	HOMER2
+regulation of growth (GO:0040008)	0.19470179927470765	CDKN2C,CHPT1,ADAM17
+positive regulation of hydrolase activity (GO:0051345)	0.19788914682818692	PMAIP1,P2RY6,STAT1
+positive regulation of tyrosine phosphorylation of STAT protein (GO:0042531)	0.20234652929651406	IL12A
+positive regulation of T cell proliferation (GO:0042102)	0.20234652929651406	IL18
+positive regulation of cell growth (GO:0030307)	0.20234652929651406	ADAM17
+cellular amino acid derivative metabolic process (GO:0006575)	0.20330280918836233	PRG3,CHPT1
+learning or memory (GO:0007611)	0.21231462858376218	VLDLR
+proteoglycan metabolic process (GO:0006029)	0.21231462858376218	HS3ST3B1
+regulation of protein binding (GO:0043393)	0.21231462858376218	BCL2
+fatty acid biosynthetic process (GO:0006633)	0.21231462858376218	PRG3
+nervous system development (GO:0007399)	0.21491763064105804	MEF2C,VEGFA,EPHB2,VLDLR
+positive regulation of JAK-STAT cascade (GO:0046427)	0.2221594270676624	IL12A
+epidermal growth factor receptor signaling pathway (GO:0007173)	0.2221594270676624	ADAM17
+synaptogenesis (GO:0007416)	0.2221594270676624	NLGN2
+positive regulation of intracellular transport (GO:0032388)	0.2221594270676624	CD27
+positive regulation of protein modification process (GO:0031401)	0.2308418410252907	IL12A,ADAM17
+negative regulation of gene-specific transcription (GO:0032582)	0.23188243422866783	MEF2C
+calcium-mediated signaling (GO:0019722)	0.23188243422866783	LAT2
+activation of pro-apoptotic gene products (GO:0008633)	0.23188243422866783	BCL2
+positive regulation of innate immune response (GO:0045089)	0.23188243422866783	IL12A
+positive regulation of cell proliferation (GO:0008284)	0.23350972586914095	VEGFA,NRP1,ADAM17,IL18
+response to oxidative stress (GO:0006979)	0.24008256637418854	PDLIM1,MPO
+endocytosis (GO:0006897)	0.24008256637418854	SORL1,SCARF1
+negative regulation of translation (GO:0017148)	0.24148514126549986	PRG3
+positive regulation of mononuclear cell proliferation (GO:0032946)	0.24148514126549986	IL18
+amine biosynthetic process (GO:0009309)	0.24148514126549986	PRG3
+regulation of DNA repair (GO:0006282)	0.24148514126549986	EYA1
+cation transport (GO:0006812)	0.24702929310257993	HVCN1,PKD2L1,SLC40A1,CCL8
+regulation of transcription from RNA polymerase II promoter (GO:0006357)	0.24955628870455604	MEF2C,KLF9,GFI1B,STAT2,HOXA7,IRF7
+I-kappaB kinase/NF-kappaB cascade (GO:0007249)	0.2509690212967819	STAT1
+response to ionizing radiation (GO:0010212)	0.2509690212967819	EYA1
+cell-cell junction organization (GO:0045216)	0.2509690212967819	NLGN2
+positive regulation of cell differentiation (GO:0045597)	0.2539769091744649	SCIN,CD27
+keratinocyte differentiation (GO:0030216)	0.2603355296050164	ANXA1
+positive regulation of cell adhesion (GO:0045785)	0.2603355296050164	IL12A
+negative regulation of phosphorylation (GO:0042326)	0.2603355296050164	CDKN2C
+second-messenger-mediated signaling (GO:0019932)	0.2672347861444158	LAT2,CCL2,P2RY6
+axon guidance (GO:0007411)	0.2695861038165056	NRP1
+cell morphogenesis (GO:0000902)	0.2695861038165056	FN1
+anatomical structure morphogenesis (GO:0009653)	0.270399816349625	NRP1,SLC40A1,CCL2,FN1,EYA1
+protein kinase cascade (GO:0007243)	0.27062166429107726	CCL2,STAT1,STAT2
+nucleosome assembly (GO:0006334)	0.2787221641578392	H2AFY
+positive regulation of growth (GO:0045927)	0.2787221641578392	ADAM17
+fatty acid metabolic process (GO:0006631)	0.28644252009762255	PRG3,HPGD
+regulation of membrane potential (GO:0042391)	0.28774511361538535	BCL2
+regulation of calcium ion transport (GO:0051924)	0.28774511361538535	BCL2
+regulation of innate immune response (GO:0045088)	0.28774511361538535	IL12A
+positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731)	0.28774511361538535	IL12A
+leukocyte chemotaxis (GO:0030595)	0.28774511361538535	CCL2
+regulation of JAK-STAT cascade (GO:0046425)	0.28774511361538535	IL12A
+cell-cell signaling (GO:0007267)	0.2901750448199226	S100A9,NRP1,IL18,CCL3,CCL8,CCL7
+cellular amino acid and derivative metabolic process (GO:0006519)	0.2944543716760407	CHPT1,HDC,PRG3
+detection of chemical stimulus (GO:0009593)	0.2966563381721113	RTP4
+proton transport (GO:0015992)	0.2966563381721113	HVCN1
+synapse organization (GO:0050808)	0.2966563381721113	NLGN2
+vesicle-mediated transport (GO:0016192)	0.2997822455646309	CCL3,CCL8,SORL1,SCARF1
+regulation of cell migration (GO:0030334)	0.30032933743179735	VEGFA,ADAM17
+cell chemotaxis (GO:0060326)	0.30545720700856516	CCL2
+activation of phospholipase C activity by G-protein coupled receptor protein signaling pathway coupled to IP3 second messenger (GO:0007200)	0.30545720700856516	P2RY6
+G1/S transition of mitotic cell cycle (GO:0000082)	0.31414907269111264	CDKN2C
+defense response to bacterium (GO:0042742)	0.31414907269111264	IL12A
+steroid metabolic process (GO:0008202)	0.3141746971069106	HSD11B1,SCARF1
+regulation of protein amino acid phosphorylation (GO:0001932)	0.3187778441727668	IL12A,ADAM17
+regulation of cell differentiation (GO:0045595)	0.32185997708974773	HOXA7,SCIN,CD27
+regulation of inflammatory response (GO:0050727)	0.3227332713952524	CMA1
+regulation of cell motion (GO:0051270)	0.3371158930846178	VEGFA,ADAM17
+transforming growth factor beta receptor signaling pathway (GO:0007179)	0.3395839316815074	HPGD
+oxygen and reactive oxygen species metabolic process (GO:0006800)	0.3395839316815074	PRG3
+positive regulation of T cell activation (GO:0050870)	0.3395839316815074	IL18
+one-carbon metabolic process (GO:0006730)	0.3395839316815074	DNMT3L
+regulation of immune response (GO:0050776)	0.3462329879031101	LAT2,IL12A
+regulation of peptidyl-tyrosine phosphorylation (GO:0050730)	0.34785298533299286	IL12A
+leukocyte migration (GO:0050900)	0.34785298533299286	CCL2
+phospholipid biosynthetic process (GO:0008654)	0.3560195565165786	CHPT1
+regulation of nucleocytoplasmic transport (GO:0046822)	0.3560195565165786	CD27
+steroid biosynthetic process (GO:0006694)	0.36408490228901863	HSD11B1
+double-strand break repair (GO:0006302)	0.36408490228901863	EYA1
+response to drug (GO:0042493)	0.36408490228901863	BCL2
+organ morphogenesis (GO:0009887)	0.36434421583547055	CCL2,NRP1
+enzyme linked receptor protein signaling pathway (GO:0007167)	0.36982843130249426	VEGFA,ADAM17,HPGD
+positive regulation of cell cycle (GO:0045787)	0.37205026443823036	ADAM17
+response to cytokine stimulus (GO:0034097)	0.37205026443823036	BCL2
+response to UV (GO:0009411)	0.37205026443823036	IL12A
+cellular amine metabolic process (GO:0009308)	0.37664882473109557	CHPT1,HDC,PRG3
+induction of apoptosis (GO:0006917)	0.37664882473109557	PMAIP1,CDKN2C,MX1
+transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	0.377806313997153	VEGFA,ADAM17
+cholesterol metabolic process (GO:0008203)	0.3876859298279605	SCARF1
+multicellular organismal development (GO:0007275)	0.3902465480355115	DLK1,HOXA9,CSF1R
+apoptosis (GO:0006915)	0.3911524286878868	PMAIP1,BCL2
+glycoprotein metabolic process (GO:0009100)	0.3953586419818182	HS3ST3B1
+membrane fusion (GO:0006944)	0.3953586419818182	GCA
+ion transport (GO:0006811)	0.3965733628267301	HVCN1,PKD2L1,SLC40A1,CCL8
+positive regulation of signal transduction (GO:0009967)	0.39702038672368306	VEGFA,IL12A,ADAM17
+proteolysis (GO:0006508)	0.39941592737389375	MMP14,CPA3,CTSS,CTSH
+cell-substrate adhesion (GO:0031589)	0.402936188717752	FN1
+programmed cell death (GO:0012501)	0.4087500258754728	PMAIP1,BCL2
+calcium ion transport (GO:0006816)	0.42510944762479	CCL8
+activation of phospholipase C activity (GO:0007202)	0.42510944762479	P2RY6
+positive regulation of cellular protein metabolic process (GO:0032270)	0.4346824458908515	IL12A,ADAM17
+regulation of cytokine biosynthetic process (GO:0042035)	0.43943683500781233	PRG3
+secretion (GO:0046903)	0.4431938515174264	CCL3,CCL8
+positive regulation of phospholipase activity (GO:0010518)	0.4464674306828944	P2RY6
+regulation of specific transcription from RNA polymerase II promoter (GO:0010551)	0.4464674306828944	MEF2C
+regulation of cell cycle (GO:0051726)	0.44711391671162976	ADAM17,HPGD,CDKN2C
+protein catabolic process (GO:0030163)	0.4473316225721157	MMP14,CPA3,CTSS,CTSH
+positive regulation of protein metabolic process (GO:0051247)	0.4516355629272205	IL12A,ADAM17
+regulation of T cell activation (GO:0050863)	0.45341074624323036	IL18
+regulation of myeloid cell differentiation (GO:0045637)	0.45341074624323036	SCIN
+transcription from RNA polymerase II promoter (GO:0006366)	0.4558297185661179	TSC22D1,STAT1
+response to DNA damage stimulus (GO:0006974)	0.46021242278355684	TREX1,SESN1,EYA1
+negative regulation of cell cycle (GO:0045786)	0.460267854058704	HPGD
+sulfur metabolic process (GO:0006790)	0.460267854058704	HS3ST3B1
+phosphoinositide-mediated signaling (GO:0048015)	0.4737276709142965	P2RY6
+lipid catabolic process (GO:0016042)	0.4737276709142965	SCARF1
+cell death (GO:0008219)	0.492740447850392	PMAIP1,BCL2
+DNA recombination (GO:0006310)	0.4932969061073422	TREX1
+catabolic process (GO:0009056)	0.49429551253808657	ISG20,MMP14,CPA3,RNASE6,CTSS,CTSH,SCARF1
+negative regulation of cell growth (GO:0030308)	0.5059411724292787	CDKN2C
+negative regulation of cell differentiation (GO:0045596)	0.5059411724292787	HOXA7
+transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178)	0.5059411724292787	HPGD
+DNA metabolic process (GO:0006259)	0.5128727973511447	ISG20,DNMT3L,TREX1,EYA1
+muscle organ development (GO:0007517)	0.5243243048376846	MEF2C
+negative regulation of growth (GO:0045926)	0.5303002849409046	CDKN2C
+DNA repair (GO:0006281)	0.5356874628493268	TREX1,EYA1
+polysaccharide metabolic process (GO:0005976)	0.5362019523512479	HS3ST3B1
+elevation of cytosolic calcium ion concentration (GO:0007204)	0.542030221627463	CD52
+glycerophospholipid metabolic process (GO:0006650)	0.542030221627463	CHPT1
+cognition (GO:0050890)	0.5537649695207401	VLDLR,WHRN,EYA1
+cytosolic calcium ion homeostasis (GO:0051480)	0.5590836203917519	CD52
+regulation of translation (GO:0006417)	0.5646272223100474	PRG3
+regulation of protein transport (GO:0051223)	0.5701018346319392	CD27
+response to light stimulus (GO:0009416)	0.5701018346319392	IL12A
+transcription, DNA-dependent (GO:0006351)	0.5725484624013124	TSC22D1,STAT1
+protein amino acid dephosphorylation (GO:0006470)	0.586120179674938	EYA1
+cell differentiation (GO:0030154)	0.5901796376102452	VEGFA,ANXA1
+detection of stimulus (GO:0051606)	0.5913272279952753	RTP4
+regulation of establishment of protein localization (GO:0070201)	0.5913272279952753	CD27
+neurological system process (GO:0050877)	0.5940849899181393	VLDLR,WHRN,EYA1
+protein ubiquitination (GO:0016567)	0.5964694330681476	TSPAN17
+protein metabolic process (GO:0019538)	0.5981984986818548	ISG15,MMP14,CCL2,FN1,SEPX1,PRKCB,EYA1,CPA3,ANXA1,TSPAN17,HS3ST3B1,STAT1,CTSS,CTSH
+regulation of protein localization (GO:0032880)	0.6065625004301651	CD27
+G-protein signaling, coupled to cyclic nucleotide second messenger (GO:0007187)	0.6065625004301651	CCL2
+dephosphorylation (GO:0016311)	0.611514931977716	EYA1
+regulation of gene-specific transcription (GO:0032583)	0.621235442347897	MEF2C
+establishment or maintenance of chromatin architecture (GO:0006325)	0.6238291373447734	H2AFY,EYA1
+positive regulation of catalytic activity (GO:0043085)	0.627560676894253	ADAM17,STAT1,PMAIP1,P2RY6
+transcription (GO:0006350)	0.6398485062050273	TSC22D1,STAT1
+protein modification by small protein conjugation (GO:0032446)	0.6399600346835349	TSPAN17
+cellular alcohol metabolic process (GO:0006066)	0.6429882745283558	CHPT1,SCARF1
+negative regulation of cellular protein metabolic process (GO:0032269)	0.6444961921982909	PRG3
+cyclic-nucleotide-mediated signaling (GO:0019935)	0.6444961921982909	CCL2
+positive regulation of metabolic process (GO:0009893)	0.6544871212776072	MEF2C,IL12A,PRG3,ADAM17,EYA1
+regulation of phosphorylation (GO:0042325)	0.6551078395301846	IL12A,ADAM17,CDKN2C
+cellular response to DNA damage stimulus (GO:0034984)	0.6613810883907325	TREX1,EYA1
+cofactor metabolic process (GO:0051186)	0.6620820679025723	MOCOS
+protein transport (GO:0015031)	0.684729046697686	RTP4,PRKCB
+establishment of protein localization (GO:0045184)	0.6903590050920885	RTP4,PRKCB
+protein targeting (GO:0006605)	0.6908098098633779	RTP4
+phospholipid metabolic process (GO:0006644)	0.6908098098633779	CHPT1
+spermatogenesis (GO:0007283)	0.6947113902436935	DNMT3L
+cellular amino acid metabolic process (GO:0006520)	0.6985642389518124	HDC
+protein amino acid phosphorylation (GO:0006468)	0.7071747433435563	STAT1,CCL2,PRKCB
+DNA replication (GO:0006260)	0.7171183354643744	TREX1
+protein modification process (GO:0006464)	0.7215867039723697	ISG15,CCL2,ANXA1,TSPAN17,STAT1,FN1,PRKCB,EYA1
+regulation of protein kinase activity (GO:0045859)	0.7224408975518826	ADAM17,CDKN2C
+regulation of gene expression (GO:0010468)	0.7303847716822471	MEF2C,KLF9,PRG3,IRF7,DNMT3L,H2AFY,GFI1B,STAT2,ELK3,HOXA7
+cell-cell adhesion (GO:0016337)	0.7345414351344731	NLGN2
+gamete generation (GO:0007276)	0.7345414351344731	DNMT3L
+phosphorylation (GO:0016310)	0.7350465968135289	STAT1,CCL2,PRKCB
+phosphate metabolic process (GO:0006796)	0.7350606362795954	CCL2,STAT1,PRKCB,EYA1
+sensory perception (GO:0007600)	0.7398469484841339	WHRN,EYA1
+regulation of catalytic activity (GO:0050790)	0.7527352036132579	CDKN2C,P2RY6,ADAM17,STAT1,PMAIP1
+positive regulation of protein kinase activity (GO:0045860)	0.7721424144110974	ADAM17
+positive regulation of kinase activity (GO:0033674)	0.7721424144110974	ADAM17
+chromosome organization (GO:0051276)	0.7804183669212273	H2AFY,EYA1
+actin filament-based process (GO:0030029)	0.7834644656867077	SCIN
+cellular protein metabolic process (GO:0044267)	0.7881521991357763	ISG15,CCL2,FN1,SEPX1,PRKCB,EYA1,ANXA1,TSPAN17,HS3ST3B1,STAT1
+positive regulation of transferase activity (GO:0051347)	0.7915889201150935	ADAM17
+chromatin modification (GO:0016568)	0.7968368597327371	EYA1
+regulation of signal transduction (GO:0009966)	0.8031175424586933	VEGFA,IL12A,ADAM17
+regulation of transcription, DNA-dependent (GO:0006355)	0.8034383439505297	MEF2C,KLF9,GFI1B,STAT2,HOXA7,IRF7
+transport (GO:0006810)	0.8060239854284895	CCL3,CCL8,PPBP,HVCN1,SORL1,PRKCB,RTP4,SLC40A1,PKD2L1,SCARF1
+tissue development (GO:0009888)	0.8118086000113993	CSRP3
+regulation of RNA metabolic process (GO:0051252)	0.8304889451344774	MEF2C,KLF9,GFI1B,STAT2,HOXA7,IRF7
+organelle organization (GO:0006996)	0.8348639143002957	CCL3,H2AFY,BCL2,PMAIP1,EYA1
+cellular response to stimulus (GO:0051716)	0.8362778285325367	TREX1,CCL2,EYA1
+intracellular protein transport (GO:0006886)	0.8615298352246082	RTP4
+regulation of transcription (GO:0045449)	0.8675557856368238	MEF2C,KLF9,IRF7,GFI1B,STAT2,ELK3,HOXA7
+intracellular signaling cascade (GO:0007242)	0.8697843210867332	CCL2,P2RY6,STAT1,STAT2,LAT2
+RNA metabolic process (GO:0016070)	0.8803545052081538	ISG20,TSC22D1,RNASE6,STAT1
+metabolic process (GO:0008152)	0.8908445304117075	HSD11B1,MMP14,HPGD,IL18,CCL2,CD52,CHPT1,FN1,HDC,TSPAN17,MOCOS,HS3ST3B1,SCARF1,ISG20,ISG15,PRG3,CMA1,SEPX1,AOAH,PRKCB,EYA1,DGAT2,DNMT3L,CPA3,TSC22D1,RNASE6,ANXA1,TREX1,STAT1,CTSS,CTSH
+establishment of localization in cell (GO:0051649)	0.8990591226373578	RTP4,CCL3,CCL8
+cytoskeleton organization (GO:0007010)	0.9020618927341212	CCL3
+anatomical structure development (GO:0048856)	0.9129381775656983	MEF2C,VEGFA,EPHB2,CSRP3,VLDLR
+nucleobase, nucleoside, nucleotide and nucleic acid metabolic process (GO:0006139)	0.9428659353054771	ISG20,EYA1,DNMT3L,TSC22D1,RNASE6,TREX1,STAT1
+protein complex assembly (GO:0006461)	0.9492564566442169	LPXN
+positive regulation of gene expression (GO:0010628)	0.9608382928128513	MEF2C
+carbohydrate metabolic process (GO:0005975)	0.9681851862510549	HS3ST3B1
+intracellular transport (GO:0046907)	0.9880581888004015	RTP4
+biological_process (GO:0008150)	1.0	HSD11B1,GCA,PPBP,FN1,EMR1,HDC,TSPAN17,HS3ST3B1,RSAD2,SCARF1,IL12A,EPHB2,KLF9,PRG3,BCL2,IGFBP7,SORL1,PRKCB,IRF7,DLK1,DLG3,RNASE6,ELK3,MEF2C,GAS7,MMP14,MFGE8,CSF1R,PDLIM1,ADAM17,PKD2L1,HOXA7,HOXA9,ISG20,ISG15,FPR2,P2RY6,CMA1,SCIN,TSC22D1,CDKN2C,VEGFA,GPR171,CHPT1,DAB2,SLC40A1,MOCOS,S100A8,S100A9,GPNMB,HVCN1,AOAH,PILRA,RTP4,CPA3,TREM2,H2AFY,TREX1,HOMER2,GFI1B,AIF1,HPGD,IL18,CCL3,CCL2,CCL8,CCL7,CD52,SLC11A1,NRP1,CD27,SESN1,LILRB4,LAT2,LTF,LPXN,NLGN2,VLDLR,PMAIP1,MX1,MX2,SEPX1,EYA1,DGAT2,MPO,DNMT3L,STX3,P2RY14,WHRN,ANXA1,ANXA3,CSRP3,STAT1,STAT2,CTSS,CTSC,CTSH

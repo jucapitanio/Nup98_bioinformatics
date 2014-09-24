@@ -1,0 +1,55 @@
+Term	P-value	Genes
+regulation of viral genome replication (GO:0045069)	0.01396047925496898	CD28
+positive regulation of translation (GO:0045727)	0.01396047925496898	CD28
+regulation of interleukin-2 biosynthetic process (GO:0045076)	0.01396047925496898	CD28
+cellular aldehyde metabolic process (GO:0006081)	0.015115994318143686	ALDH1A1
+positive regulation of anti-apoptosis (GO:0045768)	0.017423414087478	CD28
+positive regulation of T cell proliferation (GO:0042102)	0.020875534298742743	CD28
+regulation of anti-apoptosis (GO:0045767)	0.022023842897709846	CD28
+positive regulation of mitosis (GO:0045840)	0.024316869450736252	CD28
+positive regulation of mononuclear cell proliferation (GO:0032946)	0.02546158958856542	CD28
+striated muscle contraction (GO:0006941)	0.030028541317191324	SMPX
+positive regulation of T cell activation (GO:0050870)	0.037974948322849464	CD28
+pattern specification process (GO:0007389)	0.03910541254341012	PBX3
+positive regulation of cell cycle (GO:0045787)	0.04248972382355998	CD28
+membrane fusion (GO:0006944)	0.04586343567728348	CRISP1
+T cell activation (GO:0042110)	0.04586343567728348	CD28
+humoral immune response (GO:0006959)	0.04586343567728348	CD28
+regulation of cytokine biosynthetic process (GO:0042035)	0.052579177270380716	CD28
+regulation of mitosis (GO:0007088)	0.053694373111428564	CD28
+regulation of T cell activation (GO:0050863)	0.05480840197235053	CD28
+regulation of lymphocyte activation (GO:0051249)	0.0680861119716875	CD28
+regulation of translation (GO:0006417)	0.07466258200797307	CD28
+leukocyte activation (GO:0045321)	0.10374905536946291	CD28
+muscle contraction (GO:0006936)	0.10693017186459026	SMPX
+positive regulation of immune system process (GO:0002684)	0.10798831146998582	CD28
+regulation of immune response (GO:0050776)	0.10798831146998582	CD28
+regulation of mitotic cell cycle (GO:0007346)	0.11115604701186524	CD28
+regulation of cytokine production (GO:0001817)	0.11326231157436088	CD28
+cell activation (GO:0001775)	0.12684522626918504	CD28
+positive regulation of cellular protein metabolic process (GO:0032270)	0.1289184066479051	CD28
+positive regulation of protein metabolic process (GO:0051247)	0.13305164544587914	CD28
+cellular cation homeostasis (GO:0030003)	0.14024288205791244	PRNP
+cell differentiation (GO:0030154)	0.1694735900105339	CD28
+cellular ion homeostasis (GO:0006873)	0.17145654134149196	PRNP
+membrane organization (GO:0016044)	0.18032784224632376	CRISP1
+ion homeostasis (GO:0050801)	0.18326612257481806	PRNP
+multicellular organismal development (GO:0007275)	0.19008573076688326	HOXA9
+cellular homeostasis (GO:0019725)	0.1929928917114228	PRNP
+regulation of cell cycle (GO:0051726)	0.20643736682536754	CD28
+positive regulation of cell proliferation (GO:0008284)	0.20643736682536754	CD28
+regulation of gene expression (GO:0010468)	0.29187436764380237	MYCN,CD28
+homeostatic process (GO:0042592)	0.3027904302783381	PRNP
+regulation of transcription from RNA polymerase II promoter (GO:0006357)	0.33033021974491183	MYCN
+regulation of cell proliferation (GO:0042127)	0.3779353454686802	CD28
+immune response (GO:0006955)	0.3983580039371772	CD28
+positive regulation of metabolic process (GO:0009893)	0.41090885000204186	CD28
+immune system process (GO:0002376)	0.4892299900062111	CD28
+regulation of transcription, DNA-dependent (GO:0006355)	0.5314074178069816	MYCN
+regulation of RNA metabolic process (GO:0051252)	0.5449556655183684	MYCN
+cell surface receptor linked signal transduction (GO:0007166)	0.5710121167112239	CD28
+regulation of transcription (GO:0045449)	0.6156927409359811	MYCN
+signal transduction (GO:0007165)	0.6333722523516959	KIT,CD28
+cell communication (GO:0007154)	0.6919393073081591	KIT,CD28
+metabolic process (GO:0008152)	0.7182749590938043	CD28,PRNP,ALDH1A1
+biological_process (GO:0008150)	1.0	SMPX,PRNP,HOXA9,MYCN,CRISP1,ALDH1A1,KIT,CD28,PBX3

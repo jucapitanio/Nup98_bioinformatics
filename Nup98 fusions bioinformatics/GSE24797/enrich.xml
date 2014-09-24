@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><Enrichment>
+    <Summary>
+        <Term p-value="3.09E-26">16166618-SuppTable4</Term>
+        <Term p-value="8.06E-20">16166618-SuppTable3</Term>
+        <Term p-value="2.1E-11">18160665-TableS5</Term>
+        <Term p-value="5.49E-11">15474998-tableS1b</Term>
+        <Term p-value="1.21E-10">15897907-SuppTable2</Term>
+        <Term p-value="4.82E-10">MP0002429_abnormal_blood_cell_</Term>
+        <Term p-value="5.09E-10">MP0002452_abnormal_antigen_presenting_</Term>
+        <Term p-value="1.15E-9">15474998-tableS1a</Term>
+        <Term p-value="1.48E-9">15474998-tableS1c</Term>
+        <Term p-value="2.38E-9">17676974-TableS1</Term>
+    </Summary>
+    <Background name="Chromosome Location">
+        <Term p-value="6.42E-4">chr12p13</Term>
+        <Term p-value="3.22E-3">chr7p15</Term>
+        <Term p-value="7.8E-3">chr5p13</Term>
+        <Term p-value="2.63E-2">chr7q36</Term>
+        <Term p-value="3.05E-2">chr2p14</Term>
+        <Term p-value="3.25E-2">chr13q34</Term>
+        <Term p-value="3.36E-2">chr7p</Term>
+        <Term p-value="3.36E-2">chr8q12</Term>
+        <Term p-value="3.57E-2">chr4q12</Term>
+        <Term p-value="4.29E-2">chr9p</Term>
+    </Background>
+    <Background name="GeneSigDB">
+        <Term p-value="3.09E-26">16166618-SuppTable4</Term>
+        <Term p-value="8.06E-20">16166618-SuppTable3</Term>
+        <Term p-value="2.1E-11">18160665-TableS5</Term>
+        <Term p-value="5.49E-11">15474998-tableS1b</Term>
+        <Term p-value="1.21E-10">15897907-SuppTable2</Term>
+        <Term p-value="1.15E-9">15474998-tableS1a</Term>
+        <Term p-value="1.48E-9">15474998-tableS1c</Term>
+        <Term p-value="2.38E-9">17676974-TableS1</Term>
+        <Term p-value="1.97E-8">16440291-SuppTable1</Term>
+        <Term p-value="2E-8">18450603-Table3S</Term>
+    </Background>
+    <Background name="GO Molecular Function">
+        <Term p-value="2.24E-3">protein dimerization activity (GO:0046983)</Term>
+        <Term p-value="3.74E-3">signal transducer activity (GO:0004871)</Term>
+        <Term p-value="3.8E-3">receptor activity (GO:0004872)</Term>
+        <Term p-value="3.99E-3">protein homodimerization activity (GO:0042803)</Term>
+        <Term p-value="8.4E-3">glucose transmembrane transporter activity (GO:0005355)</Term>
+        <Term p-value="9.86E-3">oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors (GO:0016706)</Term>
+        <Term p-value="1.27E-2">lipid binding (GO:0008289)</Term>
+        <Term p-value="1.31E-2">protein heterodimerization activity (GO:0046982)</Term>
+        <Term p-value="1.48E-2">fatty acid binding (GO:0005504)</Term>
+        <Term p-value="1.48E-2">heat shock protein binding (GO:0031072)</Term>
+    </Background>
+    <Background name="Reactome Pathways">
+        <Term p-value="3.97E-3">Metabolism of vitamins and cofactors</Term>
+        <Term p-value="4.1E-2">Metabolism of lipids and lipoproteins</Term>
+        <Term p-value="5.93E-2">Metabolism of amino acids</Term>
+        <Term p-value="8.74E-2">Signaling in Immune system</Term>
+        <Term p-value="1.44E-1">Hemostasis</Term>
+        <Term p-value="2.6E-1">Integrin cell surface interactions</Term>
+        <Term p-value="3.26E-1">Gap junction trafficking and regulation</Term>
+        <Term p-value="3.44E-1">mRNA Processing</Term>
+        <Term p-value="3.52E-1">Metabolism of carbohydrates</Term>
+        <Term p-value="3.86E-1">Axon guidance</Term>
+    </Background>
+    <Background name="WikiPathways Pathways">
+        <Term p-value="5.29E-3">Hs_Complement_and_Coagulation_Cascades_KEGG_WP558_22582</Term>
+        <Term p-value="5.43E-3">Hs_Statin_Pathway_PharmGKB_WP430_21586</Term>
+        <Term p-value="5.43E-3">Hs_Statin_Pathway_PharmGKB_WP430_29996</Term>
+        <Term p-value="1.24E-2">Hs_Complement_Activation,_Classical_Pathway_WP545_21826</Term>
+        <Term p-value="3.47E-2">Hs_GPCRs,_Class_B_Secretin-like_WP334_21381</Term>
+        <Term p-value="4.27E-2">Hs_Hypertrophy_Model_WP516_21764</Term>
+        <Term p-value="5.58E-2">Hs_Urea_cycle_and_metabolism_of_amino_groups_WP497_21724</Term>
+        <Term p-value="1.31E-1">Hs_Wnt_Signaling_Pathway_NetPath_WP363_28127</Term>
+        <Term p-value="1.92E-1">Hs_Small_Ligand_GPCRs_WP247_21199</Term>
+        <Term p-value="2.47E-1">Hs_Biogenic_Amine_Synthesis_WP550_21838</Term>
+    </Background>
+    <Background name="PFAM InterPro Domains">
+        <Term p-value="1.84E-2">HLH_basic</Term>
+        <Term p-value="1.88E-2">Rhodanese-like</Term>
+        <Term p-value="2.21E-2">Znf_DHHC</Term>
+        <Term p-value="2.39E-2">PAS_3</Term>
+        <Term p-value="2.58E-2">Exo_endo_phos</Term>
+        <Term p-value="2.84E-2">PH</Term>
+        <Term p-value="3.79E-2">Lipocln_cytFABP</Term>
+        <Term p-value="3.79E-2">C1q</Term>
+        <Term p-value="4.01E-2">FHA</Term>
+        <Term p-value="5.17E-2">Tyr_Pase_rcpt/non-rcpt</Term>
+    </Background>
+    <Background name="HMDB Metabolites">
+        <Term p-value="3.72E-4">HMDB00725</Term>
+        <Term p-value="6.95E-3">HMDB00058</Term>
+        <Term p-value="9.22E-3">HMDB01586</Term>
+        <Term p-value="9.22E-3">HMDB01220</Term>
+        <Term p-value="1.2E-2">HMDB00187</Term>
+        <Term p-value="1.51E-2">HMDB00286</Term>
+        <Term p-value="1.71E-2">HMDB00692</Term>
+        <Term p-value="2.03E-2">HMDB01498</Term>
+        <Term p-value="3.49E-2">HMDB00288</Term>
+        <Term p-value="3.72E-2">HMDB00254</Term>
+    </Background>
+    <Background name="OMIM Disease">
+        <Term p-value="5.34E-4">myocardial_infarction</Term>
+        <Term p-value="2.68E-2">charcot-marie-tooth_disease</Term>
+        <Term p-value="3.42E-2">obesity</Term>
+        <Term p-value="3.81E-2">cardiomyopathy,_dilated</Term>
+        <Term p-value="5.78E-2">cardiomyopathy</Term>
+        <Term p-value="1.19E-1">arrhythmogenic_right_ventricular_dysplasia</Term>
+        <Term p-value="1.19E-1">epidermolysis_bullosa</Term>
+        <Term p-value="1.19E-1">glycogen_storage_disease</Term>
+        <Term p-value="1.27E-1">microcephaly</Term>
+        <Term p-value="1.35E-1">hypogonadism</Term>
+    </Background>
+    <Background name="BioCarta Pathways">
+        <Term p-value="5.08E-3">TH1TH2PATHWAY</Term>
+        <Term p-value="1.47E-2">NKTPATHWAY</Term>
+        <Term p-value="1.86E-2">VITCBPATHWAY</Term>
+        <Term p-value="2.45E-2">EXTRINSICPATHWAY</Term>
+        <Term p-value="3.11E-2">HIFPATHWAY</Term>
+        <Term p-value="6.34E-2">INTRINSICPATHWAY</Term>
+        <Term p-value="1.11E-1">ARGININECPATHWAY</Term>
+        <Term p-value="1.11E-1">IL18PATHWAY</Term>
+        <Term p-value="1.11E-1">NEUROTRANSMITTERSPATHWAY</Term>
+        <Term p-value="1.11E-1">IFNGPATHWAY</Term>
+    </Background>
+    <Background name="GO Cellular Component">
+        <Term p-value="2.7E-3">integral to plasma membrane (GO:0005887)</Term>
+        <Term p-value="3E-3">integral to membrane (GO:0016021)</Term>
+        <Term p-value="3.74E-3">intrinsic to membrane (GO:0031224)</Term>
+        <Term p-value="1.77E-2">membrane part (GO:0044425)</Term>
+        <Term p-value="2.61E-2">plasma membrane (GO:0005886)</Term>
+        <Term p-value="3.28E-2">extracellular region (GO:0005576)</Term>
+        <Term p-value="6.05E-2">external side of plasma membrane (GO:0009897)</Term>
+        <Term p-value="7.09E-2">platelet alpha granule lumen (GO:0031093)</Term>
+        <Term p-value="8.58E-2">membrane (GO:0016020)</Term>
+        <Term p-value="9.31E-2">nuclear pore (GO:0005643)</Term>
+    </Background>
+    <Background name="MGI Mammalian Phenotype">
+        <Term p-value="4.82E-10">MP0002429_abnormal_blood_cell_</Term>
+        <Term p-value="5.09E-10">MP0002452_abnormal_antigen_presenting_</Term>
+        <Term p-value="2.44E-7">MP0002420_abnormal_adaptive_immunity_</Term>
+        <Term p-value="2.69E-7">MP0001819_abnormal_immune_cell_</Term>
+        <Term p-value="1.28E-6">MP0002398_abnormal_bone_marrow_</Term>
+        <Term p-value="5.05E-6">MP0002722_abnormal_immune_system_</Term>
+        <Term p-value="8.13E-6">MP0002148_abnormal_hypersensitivity_rea_</Term>
+        <Term p-value="1.26E-5">MP0000716_abnormal_immune_system_</Term>
+        <Term p-value="1.86E-5">MP0002419_abnormal_innate_immunity_</Term>
+        <Term p-value="2.7E-5">MP0002135_abnormal_kidney_morphology_</Term>
+    </Background>
+    <Background name="GO Biological Process">
+        <Term p-value="3.81E-4">phospholipid efflux (GO:0033700)</Term>
+        <Term p-value="9.35E-4">reverse cholesterol transport (GO:0043691)</Term>
+        <Term p-value="9.35E-4">phospholipid transport (GO:0015914)</Term>
+        <Term p-value="6.12E-3">negative regulation of cell differentiation (GO:0045596)</Term>
+        <Term p-value="7.82E-3">cholesterol transport (GO:0030301)</Term>
+        <Term p-value="7.86E-3">positive regulation of endothelial cell proliferation (GO:0001938)</Term>
+        <Term p-value="9.36E-3">cellular iron ion homeostasis (GO:0006879)</Term>
+        <Term p-value="9.36E-3">positive regulation of positive chemotaxis (GO:0050927)</Term>
+        <Term p-value="1.1E-2">regulation of viral genome replication (GO:0045069)</Term>
+        <Term p-value="1.1E-2">iron ion homeostasis (GO:0055072)</Term>
+    </Background>
+    <Background name="microRNA">
+        <Term p-value="1.73E-3">ACTGCAG,MIR-17-3P</Term>
+        <Term p-value="3.31E-3">CAGTCAC,MIR-134</Term>
+        <Term p-value="3.67E-3">CTTTGTA,MIR-524</Term>
+        <Term p-value="3.92E-3">TTGGGAG,MIR-150</Term>
+        <Term p-value="4.93E-3">CTACTGT,MIR-199A</Term>
+        <Term p-value="5.31E-3">GGCAGTG,MIR-324-3P</Term>
+        <Term p-value="6.19E-3">AACATTC,MIR-409-3P</Term>
+        <Term p-value="9.17E-3">ATGAAGG,MIR-205</Term>
+        <Term p-value="1.48E-2">GTGCCAT,MIR-183</Term>
+        <Term p-value="1.58E-2">TTGCACT,MIR-130A,MIR-301,MIR-130B</Term>
+    </Background>
+    <Background name="KEGG Pathways">
+        <Term p-value="4.14E-3">HSA04610_COMPLEMENT_AND_COAGULATION_CASCADES</Term>
+        <Term p-value="9.88E-3">HSA05010_ALZHEIMERS_DISEASE</Term>
+        <Term p-value="1.73E-2">HSA00330_ARGININE_AND_PROLINE_METABOLISM</Term>
+        <Term p-value="2.19E-2">HSA03320_PPAR_SIGNALING_PATHWAY</Term>
+        <Term p-value="4.25E-2">HSA04512_ECM_RECEPTOR_INTERACTION</Term>
+        <Term p-value="5.05E-2">HSA04514_CELL_ADHESION_MOLECULES</Term>
+        <Term p-value="8.68E-2">HSA04060_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION</Term>
+        <Term p-value="1.24E-1">HSA00460_CYANOAMINO_ACID_METABOLISM</Term>
+        <Term p-value="1.37E-1">HSA00791_ATRAZINE_DEGRADATION</Term>
+        <Term p-value="1.46E-1">HSA04640_HEMATOPOIETIC_CELL_LINEAGE</Term>
+    </Background>
+</Enrichment>

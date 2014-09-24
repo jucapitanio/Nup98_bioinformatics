@@ -1,0 +1,3577 @@
+<?xml version="1.0" encoding="UTF-8"?><graph label="X2K Subnetwork" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML" directed="1">
+    <att name="documentVersion" value="1.1"/>
+    <att type="string" name="backgroundColor" value="#ffffff"/>
+    <node label="XRCC5" id="0">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="XRCC5"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="STAT5A" id="1">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="STAT5A"/>
+        <graphics type="ellipse" h="38" w="38" fill="#ffff00"/>
+    </node>
+    <node label="XRCC6" id="2">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="XRCC6"/>
+        <graphics type="ellipse" h="45" w="45" fill="#ffff00"/>
+    </node>
+    <node label="STAT5B" id="3">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="STAT5B"/>
+        <graphics type="ellipse" h="38" w="38" fill="#ffff00"/>
+    </node>
+    <node label="E6" id="4">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="E6"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="RORB" id="5">
+        <att type="string" name="node.fillColor" value="#ff0000"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="RORB"/>
+        <graphics type="ellipse" h="32" w="32" fill="#ff0000"/>
+    </node>
+    <node label="E7" id="6">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="E7"/>
+        <graphics type="ellipse" h="29" w="29" fill="#ffff00"/>
+    </node>
+    <node label="REST" id="7">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="REST"/>
+        <graphics type="ellipse" h="29" w="29" fill="#ffff00"/>
+    </node>
+    <node label="CTNNB1" id="8">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CTNNB1"/>
+        <graphics type="ellipse" h="58" w="58" fill="#ffff00"/>
+    </node>
+    <node label="CITED2" id="9">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CITED2"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="1500003O03RIK" id="10">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="1500003O03RIK"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="PGR" id="11">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PGR"/>
+        <graphics type="ellipse" h="46" w="46" fill="#ffff00"/>
+    </node>
+    <node label="SIN3A" id="12">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SIN3A"/>
+        <graphics type="ellipse" h="56" w="56" fill="#ffff00"/>
+    </node>
+    <node label="E2" id="13">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="E2"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="FOXF2" id="14">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="FOXF2"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="RARA" id="15">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="RARA"/>
+        <graphics type="ellipse" h="56" w="56" fill="#ffff00"/>
+    </node>
+    <node label="TBPL1" id="16">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TBPL1"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="RXRA" id="17">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="RXRA"/>
+        <graphics type="ellipse" h="55" w="55" fill="#ffff00"/>
+    </node>
+    <node label="YY1" id="18">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="YY1"/>
+        <graphics type="ellipse" h="40" w="40" fill="#ffff00"/>
+    </node>
+    <node label="JARID1A" id="19">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="JARID1A"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="LIFR" id="20">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="LIFR"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="MAPK1" id="21">
+        <att type="string" name="node.fillColor" value="#00ff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MAPK1"/>
+        <graphics type="ellipse" h="64" w="64" fill="#00ff00"/>
+    </node>
+    <node label="NME2" id="22">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NME2"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="MSX1" id="23">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MSX1"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="HNF4A" id="24">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HNF4A"/>
+        <graphics type="ellipse" h="46" w="46" fill="#ffff00"/>
+    </node>
+    <node label="PIAS3" id="25">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PIAS3"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="NME1" id="26">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NME1"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="JUN" id="27">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="JUN"/>
+        <graphics type="ellipse" h="96" w="96" fill="#ffff00"/>
+    </node>
+    <node label="MAPK3" id="28">
+        <att type="string" name="node.fillColor" value="#00ff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MAPK3"/>
+        <graphics type="ellipse" h="55" w="55" fill="#00ff00"/>
+    </node>
+    <node label="VGLL1" id="29">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="VGLL1"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="MAPK9" id="30">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MAPK9"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="MAPK8" id="31">
+        <att type="string" name="node.fillColor" value="#00ff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MAPK8"/>
+        <graphics type="ellipse" h="58" w="58" fill="#00ff00"/>
+    </node>
+    <node label="PIAS1" id="32">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PIAS1"/>
+        <graphics type="ellipse" h="42" w="42" fill="#ffff00"/>
+    </node>
+    <node label="ZNF76" id="33">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ZNF76"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="NFKBIB" id="34">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NFKBIB"/>
+        <graphics type="ellipse" h="30" w="30" fill="#ffff00"/>
+    </node>
+    <node label="ELN" id="35">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ELN"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="HOXB13" id="36">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HOXB13"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="2010110P09RIK" id="37">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="2010110P09RIK"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="SFPI1" id="38">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SFPI1"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="TRAM2" id="39">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TRAM2"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="TCF1" id="40">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TCF1"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="HAP1" id="41">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HAP1"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="KLF5" id="42">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="KLF5"/>
+        <graphics type="ellipse" h="39" w="39" fill="#ffff00"/>
+    </node>
+    <node label="DHX9" id="43">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="DHX9"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="HD" id="44">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HD"/>
+        <graphics type="ellipse" h="27" w="27" fill="#ffff00"/>
+    </node>
+    <node label="IKZF1" id="45">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="IKZF1"/>
+        <graphics type="ellipse" h="30" w="30" fill="#ffff00"/>
+    </node>
+    <node label="SUB1" id="46">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SUB1"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="CREBBP" id="47">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CREBBP"/>
+        <graphics type="ellipse" h="106" w="106" fill="#ffff00"/>
+    </node>
+    <node label="SMAD4" id="48">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SMAD4"/>
+        <graphics type="ellipse" h="45" w="45" fill="#ffff00"/>
+    </node>
+    <node label="SMAD3" id="49">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SMAD3"/>
+        <graphics type="ellipse" h="62" w="62" fill="#ffff00"/>
+    </node>
+    <node label="EPRS" id="50">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="EPRS"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="DDX5" id="51">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="DDX5"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="PTPN11" id="52">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PTPN11"/>
+        <graphics type="ellipse" h="29" w="29" fill="#ffff00"/>
+    </node>
+    <node label="RNF4" id="53">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="RNF4"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="WDR62" id="54">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="WDR62"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="ETS1" id="55">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ETS1"/>
+        <graphics type="ellipse" h="46" w="46" fill="#ffff00"/>
+    </node>
+    <node label="SMURF2" id="56">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SMURF2"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="MAP6" id="57">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MAP6"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="PARP1" id="58">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PARP1"/>
+        <graphics type="ellipse" h="48" w="48" fill="#ffff00"/>
+    </node>
+    <node label="TCF12" id="59">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TCF12"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="NCOR2" id="60">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NCOR2"/>
+        <graphics type="ellipse" h="55" w="55" fill="#ffff00"/>
+    </node>
+    <node label="TAF1B" id="61">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TAF1B"/>
+        <graphics type="ellipse" h="32" w="32" fill="#ffff00"/>
+    </node>
+    <node label="COPS2" id="62">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="COPS2"/>
+        <graphics type="ellipse" h="32" w="32" fill="#ffff00"/>
+    </node>
+    <node label="TAF1A" id="63">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TAF1A"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="HNF1A" id="64">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HNF1A"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="ELF3" id="65">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ELF3"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="COPS5" id="66">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="COPS5"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="GRIP1" id="67">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GRIP1"/>
+        <graphics type="ellipse" h="35" w="35" fill="#ffff00"/>
+    </node>
+    <node label="SPI1" id="68">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SPI1"/>
+        <graphics type="ellipse" h="41" w="41" fill="#ffff00"/>
+    </node>
+    <node label="NFKB1" id="69">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NFKB1"/>
+        <graphics type="ellipse" h="65" w="65" fill="#ffff00"/>
+    </node>
+    <node label="ACTR3" id="70">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ACTR3"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="AES" id="71">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="AES"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="HSF1" id="72">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HSF1"/>
+        <graphics type="ellipse" h="45" w="45" fill="#ffff00"/>
+    </node>
+    <node label="BRD7" id="73">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="BRD7"/>
+        <graphics type="ellipse" h="29" w="29" fill="#ffff00"/>
+    </node>
+    <node label="MKX" id="74">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MKX"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="SPIB" id="75">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SPIB"/>
+        <graphics type="ellipse" h="34" w="34" fill="#ffff00"/>
+    </node>
+    <node label="MYC" id="76">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MYC"/>
+        <graphics type="ellipse" h="75" w="75" fill="#ffff00"/>
+    </node>
+    <node label="NR2F1" id="77">
+        <att type="string" name="node.fillColor" value="#ff0000"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NR2F1"/>
+        <graphics type="ellipse" h="40" w="40" fill="#ff0000"/>
+    </node>
+    <node label="CTBP1" id="78">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CTBP1"/>
+        <graphics type="ellipse" h="42" w="42" fill="#ffff00"/>
+    </node>
+    <node label="AR" id="79">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="AR"/>
+        <graphics type="ellipse" h="82" w="82" fill="#ffff00"/>
+    </node>
+    <node label="SNAPC2" id="80">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SNAPC2"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="BRF2" id="81">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="BRF2"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="SNAPC1" id="82">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SNAPC1"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="SNAPC4" id="83">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SNAPC4"/>
+        <graphics type="ellipse" h="30" w="30" fill="#ffff00"/>
+    </node>
+    <node label="GTF2H4" id="84">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GTF2H4"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="TP53" id="85">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TP53"/>
+        <graphics type="ellipse" h="86" w="86" fill="#ffff00"/>
+    </node>
+    <node label="TLE4" id="86">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TLE4"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="FOSB" id="87">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="FOSB"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="GTF2B" id="88">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GTF2B"/>
+        <graphics type="ellipse" h="71" w="71" fill="#ffff00"/>
+    </node>
+    <node label="TAF11" id="89">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TAF11"/>
+        <graphics type="ellipse" h="40" w="40" fill="#ffff00"/>
+    </node>
+    <node label="TAF10" id="90">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TAF10"/>
+        <graphics type="ellipse" h="39" w="39" fill="#ffff00"/>
+    </node>
+    <node label="TAF13" id="91">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TAF13"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="TAF12" id="92">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TAF12"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="AICDA" id="93">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="AICDA"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="RUVBL2" id="94">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="RUVBL2"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="RUVBL1" id="95">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="RUVBL1"/>
+        <graphics type="ellipse" h="37" w="37" fill="#ffff00"/>
+    </node>
+    <node label="EEF1D" id="96">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="EEF1D"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="NPPA" id="97">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NPPA"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="NACA" id="98">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NACA"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="CREM" id="99">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CREM"/>
+        <graphics type="ellipse" h="32" w="32" fill="#ffff00"/>
+    </node>
+    <node label="ZNFN1A1" id="100">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ZNFN1A1"/>
+        <graphics type="ellipse" h="27" w="27" fill="#ffff00"/>
+    </node>
+    <node label="ZBTB17" id="101">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ZBTB17"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="POLR2A" id="102">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="POLR2A"/>
+        <graphics type="ellipse" h="51" w="51" fill="#ffff00"/>
+    </node>
+    <node label="SET" id="103">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SET"/>
+        <graphics type="ellipse" h="39" w="39" fill="#ffff00"/>
+    </node>
+    <node label="SQSTM1" id="104">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SQSTM1"/>
+        <graphics type="ellipse" h="35" w="35" fill="#ffff00"/>
+    </node>
+    <node label="BCL11B" id="105">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="BCL11B"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="BCL11A" id="106">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="BCL11A"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="NPAT" id="107">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NPAT"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="PPP3CB" id="108">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PPP3CB"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="BCL3" id="109">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="BCL3"/>
+        <graphics type="ellipse" h="42" w="42" fill="#ffff00"/>
+    </node>
+    <node label="PPP3CC" id="110">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PPP3CC"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="BCL6" id="111">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="BCL6"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="TCEA1" id="112">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TCEA1"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="CHP" id="113">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CHP"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="PPP3CA" id="114">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PPP3CA"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="ETV6" id="115">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ETV6"/>
+        <graphics type="ellipse" h="27" w="27" fill="#ffff00"/>
+    </node>
+    <node label="TLX2" id="116">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TLX2"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="CSNK1A1" id="117">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CSNK1A1"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="POLR3F" id="118">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="POLR3F"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="BRD2" id="119">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="BRD2"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="MAPK10" id="120">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MAPK10"/>
+        <graphics type="ellipse" h="29" w="29" fill="#ffff00"/>
+    </node>
+    <node label="YWHAE" id="121">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="YWHAE"/>
+        <graphics type="ellipse" h="30" w="30" fill="#ffff00"/>
+    </node>
+    <node label="TRIM21" id="122">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TRIM21"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="ALIEN" id="123">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ALIEN"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="MNAT1" id="124">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MNAT1"/>
+        <graphics type="ellipse" h="30" w="30" fill="#ffff00"/>
+    </node>
+    <node label="PKNOX1" id="125">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PKNOX1"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="UBTF" id="126">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="UBTF"/>
+        <graphics type="ellipse" h="35" w="35" fill="#ffff00"/>
+    </node>
+    <node label="MAPK14" id="127">
+        <att type="string" name="node.fillColor" value="#00ff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MAPK14"/>
+        <graphics type="ellipse" h="60" w="60" fill="#00ff00"/>
+    </node>
+    <node label="GSK3B" id="128">
+        <att type="string" name="node.fillColor" value="#00ff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GSK3B"/>
+        <graphics type="ellipse" h="82" w="82" fill="#00ff00"/>
+    </node>
+    <node label="PBX1" id="129">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PBX1"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="NR5A1" id="130">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NR5A1"/>
+        <graphics type="ellipse" h="39" w="39" fill="#ffff00"/>
+    </node>
+    <node label="BARD1" id="131">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="BARD1"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="JDP2" id="132">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="JDP2"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="THRA" id="133">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="THRA"/>
+        <graphics type="ellipse" h="47" w="47" fill="#ffff00"/>
+    </node>
+    <node label="TBP" id="134">
+        <att type="string" name="node.fillColor" value="#ff0000"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TBP"/>
+        <graphics type="ellipse" h="140" w="140" fill="#ff0000"/>
+    </node>
+    <node label="CBX5" id="135">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CBX5"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="CSNK2A2" id="136">
+        <att type="string" name="node.fillColor" value="#00ff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CSNK2A2"/>
+        <graphics type="ellipse" h="46" w="46" fill="#00ff00"/>
+    </node>
+    <node label="BATF" id="137">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="BATF"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="HOXC6" id="138">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HOXC6"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="GTF2E1" id="139">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GTF2E1"/>
+        <graphics type="ellipse" h="35" w="35" fill="#ffff00"/>
+    </node>
+    <node label="GTF2E2" id="140">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GTF2E2"/>
+        <graphics type="ellipse" h="33" w="33" fill="#ffff00"/>
+    </node>
+    <node label="CSNK2A1" id="141">
+        <att type="string" name="node.fillColor" value="#00ff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CSNK2A1"/>
+        <graphics type="ellipse" h="72" w="72" fill="#00ff00"/>
+    </node>
+    <node label="HOXC9" id="142">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HOXC9"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="HOXC4" id="143">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HOXC4"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="PRKACA" id="144">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PRKACA"/>
+        <graphics type="ellipse" h="37" w="37" fill="#ffff00"/>
+    </node>
+    <node label="POU2AF1" id="145">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="POU2AF1"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="RELA" id="146">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="RELA"/>
+        <graphics type="ellipse" h="81" w="81" fill="#ffff00"/>
+    </node>
+    <node label="CHP2" id="147">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CHP2"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="DDIT3" id="148">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="DDIT3"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="AHR" id="149">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="AHR"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="EP300" id="150">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="EP300"/>
+        <graphics type="ellipse" h="98" w="98" fill="#ffff00"/>
+    </node>
+    <node label="EDF1" id="151">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="EDF1"/>
+        <graphics type="ellipse" h="27" w="27" fill="#ffff00"/>
+    </node>
+    <node label="NFE2L1" id="152">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NFE2L1"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="NFE2L2" id="153">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NFE2L2"/>
+        <graphics type="ellipse" h="30" w="30" fill="#ffff00"/>
+    </node>
+    <node label="SMARCA2" id="154">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SMARCA2"/>
+        <graphics type="ellipse" h="39" w="39" fill="#ffff00"/>
+    </node>
+    <node label="HMGB1" id="155">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HMGB1"/>
+        <graphics type="ellipse" h="43" w="43" fill="#ffff00"/>
+    </node>
+    <node label="HMGB2" id="156">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HMGB2"/>
+        <graphics type="ellipse" h="35" w="35" fill="#ffff00"/>
+    </node>
+    <node label="SOX2" id="157">
+        <att type="string" name="node.fillColor" value="#ff0000"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SOX2"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ff0000"/>
+    </node>
+    <node label="STIP1" id="158">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="STIP1"/>
+        <graphics type="ellipse" h="27" w="27" fill="#ffff00"/>
+    </node>
+    <node label="CXXC1" id="159">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CXXC1"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="VDR" id="160">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="VDR"/>
+        <graphics type="ellipse" h="48" w="48" fill="#ffff00"/>
+    </node>
+    <node label="HNRNPK" id="161">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HNRNPK"/>
+        <graphics type="ellipse" h="32" w="32" fill="#ffff00"/>
+    </node>
+    <node label="JUND" id="162">
+        <att type="string" name="node.fillColor" value="#ff0000"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="JUND"/>
+        <graphics type="ellipse" h="57" w="57" fill="#ff0000"/>
+    </node>
+    <node label="TAF9" id="163">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TAF9"/>
+        <graphics type="ellipse" h="46" w="46" fill="#ffff00"/>
+    </node>
+    <node label="TRAF6" id="164">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TRAF6"/>
+        <graphics type="ellipse" h="40" w="40" fill="#ffff00"/>
+    </node>
+    <node label="TAF1" id="165">
+        <att type="string" name="node.fillColor" value="#00ff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TAF1"/>
+        <graphics type="ellipse" h="55" w="55" fill="#00ff00"/>
+    </node>
+    <node label="PTPN6" id="166">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PTPN6"/>
+        <graphics type="ellipse" h="30" w="30" fill="#ffff00"/>
+    </node>
+    <node label="TAF4" id="167">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TAF4"/>
+        <graphics type="ellipse" h="41" w="41" fill="#ffff00"/>
+    </node>
+    <node label="TRIP4" id="168">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TRIP4"/>
+        <graphics type="ellipse" h="33" w="33" fill="#ffff00"/>
+    </node>
+    <node label="TAF6" id="169">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TAF6"/>
+        <graphics type="ellipse" h="48" w="48" fill="#ffff00"/>
+    </node>
+    <node label="HTT" id="170">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HTT"/>
+        <graphics type="ellipse" h="33" w="33" fill="#ffff00"/>
+    </node>
+    <node label="TAF7" id="171">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TAF7"/>
+        <graphics type="ellipse" h="37" w="37" fill="#ffff00"/>
+    </node>
+    <node label="TEAD1" id="172">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TEAD1"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="TEAD2" id="173">
+        <att type="string" name="node.fillColor" value="#ff0000"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TEAD2"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ff0000"/>
+    </node>
+    <node label="GTF2A1L" id="174">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GTF2A1L"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="FOXP3" id="175">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="FOXP3"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="BRCA1" id="176">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="BRCA1"/>
+        <graphics type="ellipse" h="66" w="66" fill="#ffff00"/>
+    </node>
+    <node label="ALL1" id="177">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ALL1"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="SLC25A12" id="178">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SLC25A12"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="ATF4" id="179">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ATF4"/>
+        <graphics type="ellipse" h="38" w="38" fill="#ffff00"/>
+    </node>
+    <node label="HDAC2" id="180">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HDAC2"/>
+        <graphics type="ellipse" h="61" w="61" fill="#ffff00"/>
+    </node>
+    <node label="ATF3" id="181">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ATF3"/>
+        <graphics type="ellipse" h="30" w="30" fill="#ffff00"/>
+    </node>
+    <node label="PSMC4" id="182">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PSMC4"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="HDAC1" id="183">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HDAC1"/>
+        <graphics type="ellipse" h="91" w="91" fill="#ffff00"/>
+    </node>
+    <node label="PNRC2" id="184">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PNRC2"/>
+        <graphics type="ellipse" h="27" w="27" fill="#ffff00"/>
+    </node>
+    <node label="PSMC2" id="185">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PSMC2"/>
+        <graphics type="ellipse" h="27" w="27" fill="#ffff00"/>
+    </node>
+    <node label="GTF2F1" id="186">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GTF2F1"/>
+        <graphics type="ellipse" h="43" w="43" fill="#ffff00"/>
+    </node>
+    <node label="PNRC1" id="187">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PNRC1"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="GTF2F2" id="188">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GTF2F2"/>
+        <graphics type="ellipse" h="38" w="38" fill="#ffff00"/>
+    </node>
+    <node label="E2F1" id="189">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="E2F1"/>
+        <graphics type="ellipse" h="47" w="47" fill="#ffff00"/>
+    </node>
+    <node label="FOSL2" id="190">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="FOSL2"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="PAX6" id="191">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PAX6"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="PAX5" id="192">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PAX5"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="PAX3" id="193">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PAX3"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="PC4" id="194">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PC4"/>
+        <graphics type="ellipse" h="27" w="27" fill="#ffff00"/>
+    </node>
+    <node label="MEN1" id="195">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MEN1"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="FOS" id="196">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="FOS"/>
+        <graphics type="ellipse" h="65" w="65" fill="#ffff00"/>
+    </node>
+    <node label="GTF2A1" id="197">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GTF2A1"/>
+        <graphics type="ellipse" h="37" w="37" fill="#ffff00"/>
+    </node>
+    <node label="POU5F1" id="198">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="POU5F1"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="YAP1" id="199">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="YAP1"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="ALX4" id="200">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ALX4"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="KDM5A" id="201">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="KDM5A"/>
+        <graphics type="ellipse" h="30" w="30" fill="#ffff00"/>
+    </node>
+    <node label="FOSL1" id="202">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="FOSL1"/>
+        <graphics type="ellipse" h="27" w="27" fill="#ffff00"/>
+    </node>
+    <node label="ESR1" id="203">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ESR1"/>
+        <graphics type="ellipse" h="103" w="103" fill="#ffff00"/>
+    </node>
+    <node label="UBE2I" id="204">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="UBE2I"/>
+        <graphics type="ellipse" h="49" w="49" fill="#ffff00"/>
+    </node>
+    <node label="CDK7" id="205">
+        <att type="string" name="node.fillColor" value="#00ff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CDK7"/>
+        <graphics type="ellipse" h="33" w="33" fill="#00ff00"/>
+    </node>
+    <node label="MCM2" id="206">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MCM2"/>
+        <graphics type="ellipse" h="27" w="27" fill="#ffff00"/>
+    </node>
+    <node label="RB1" id="207">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="RB1"/>
+        <graphics type="ellipse" h="60" w="60" fill="#ffff00"/>
+    </node>
+    <node label="HMGA1" id="208">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HMGA1"/>
+        <graphics type="ellipse" h="41" w="41" fill="#ffff00"/>
+    </node>
+    <node label="NRIP2" id="209">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NRIP2"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="NRIP1" id="210">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NRIP1"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="RFWD2" id="211">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="RFWD2"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="PRKCQ" id="212">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PRKCQ"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="NCOA1" id="213">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NCOA1"/>
+        <graphics type="ellipse" h="56" w="56" fill="#ffff00"/>
+    </node>
+    <node label="NCOA3" id="214">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NCOA3"/>
+        <graphics type="ellipse" h="51" w="51" fill="#ffff00"/>
+    </node>
+    <node label="NCOA6" id="215">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NCOA6"/>
+        <graphics type="ellipse" h="49" w="49" fill="#ffff00"/>
+    </node>
+    <node label="UBC" id="216">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="UBC"/>
+        <graphics type="ellipse" h="65" w="65" fill="#ffff00"/>
+    </node>
+    <node label="MDM2" id="217">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="MDM2"/>
+        <graphics type="ellipse" h="50" w="50" fill="#ffff00"/>
+    </node>
+    <node label="TXNRD1" id="218">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="TXNRD1"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="PPP3R1" id="219">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PPP3R1"/>
+        <graphics type="ellipse" h="24" w="24" fill="#ffff00"/>
+    </node>
+    <node label="PPP3R2" id="220">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PPP3R2"/>
+        <graphics type="ellipse" h="22" w="22" fill="#ffff00"/>
+    </node>
+    <node label="NFYC" id="221">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NFYC"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="HCFC1" id="222">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HCFC1"/>
+        <graphics type="ellipse" h="35" w="35" fill="#ffff00"/>
+    </node>
+    <node label="PRKDC" id="223">
+        <att type="string" name="node.fillColor" value="#00ff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PRKDC"/>
+        <graphics type="ellipse" h="52" w="52" fill="#00ff00"/>
+    </node>
+    <node label="NFYB" id="224">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NFYB"/>
+        <graphics type="ellipse" h="30" w="30" fill="#ffff00"/>
+    </node>
+    <node label="NFYA" id="225">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NFYA"/>
+        <graphics type="ellipse" h="34" w="34" fill="#ffff00"/>
+    </node>
+    <node label="NR3C1" id="226">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NR3C1"/>
+        <graphics type="ellipse" h="65" w="65" fill="#ffff00"/>
+    </node>
+    <node label="REL" id="227">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="REL"/>
+        <graphics type="ellipse" h="38" w="38" fill="#ffff00"/>
+    </node>
+    <node label="POU2F2" id="228">
+        <att type="string" name="node.fillColor" value="#ff0000"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="POU2F2"/>
+        <graphics type="ellipse" h="34" w="34" fill="#ff0000"/>
+    </node>
+    <node label="POU2F1" id="229">
+        <att type="string" name="node.fillColor" value="#ff0000"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="POU2F1"/>
+        <graphics type="ellipse" h="75" w="75" fill="#ff0000"/>
+    </node>
+    <node label="GTF3C5" id="230">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GTF3C5"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="POU3F2" id="231">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="POU3F2"/>
+        <graphics type="ellipse" h="25" w="25" fill="#ffff00"/>
+    </node>
+    <node label="GTF3C2" id="232">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GTF3C2"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="GAPDH" id="233">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GAPDH"/>
+        <graphics type="ellipse" h="34" w="34" fill="#ffff00"/>
+    </node>
+    <node label="NFATC3" id="234">
+        <att type="string" name="node.fillColor" value="#ff0000"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NFATC3"/>
+        <graphics type="ellipse" h="33" w="33" fill="#ff0000"/>
+    </node>
+    <node label="GTF3C3" id="235">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="GTF3C3"/>
+        <graphics type="ellipse" h="26" w="26" fill="#ffff00"/>
+    </node>
+    <node label="NFATC1" id="236">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="NFATC1"/>
+        <graphics type="ellipse" h="41" w="41" fill="#ffff00"/>
+    </node>
+    <node label="CEBPE" id="237">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CEBPE"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="CREB1" id="238">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="CREB1"/>
+        <graphics type="ellipse" h="48" w="48" fill="#ffff00"/>
+    </node>
+    <node label="ISL1" id="239">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ISL1"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="SIRT1" id="240">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SIRT1"/>
+        <graphics type="ellipse" h="37" w="37" fill="#ffff00"/>
+    </node>
+    <node label="IRF9" id="241">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="IRF9"/>
+        <graphics type="ellipse" h="29" w="29" fill="#ffff00"/>
+    </node>
+    <node label="SP1" id="242">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SP1"/>
+        <graphics type="ellipse" h="79" w="79" fill="#ffff00"/>
+    </node>
+    <node label="PHB2" id="243">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PHB2"/>
+        <graphics type="ellipse" h="27" w="27" fill="#ffff00"/>
+    </node>
+    <node label="ATXN7" id="244">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="ATXN7"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="HBZ" id="245">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="HBZ"/>
+        <graphics type="ellipse" h="23" w="23" fill="#ffff00"/>
+    </node>
+    <node label="IRF8" id="246">
+        <att type="string" name="node.fillColor" value="#ff0000"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="IRF8"/>
+        <graphics type="ellipse" h="41" w="41" fill="#ff0000"/>
+    </node>
+    <node label="IRF1" id="247">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="IRF1"/>
+        <graphics type="ellipse" h="36" w="36" fill="#ffff00"/>
+    </node>
+    <node label="IRF2" id="248">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="IRF2"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <node label="SETD7" id="249">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="SETD7"/>
+        <graphics type="ellipse" h="28" w="28" fill="#ffff00"/>
+    </node>
+    <node label="PCAF" id="250">
+        <att type="string" name="node.fillColor" value="#ffff00"/>
+        <att type="string" name="node.shape" value="ellipse"/>
+        <att type="string" name="node.label" value="PCAF"/>
+        <graphics type="ellipse" h="31" w="31" fill="#ffff00"/>
+    </node>
+    <edge label="XRCC5:DHX9" source="0" target="43"/>
+    <edge label="XRCC5:AR" source="0" target="79"/>
+    <edge label="XRCC5:XRCC6" source="0" target="2"/>
+    <edge label="XRCC5:ESR1" source="0" target="203"/>
+    <edge label="XRCC5:PRKDC" source="0" target="223"/>
+    <edge label="XRCC5:BRCA1" source="0" target="176"/>
+    <edge label="XRCC5:POLR2A" source="0" target="102"/>
+    <edge label="XRCC5:CSNK2A2" source="0" target="136"/>
+    <edge label="XRCC5:HSF1" source="0" target="72"/>
+    <edge label="XRCC5:POU5F1" source="0" target="198"/>
+    <edge label="XRCC5:NCOA6" source="0" target="215"/>
+    <edge label="XRCC5:POU2F1" source="0" target="229"/>
+    <edge label="XRCC5:PARP1" source="0" target="58"/>
+    <edge label="XRCC5:MYC" source="0" target="76"/>
+    <edge label="XRCC5:BARD1" source="0" target="131"/>
+    <edge label="STAT5A:STAT5B" source="1" target="3"/>
+    <edge label="STAT5A:CREBBP" source="1" target="47"/>
+    <edge label="STAT5A:ESR1" source="1" target="203"/>
+    <edge label="STAT5A:NR3C1" source="1" target="226"/>
+    <edge label="STAT5A:BRCA1" source="1" target="176"/>
+    <edge label="STAT5A:PTPN11" source="1" target="52"/>
+    <edge label="STAT5A:PGR" source="1" target="11"/>
+    <edge label="STAT5A:IRF9" source="1" target="241"/>
+    <edge label="STAT5A:MAPK1" source="1" target="21"/>
+    <edge label="STAT5A:NCOA1" source="1" target="213"/>
+    <edge label="STAT5A:EP300" source="1" target="150"/>
+    <edge label="STAT5A:HDAC1" source="1" target="183"/>
+    <edge label="STAT5A:PIAS3" source="1" target="25"/>
+    <edge label="STAT5A:MAPK3" source="1" target="28"/>
+    <edge label="STAT5A:POU2F1" source="1" target="229"/>
+    <edge label="STAT5A:PIAS1" source="1" target="32"/>
+    <edge label="STAT5A:NCOR2" source="1" target="60"/>
+    <edge label="XRCC6:DHX9" source="2" target="43"/>
+    <edge label="XRCC6:AR" source="2" target="79"/>
+    <edge label="XRCC6:HTT" source="2" target="170"/>
+    <edge label="XRCC6:CREBBP" source="2" target="47"/>
+    <edge label="XRCC6:ESR1" source="2" target="203"/>
+    <edge label="XRCC6:TP53" source="2" target="85"/>
+    <edge label="XRCC6:PRKDC" source="2" target="223"/>
+    <edge label="XRCC6:SMAD3" source="2" target="49"/>
+    <edge label="XRCC6:SIRT1" source="2" target="240"/>
+    <edge label="XRCC6:HMGA1" source="2" target="208"/>
+    <edge label="XRCC6:CBX5" source="2" target="135"/>
+    <edge label="XRCC6:PGR" source="2" target="11"/>
+    <edge label="XRCC6:EP300" source="2" target="150"/>
+    <edge label="XRCC6:CSNK2A1" source="2" target="141"/>
+    <edge label="XRCC6:HSF1" source="2" target="72"/>
+    <edge label="XRCC6:POU5F1" source="2" target="198"/>
+    <edge label="XRCC6:HOXC4" source="2" target="143"/>
+    <edge label="XRCC6:NCOA6" source="2" target="215"/>
+    <edge label="XRCC6:POU2F2" source="2" target="228"/>
+    <edge label="XRCC6:POU2F1" source="2" target="229"/>
+    <edge label="XRCC6:MAPK8" source="2" target="31"/>
+    <edge label="XRCC6:PARP1" source="2" target="58"/>
+    <edge label="XRCC6:MYC" source="2" target="76"/>
+    <edge label="XRCC6:BARD1" source="2" target="131"/>
+    <edge label="STAT5B:PTPN6" source="3" target="166"/>
+    <edge label="STAT5B:CREBBP" source="3" target="47"/>
+    <edge label="STAT5B:NR3C1" source="3" target="226"/>
+    <edge label="STAT5B:PTPN11" source="3" target="52"/>
+    <edge label="STAT5B:PGR" source="3" target="11"/>
+    <edge label="STAT5B:IRF9" source="3" target="241"/>
+    <edge label="STAT5B:MAPK1" source="3" target="21"/>
+    <edge label="STAT5B:EP300" source="3" target="150"/>
+    <edge label="STAT5B:PIAS3" source="3" target="25"/>
+    <edge label="STAT5B:ETS1" source="3" target="55"/>
+    <edge label="STAT5B:GSK3B" source="3" target="128"/>
+    <edge label="STAT5B:POU2F1" source="3" target="229"/>
+    <edge label="STAT5B:MAPK8" source="3" target="31"/>
+    <edge label="STAT5B:RARA" source="3" target="15"/>
+    <edge label="STAT5B:PIAS1" source="3" target="32"/>
+    <edge label="STAT5B:NCOR2" source="3" target="60"/>
+    <edge label="E6:EP300" source="4" target="150"/>
+    <edge label="E6:CREBBP" source="4" target="47"/>
+    <edge label="E6:TP53" source="4" target="85"/>
+    <edge label="E6:TBP" source="4" target="134"/>
+    <edge label="E6:BRCA1" source="4" target="176"/>
+    <edge label="RORB:NCOA1" source="5" target="213"/>
+    <edge label="RORB:NME2" source="5" target="22"/>
+    <edge label="RORB:PSMC4" source="5" target="182"/>
+    <edge label="RORB:NME1" source="5" target="26"/>
+    <edge label="RORB:PNRC2" source="5" target="184"/>
+    <edge label="RORB:PNRC1" source="5" target="187"/>
+    <edge label="RORB:NCOA6" source="5" target="215"/>
+    <edge label="RORB:UBE2I" source="5" target="204"/>
+    <edge label="RORB:MAP6" source="5" target="57"/>
+    <edge label="RORB:NRIP2" source="5" target="209"/>
+    <edge label="RORB:NPPA" source="5" target="97"/>
+    <edge label="RORB:NRIP1" source="5" target="210"/>
+    <edge label="E7:E2F1" source="6" target="189"/>
+    <edge label="E7:EP300" source="6" target="150"/>
+    <edge label="E7:JUN" source="6" target="27"/>
+    <edge label="E7:IRF1" source="6" target="247"/>
+    <edge label="E7:TBP" source="6" target="134"/>
+    <edge label="E7:RB1" source="6" target="207"/>
+    <edge label="E7:MYC" source="6" target="76"/>
+    <edge label="E7:BRCA1" source="6" target="176"/>
+    <edge label="REST:HDAC2" source="7" target="180"/>
+    <edge label="REST:SIN3A" source="7" target="12"/>
+    <edge label="REST:SP1" source="7" target="242"/>
+    <edge label="REST:HDAC1" source="7" target="183"/>
+    <edge label="REST:HTT" source="7" target="170"/>
+    <edge label="REST:GSK3B" source="7" target="128"/>
+    <edge label="REST:TBP" source="7" target="134"/>
+    <edge label="REST:MAPK8" source="7" target="31"/>
+    <edge label="REST:GTF2B" source="7" target="88"/>
+    <edge label="CTNNB1:HNF1A" source="8" target="64"/>
+    <edge label="CTNNB1:GRIP1" source="8" target="67"/>
+    <edge label="CTNNB1:TBP" source="8" target="134"/>
+    <edge label="CTNNB1:NFKB1" source="8" target="69"/>
+    <edge label="CTNNB1:MEN1" source="8" target="195"/>
+    <edge label="CTNNB1:CSNK2A2" source="8" target="136"/>
+    <edge label="CTNNB1:FOS" source="8" target="196"/>
+    <edge label="CTNNB1:CSNK2A1" source="8" target="141"/>
+    <edge label="CTNNB1:BCL3" source="8" target="109"/>
+    <edge label="CTNNB1:PRKACA" source="8" target="144"/>
+    <edge label="CTNNB1:TCF1" source="8" target="40"/>
+    <edge label="CTNNB1:MYC" source="8" target="76"/>
+    <edge label="CTNNB1:CSNK1A1" source="8" target="117"/>
+    <edge label="CTNNB1:PTPN6" source="8" target="166"/>
+    <edge label="CTNNB1:DHX9" source="8" target="43"/>
+    <edge label="CTNNB1:AR" source="8" target="79"/>
+    <edge label="CTNNB1:RXRA" source="8" target="17"/>
+    <edge label="CTNNB1:CREBBP" source="8" target="47"/>
+    <edge label="CTNNB1:ESR1" source="8" target="203"/>
+    <edge label="CTNNB1:SMAD4" source="8" target="48"/>
+    <edge label="CTNNB1:SMAD3" source="8" target="49"/>
+    <edge label="CTNNB1:DDX5" source="8" target="51"/>
+    <edge label="CTNNB1:SIRT1" source="8" target="240"/>
+    <edge label="CTNNB1:PTPN11" source="8" target="52"/>
+    <edge label="CTNNB1:EP300" source="8" target="150"/>
+    <edge label="CTNNB1:HDAC1" source="8" target="183"/>
+    <edge label="CTNNB1:HNF4A" source="8" target="24"/>
+    <edge label="CTNNB1:PHB2" source="8" target="243"/>
+    <edge label="CTNNB1:JUN" source="8" target="27"/>
+    <edge label="CTNNB1:GSK3B" source="8" target="128"/>
+    <edge label="CTNNB1:UBC" source="8" target="216"/>
+    <edge label="CTNNB1:MAPK9" source="8" target="30"/>
+    <edge label="CTNNB1:MAPK8" source="8" target="31"/>
+    <edge label="CTNNB1:RUVBL2" source="8" target="94"/>
+    <edge label="CTNNB1:RUVBL1" source="8" target="95"/>
+    <edge label="CTNNB1:PARP1" source="8" target="58"/>
+    <edge label="CTNNB1:NR5A1" source="8" target="130"/>
+    <edge label="CITED2:EP300" source="9" target="150"/>
+    <edge label="CITED2:HNF4A" source="9" target="24"/>
+    <edge label="CITED2:CREBBP" source="9" target="47"/>
+    <edge label="CITED2:SMAD3" source="9" target="49"/>
+    <edge label="CITED2:TBP" source="9" target="134"/>
+    <edge label="1500003O03RIK:NFATC3" source="10" target="234"/>
+    <edge label="1500003O03RIK:NFATC1" source="10" target="236"/>
+    <edge label="PGR:TAF1B" source="11" target="61"/>
+    <edge label="PGR:HMGB1" source="11" target="155"/>
+    <edge label="PGR:JDP2" source="11" target="132"/>
+    <edge label="PGR:HMGB2" source="11" target="156"/>
+    <edge label="PGR:STIP1" source="11" target="158"/>
+    <edge label="PGR:ZBTB17" source="11" target="101"/>
+    <edge label="PGR:CSNK2A2" source="11" target="136"/>
+    <edge label="PGR:CSNK2A1" source="11" target="141"/>
+    <edge label="PGR:POU2F2" source="11" target="228"/>
+    <edge label="PGR:POU2F1" source="11" target="229"/>
+    <edge label="PGR:RELA" source="11" target="146"/>
+    <edge label="PGR:ESR1" source="11" target="203"/>
+    <edge label="PGR:MAPK1" source="11" target="21"/>
+    <edge label="PGR:NCOA1" source="11" target="213"/>
+    <edge label="PGR:EP300" source="11" target="150"/>
+    <edge label="PGR:RNF4" source="11" target="53"/>
+    <edge label="PGR:NCOA3" source="11" target="214"/>
+    <edge label="PGR:SP1" source="11" target="242"/>
+    <edge label="PGR:PIAS3" source="11" target="25"/>
+    <edge label="PGR:MAPK3" source="11" target="28"/>
+    <edge label="PGR:PIAS1" source="11" target="32"/>
+    <edge label="PGR:NCOR2" source="11" target="60"/>
+    <edge label="SIN3A:COPS2" source="12" target="62"/>
+    <edge label="SIN3A:THRA" source="12" target="133"/>
+    <edge label="SIN3A:SOX2" source="12" target="157"/>
+    <edge label="SIN3A:SPI1" source="12" target="68"/>
+    <edge label="SIN3A:HCFC1" source="12" target="222"/>
+    <edge label="SIN3A:NFKB1" source="12" target="69"/>
+    <edge label="SIN3A:TBP" source="12" target="134"/>
+    <edge label="SIN3A:ZNFN1A1" source="12" target="100"/>
+    <edge label="SIN3A:MEN1" source="12" target="195"/>
+    <edge label="SIN3A:CSNK2A2" source="12" target="136"/>
+    <edge label="SIN3A:VDR" source="12" target="160"/>
+    <edge label="SIN3A:REL" source="12" target="227"/>
+    <edge label="SIN3A:MKX" source="12" target="74"/>
+    <edge label="SIN3A:BCL6" source="12" target="111"/>
+    <edge label="SIN3A:TAF9" source="12" target="163"/>
+    <edge label="SIN3A:ETV6" source="12" target="115"/>
+    <edge label="SIN3A:TAF1" source="12" target="165"/>
+    <edge label="SIN3A:CTBP1" source="12" target="78"/>
+    <edge label="SIN3A:IKZF1" source="12" target="45"/>
+    <edge label="SIN3A:TAF6" source="12" target="169"/>
+    <edge label="SIN3A:HTT" source="12" target="170"/>
+    <edge label="SIN3A:RXRA" source="12" target="17"/>
+    <edge label="SIN3A:RELA" source="12" target="146"/>
+    <edge label="SIN3A:ESR1" source="12" target="203"/>
+    <edge label="SIN3A:TP53" source="12" target="85"/>
+    <edge label="SIN3A:SMAD3" source="12" target="49"/>
+    <edge label="SIN3A:RB1" source="12" target="207"/>
+    <edge label="SIN3A:ALL1" source="12" target="177"/>
+    <edge label="SIN3A:HDAC2" source="12" target="180"/>
+    <edge label="SIN3A:SP1" source="12" target="242"/>
+    <edge label="SIN3A:HDAC1" source="12" target="183"/>
+    <edge label="SIN3A:MAPK14" source="12" target="127"/>
+    <edge label="SIN3A:GSK3B" source="12" target="128"/>
+    <edge label="SIN3A:SMARCA2" source="12" target="154"/>
+    <edge label="SIN3A:NCOR2" source="12" target="60"/>
+    <edge label="E2:TAF1" source="13" target="165"/>
+    <edge label="E2:HOXC9" source="13" target="142"/>
+    <edge label="E2:EP300" source="13" target="150"/>
+    <edge label="E2:TBP" source="13" target="134"/>
+    <edge label="E2:GTF2B" source="13" target="88"/>
+    <edge label="FOXF2:TBP" source="14" target="134"/>
+    <edge label="FOXF2:GTF2B" source="14" target="88"/>
+    <edge label="RARA:COPS2" source="15" target="62"/>
+    <edge label="RARA:SPI1" source="15" target="68"/>
+    <edge label="RARA:SFPI1" source="15" target="38"/>
+    <edge label="RARA:NR3C1" source="15" target="226"/>
+    <edge label="RARA:POU2F1" source="15" target="229"/>
+    <edge label="RARA:KDM5A" source="15" target="201"/>
+    <edge label="RARA:KLF5" source="15" target="42"/>
+    <edge label="RARA:TRIP4" source="15" target="168"/>
+    <edge label="RARA:RXRA" source="15" target="17"/>
+    <edge label="RARA:CREBBP" source="15" target="47"/>
+    <edge label="RARA:ESR1" source="15" target="203"/>
+    <edge label="RARA:MAPK10" source="15" target="120"/>
+    <edge label="RARA:CDK7" source="15" target="205"/>
+    <edge label="RARA:HMGA1" source="15" target="208"/>
+    <edge label="RARA:NRIP2" source="15" target="209"/>
+    <edge label="RARA:NRIP1" source="15" target="210"/>
+    <edge label="RARA:ALIEN" source="15" target="123"/>
+    <edge label="RARA:MAPK1" source="15" target="21"/>
+    <edge label="RARA:NCOA1" source="15" target="213"/>
+    <edge label="RARA:EP300" source="15" target="150"/>
+    <edge label="RARA:HDAC2" source="15" target="180"/>
+    <edge label="RARA:SP1" source="15" target="242"/>
+    <edge label="RARA:NCOA3" source="15" target="214"/>
+    <edge label="RARA:PNRC2" source="15" target="184"/>
+    <edge label="RARA:MAPK14" source="15" target="127"/>
+    <edge label="RARA:GSK3B" source="15" target="128"/>
+    <edge label="RARA:PNRC1" source="15" target="187"/>
+    <edge label="RARA:NCOA6" source="15" target="215"/>
+    <edge label="RARA:UBC" source="15" target="216"/>
+    <edge label="RARA:MAPK9" source="15" target="30"/>
+    <edge label="RARA:MAPK8" source="15" target="31"/>
+    <edge label="RARA:RUVBL1" source="15" target="95"/>
+    <edge label="RARA:PARP1" source="15" target="58"/>
+    <edge label="RARA:NCOR2" source="15" target="60"/>
+    <edge label="TBPL1:TAF1" source="16" target="165"/>
+    <edge label="TBPL1:TAF4" source="16" target="167"/>
+    <edge label="TBPL1:GTF2A1" source="16" target="197"/>
+    <edge label="TBPL1:TAF6" source="16" target="169"/>
+    <edge label="TBPL1:TBP" source="16" target="134"/>
+    <edge label="TBPL1:GTF2B" source="16" target="88"/>
+    <edge label="RXRA:TAF1B" source="17" target="61"/>
+    <edge label="RXRA:COPS2" source="17" target="62"/>
+    <edge label="RXRA:THRA" source="17" target="133"/>
+    <edge label="RXRA:GRIP1" source="17" target="67"/>
+    <edge label="RXRA:NFKBIB" source="17" target="34"/>
+    <edge label="RXRA:TBP" source="17" target="134"/>
+    <edge label="RXRA:NFKB1" source="17" target="69"/>
+    <edge label="RXRA:POLR2A" source="17" target="102"/>
+    <edge label="RXRA:VDR" source="17" target="160"/>
+    <edge label="RXRA:POU2F2" source="17" target="228"/>
+    <edge label="RXRA:POU2F1" source="17" target="229"/>
+    <edge label="RXRA:BCL3" source="17" target="109"/>
+    <edge label="RXRA:NR2F1" source="17" target="77"/>
+    <edge label="RXRA:TRIP4" source="17" target="168"/>
+    <edge label="RXRA:RELA" source="17" target="146"/>
+    <edge label="RXRA:ESR1" source="17" target="203"/>
+    <edge label="RXRA:HMGA1" source="17" target="208"/>
+    <edge label="RXRA:NRIP1" source="17" target="210"/>
+    <edge label="RXRA:TAF11" source="17" target="89"/>
+    <edge label="RXRA:MAPK1" source="17" target="21"/>
+    <edge label="RXRA:NCOA1" source="17" target="213"/>
+    <edge label="RXRA:NCOA3" source="17" target="214"/>
+    <edge label="RXRA:SP1" source="17" target="242"/>
+    <edge label="RXRA:PNRC2" source="17" target="184"/>
+    <edge label="RXRA:GSK3B" source="17" target="128"/>
+    <edge label="RXRA:NCOA6" source="17" target="215"/>
+    <edge label="RXRA:MAPK3" source="17" target="28"/>
+    <edge label="RXRA:EDF1" source="17" target="151"/>
+    <edge label="RXRA:MAPK8" source="17" target="31"/>
+    <edge label="RXRA:PARP1" source="17" target="58"/>
+    <edge label="RXRA:NCOR2" source="17" target="60"/>
+    <edge label="YY1:CREB1" source="18" target="238"/>
+    <edge label="YY1:CREBBP" source="18" target="47"/>
+    <edge label="YY1:SMAD4" source="18" target="48"/>
+    <edge label="YY1:TP53" source="18" target="85"/>
+    <edge label="YY1:PRKDC" source="18" target="223"/>
+    <edge label="YY1:SMAD3" source="18" target="49"/>
+    <edge label="YY1:RB1" source="18" target="207"/>
+    <edge label="YY1:BRCA1" source="18" target="176"/>
+    <edge label="YY1:HDAC2" source="18" target="180"/>
+    <edge label="YY1:EP300" source="18" target="150"/>
+    <edge label="YY1:HDAC1" source="18" target="183"/>
+    <edge label="YY1:SP1" source="18" target="242"/>
+    <edge label="YY1:JUND" source="18" target="162"/>
+    <edge label="YY1:MDM2" source="18" target="217"/>
+    <edge label="YY1:RUVBL2" source="18" target="94"/>
+    <edge label="YY1:BCL6" source="18" target="111"/>
+    <edge label="YY1:NFE2L2" source="18" target="153"/>
+    <edge label="YY1:RUVBL1" source="18" target="95"/>
+    <edge label="YY1:MYC" source="18" target="76"/>
+    <edge label="JARID1A:VDR" source="19" target="160"/>
+    <edge label="JARID1A:TBP" source="19" target="134"/>
+    <edge label="JARID1A:RB1" source="19" target="207"/>
+    <edge label="JARID1A:NR3C1" source="19" target="226"/>
+    <edge label="LIFR:PTPN6" source="20" target="166"/>
+    <edge label="LIFR:MAPK1" source="20" target="21"/>
+    <edge label="LIFR:GSK3B" source="20" target="128"/>
+    <edge label="LIFR:MAPK3" source="20" target="28"/>
+    <edge label="LIFR:POU2F1" source="20" target="229"/>
+    <edge label="LIFR:PTPN11" source="20" target="52"/>
+    <edge label="MAPK1:E2F1" source="21" target="189"/>
+    <edge label="MAPK1:NR3C1" source="21" target="226"/>
+    <edge label="MAPK1:POLR2A" source="21" target="102"/>
+    <edge label="MAPK1:FOS" source="21" target="196"/>
+    <edge label="MAPK1:CSNK2A1" source="21" target="141"/>
+    <edge label="MAPK1:HSF1" source="21" target="72"/>
+    <edge label="MAPK1:SQSTM1" source="21" target="104"/>
+    <edge label="MAPK1:JUND" source="21" target="162"/>
+    <edge label="MAPK1:PRKACA" source="21" target="144"/>
+    <edge label="MAPK1:BCL6" source="21" target="111"/>
+    <edge label="MAPK1:GAPDH" source="21" target="233"/>
+    <edge label="MAPK1:MYC" source="21" target="76"/>
+    <edge label="MAPK1:AR" source="21" target="79"/>
+    <edge label="MAPK1:TAF6" source="21" target="169"/>
+    <edge label="MAPK1:RELA" source="21" target="146"/>
+    <edge label="MAPK1:CREBBP" source="21" target="47"/>
+    <edge label="MAPK1:ESR1" source="21" target="203"/>
+    <edge label="MAPK1:SMAD4" source="21" target="48"/>
+    <edge label="MAPK1:TP53" source="21" target="85"/>
+    <edge label="MAPK1:SMAD3" source="21" target="49"/>
+    <edge label="MAPK1:RB1" source="21" target="207"/>
+    <edge label="MAPK1:DDIT3" source="21" target="148"/>
+    <edge label="MAPK1:NCOA1" source="21" target="213"/>
+    <edge label="MAPK1:EP300" source="21" target="150"/>
+    <edge label="MAPK1:SP1" source="21" target="242"/>
+    <edge label="MAPK1:NCOA3" source="21" target="214"/>
+    <edge label="MAPK1:UBTF" source="21" target="126"/>
+    <edge label="MAPK1:ETS1" source="21" target="55"/>
+    <edge label="MAPK1:MAPK14" source="21" target="127"/>
+    <edge label="MAPK1:JUN" source="21" target="27"/>
+    <edge label="MAPK1:GSK3B" source="21" target="128"/>
+    <edge label="MAPK1:MAPK3" source="21" target="28"/>
+    <edge label="MAPK1:NCOA6" source="21" target="215"/>
+    <edge label="MAPK1:UBC" source="21" target="216"/>
+    <edge label="MAPK1:MAPK8" source="21" target="31"/>
+    <edge label="MAPK1:PARP1" source="21" target="58"/>
+    <edge label="MAPK1:NR5A1" source="21" target="130"/>
+    <edge label="NME2:SET" source="22" target="103"/>
+    <edge label="NME2:NME1" source="22" target="26"/>
+    <edge label="NME2:RUVBL2" source="22" target="94"/>
+    <edge label="NME2:STIP1" source="22" target="158"/>
+    <edge label="MSX1:TAF1" source="23" target="165"/>
+    <edge label="MSX1:AES" source="23" target="71"/>
+    <edge label="MSX1:SP1" source="23" target="242"/>
+    <edge label="MSX1:CREBBP" source="23" target="47"/>
+    <edge label="MSX1:POU2F1" source="23" target="229"/>
+    <edge label="MSX1:TP53" source="23" target="85"/>
+    <edge label="MSX1:TLE4" source="23" target="86"/>
+    <edge label="MSX1:TBP" source="23" target="134"/>
+    <edge label="MSX1:PAX3" source="23" target="193"/>
+    <edge label="MSX1:PIAS1" source="23" target="32"/>
+    <edge label="HNF4A:AR" source="24" target="79"/>
+    <edge label="HNF4A:HNF1A" source="24" target="64"/>
+    <edge label="HNF4A:COPS5" source="24" target="66"/>
+    <edge label="HNF4A:SUB1" source="24" target="46"/>
+    <edge label="HNF4A:CREBBP" source="24" target="47"/>
+    <edge label="HNF4A:SMAD4" source="24" target="48"/>
+    <edge label="HNF4A:TP53" source="24" target="85"/>
+    <edge label="HNF4A:ESR1" source="24" target="203"/>
+    <edge label="HNF4A:SMAD3" source="24" target="49"/>
+    <edge label="HNF4A:UBE2I" source="24" target="204"/>
+    <edge label="HNF4A:SIRT1" source="24" target="240"/>
+    <edge label="HNF4A:NRIP1" source="24" target="210"/>
+    <edge label="HNF4A:PC4" source="24" target="194"/>
+    <edge label="HNF4A:NCOA1" source="24" target="213"/>
+    <edge label="HNF4A:SP1" source="24" target="242"/>
+    <edge label="HNF4A:MAPK14" source="24" target="127"/>
+    <edge label="HNF4A:PNRC2" source="24" target="184"/>
+    <edge label="HNF4A:NCOA6" source="24" target="215"/>
+    <edge label="HNF4A:PNRC1" source="24" target="187"/>
+    <edge label="HNF4A:TCF1" source="24" target="40"/>
+    <edge label="HNF4A:NCOR2" source="24" target="60"/>
+    <edge label="HNF4A:NPPA" source="24" target="97"/>
+    <edge label="HNF4A:NR2F1" source="24" target="77"/>
+    <edge label="PIAS3:AR" source="25" target="79"/>
+    <edge label="PIAS3:IKZF1" source="25" target="45"/>
+    <edge label="PIAS3:RELA" source="25" target="146"/>
+    <edge label="PIAS3:CREBBP" source="25" target="47"/>
+    <edge label="PIAS3:SMAD4" source="25" target="48"/>
+    <edge label="PIAS3:ESR1" source="25" target="203"/>
+    <edge label="PIAS3:SMAD3" source="25" target="49"/>
+    <edge label="PIAS3:TBP" source="25" target="134"/>
+    <edge label="PIAS3:UBE2I" source="25" target="204"/>
+    <edge label="PIAS3:EP300" source="25" target="150"/>
+    <edge label="PIAS3:HDAC1" source="25" target="183"/>
+    <edge label="PIAS3:IRF1" source="25" target="247"/>
+    <edge label="PIAS3:UBC" source="25" target="216"/>
+    <edge label="NME1:MEN1" source="26" target="195"/>
+    <edge label="NME1:SET" source="26" target="103"/>
+    <edge label="NME1:CSNK2A1" source="26" target="141"/>
+    <edge label="JUN:JDP2" source="27" target="132"/>
+    <edge label="JUN:FOSL2" source="27" target="190"/>
+    <edge label="JUN:ELF3" source="27" target="65"/>
+    <edge label="JUN:COPS5" source="27" target="66"/>
+    <edge label="JUN:SPI1" source="27" target="68"/>
+    <edge label="JUN:TBP" source="27" target="134"/>
+    <edge label="JUN:NFKB1" source="27" target="69"/>
+    <edge label="JUN:CSNK2A2" source="27" target="136"/>
+    <edge label="JUN:BATF" source="27" target="137"/>
+    <edge label="JUN:FOS" source="27" target="196"/>
+    <edge label="JUN:GTF2E2" source="27" target="140"/>
+    <edge label="JUN:CSNK2A1" source="27" target="141"/>
+    <edge label="JUN:SPIB" source="27" target="75"/>
+    <edge label="JUN:FOSL1" source="27" target="202"/>
+    <edge label="JUN:AR" source="27" target="79"/>
+    <edge label="JUN:RELA" source="27" target="146"/>
+    <edge label="JUN:ESR1" source="27" target="203"/>
+    <edge label="JUN:UBE2I" source="27" target="204"/>
+    <edge label="JUN:RB1" source="27" target="207"/>
+    <edge label="JUN:FOSB" source="27" target="87"/>
+    <edge label="JUN:GTF2B" source="27" target="88"/>
+    <edge label="JUN:HMGA1" source="27" target="208"/>
+    <edge label="JUN:DDIT3" source="27" target="148"/>
+    <edge label="JUN:NRIP1" source="27" target="210"/>
+    <edge label="JUN:RFWD2" source="27" target="211"/>
+    <edge label="JUN:NCOA1" source="27" target="213"/>
+    <edge label="JUN:EP300" source="27" target="150"/>
+    <edge label="JUN:NCOA3" source="27" target="214"/>
+    <edge label="JUN:NCOA6" source="27" target="215"/>
+    <edge label="JUN:MAPK3" source="27" target="28"/>
+    <edge label="JUN:UBC" source="27" target="216"/>
+    <edge label="JUN:MDM2" source="27" target="217"/>
+    <edge label="JUN:MAPK9" source="27" target="30"/>
+    <edge label="JUN:EDF1" source="27" target="151"/>
+    <edge label="JUN:NFE2L1" source="27" target="152"/>
+    <edge label="JUN:MAPK8" source="27" target="31"/>
+    <edge label="JUN:NFE2L2" source="27" target="153"/>
+    <edge label="JUN:PIAS1" source="27" target="32"/>
+    <edge label="JUN:SMARCA2" source="27" target="154"/>
+    <edge label="JUN:NACA" source="27" target="98"/>
+    <edge label="JUN:HCFC1" source="27" target="222"/>
+    <edge label="JUN:PRKDC" source="27" target="223"/>
+    <edge label="JUN:SFPI1" source="27" target="38"/>
+    <edge label="JUN:NFYA" source="27" target="225"/>
+    <edge label="JUN:NR3C1" source="27" target="226"/>
+    <edge label="JUN:VDR" source="27" target="160"/>
+    <edge label="JUN:JUND" source="27" target="162"/>
+    <edge label="JUN:PPP3CB" source="27" target="108"/>
+    <edge label="JUN:BCL3" source="27" target="109"/>
+    <edge label="JUN:BCL6" source="27" target="111"/>
+    <edge label="JUN:DHX9" source="27" target="43"/>
+    <edge label="JUN:TAF1" source="27" target="165"/>
+    <edge label="JUN:TAF4" source="27" target="167"/>
+    <edge label="JUN:TRIP4" source="27" target="168"/>
+    <edge label="JUN:CREB1" source="27" target="238"/>
+    <edge label="JUN:CREBBP" source="27" target="47"/>
+    <edge label="JUN:SMAD4" source="27" target="48"/>
+    <edge label="JUN:SMAD3" source="27" target="49"/>
+    <edge label="JUN:MAPK10" source="27" target="120"/>
+    <edge label="JUN:SIRT1" source="27" target="240"/>
+    <edge label="JUN:BRCA1" source="27" target="176"/>
+    <edge label="JUN:ATF4" source="27" target="179"/>
+    <edge label="JUN:ATF3" source="27" target="181"/>
+    <edge label="JUN:HDAC1" source="27" target="183"/>
+    <edge label="JUN:SP1" source="27" target="242"/>
+    <edge label="JUN:ETS1" source="27" target="55"/>
+    <edge label="JUN:GTF2F1" source="27" target="186"/>
+    <edge label="JUN:GSK3B" source="27" target="128"/>
+    <edge label="JUN:MAPK14" source="27" target="127"/>
+    <edge label="JUN:GTF2F2" source="27" target="188"/>
+    <edge label="JUN:NCOR2" source="27" target="60"/>
+    <edge label="JUN:NR5A1" source="27" target="130"/>
+    <edge label="MAPK3:NR3C1" source="28" target="226"/>
+    <edge label="MAPK3:POLR2A" source="28" target="102"/>
+    <edge label="MAPK3:CSNK2A2" source="28" target="136"/>
+    <edge label="MAPK3:FOS" source="28" target="196"/>
+    <edge label="MAPK3:HNRNPK" source="28" target="161"/>
+    <edge label="MAPK3:HSF1" source="28" target="72"/>
+    <edge label="MAPK3:SQSTM1" source="28" target="104"/>
+    <edge label="MAPK3:JUND" source="28" target="162"/>
+    <edge label="MAPK3:BCL3" source="28" target="109"/>
+    <edge label="MAPK3:PRKACA" source="28" target="144"/>
+    <edge label="MAPK3:SPIB" source="28" target="75"/>
+    <edge label="MAPK3:BCL6" source="28" target="111"/>
+    <edge label="MAPK3:KDM5A" source="28" target="201"/>
+    <edge label="MAPK3:ETV6" source="28" target="115"/>
+    <edge label="MAPK3:MYC" source="28" target="76"/>
+    <edge label="MAPK3:NFATC1" source="28" target="236"/>
+    <edge label="MAPK3:AR" source="28" target="79"/>
+    <edge label="MAPK3:ESR1" source="28" target="203"/>
+    <edge label="MAPK3:SMAD4" source="28" target="48"/>
+    <edge label="MAPK3:TP53" source="28" target="85"/>
+    <edge label="MAPK3:PTPN11" source="28" target="52"/>
+    <edge label="MAPK3:NCOA1" source="28" target="213"/>
+    <edge label="MAPK3:SP1" source="28" target="242"/>
+    <edge label="MAPK3:UBTF" source="28" target="126"/>
+    <edge label="MAPK3:ETS1" source="28" target="55"/>
+    <edge label="MAPK3:GSK3B" source="28" target="128"/>
+    <edge label="MAPK3:MAPK8" source="28" target="31"/>
+    <edge label="MAPK3:NR5A1" source="28" target="130"/>
+    <edge label="VGLL1:TEAD1" source="29" target="172"/>
+    <edge label="VGLL1:TEAD2" source="29" target="173"/>
+    <edge label="MAPK9:JDP2" source="30" target="132"/>
+    <edge label="MAPK9:TP53" source="30" target="85"/>
+    <edge label="MAPK9:PRKDC" source="30" target="223"/>
+    <edge label="MAPK9:SMAD3" source="30" target="49"/>
+    <edge label="MAPK9:RB1" source="30" target="207"/>
+    <edge label="MAPK9:FOS" source="30" target="196"/>
+    <edge label="MAPK9:PRKCQ" source="30" target="212"/>
+    <edge label="MAPK9:CSNK2A1" source="30" target="141"/>
+    <edge label="MAPK9:HDAC1" source="30" target="183"/>
+    <edge label="MAPK9:HSF1" source="30" target="72"/>
+    <edge label="MAPK9:WDR62" source="30" target="54"/>
+    <edge label="MAPK9:JUND" source="30" target="162"/>
+    <edge label="MAPK9:NFATC3" source="30" target="234"/>
+    <edge label="MAPK8:COPS2" source="31" target="62"/>
+    <edge label="MAPK8:JDP2" source="31" target="132"/>
+    <edge label="MAPK8:SPI1" source="31" target="68"/>
+    <edge label="MAPK8:PRKDC" source="31" target="223"/>
+    <edge label="MAPK8:NR3C1" source="31" target="226"/>
+    <edge label="MAPK8:HNRNPK" source="31" target="161"/>
+    <edge label="MAPK8:REL" source="31" target="227"/>
+    <edge label="MAPK8:HSF1" source="31" target="72"/>
+    <edge label="MAPK8:JUND" source="31" target="162"/>
+    <edge label="MAPK8:SPIB" source="31" target="75"/>
+    <edge label="MAPK8:TRAF6" source="31" target="164"/>
+    <edge label="MAPK8:MYC" source="31" target="76"/>
+    <edge label="MAPK8:NFATC1" source="31" target="236"/>
+    <edge label="MAPK8:AR" source="31" target="79"/>
+    <edge label="MAPK8:CTBP1" source="31" target="78"/>
+    <edge label="MAPK8:CEBPE" source="31" target="237"/>
+    <edge label="MAPK8:SMAD4" source="31" target="48"/>
+    <edge label="MAPK8:TP53" source="31" target="85"/>
+    <edge label="MAPK8:ESR1" source="31" target="203"/>
+    <edge label="MAPK8:SMAD3" source="31" target="49"/>
+    <edge label="MAPK8:SIRT1" source="31" target="240"/>
+    <edge label="MAPK8:PRKCQ" source="31" target="212"/>
+    <edge label="MAPK8:HDAC1" source="31" target="183"/>
+    <edge label="MAPK8:SP1" source="31" target="242"/>
+    <edge label="MAPK8:NCOA3" source="31" target="214"/>
+    <edge label="MAPK8:WDR62" source="31" target="54"/>
+    <edge label="MAPK8:ATXN7" source="31" target="244"/>
+    <edge label="MAPK8:GSK3B" source="31" target="128"/>
+    <edge label="PIAS1:AR" source="32" target="79"/>
+    <edge label="PIAS1:CEBPE" source="32" target="237"/>
+    <edge label="PIAS1:RELA" source="32" target="146"/>
+    <edge label="PIAS1:CREB1" source="32" target="238"/>
+    <edge label="PIAS1:ZNF76" source="32" target="33"/>
+    <edge label="PIAS1:CREBBP" source="32" target="47"/>
+    <edge label="PIAS1:SMAD4" source="32" target="48"/>
+    <edge label="PIAS1:TP53" source="32" target="85"/>
+    <edge label="PIAS1:ESR1" source="32" target="203"/>
+    <edge label="PIAS1:TBP" source="32" target="134"/>
+    <edge label="PIAS1:UBE2I" source="32" target="204"/>
+    <edge label="PIAS1:BRCA1" source="32" target="176"/>
+    <edge label="PIAS1:CSNK2A1" source="32" target="141"/>
+    <edge label="PIAS1:NCOA3" source="32" target="214"/>
+    <edge label="PIAS1:MDM2" source="32" target="217"/>
+    <edge label="PIAS1:NR5A1" source="32" target="130"/>
+    <edge label="ZNF76:EP300" source="33" target="150"/>
+    <edge label="ZNF76:HDAC1" source="33" target="183"/>
+    <edge label="ZNF76:TBP" source="33" target="134"/>
+    <edge label="NFKBIB:CSNK2A1" source="34" target="141"/>
+    <edge label="NFKBIB:REL" source="34" target="227"/>
+    <edge label="NFKBIB:RELA" source="34" target="146"/>
+    <edge label="NFKBIB:TP53" source="34" target="85"/>
+    <edge label="NFKBIB:EPRS" source="34" target="50"/>
+    <edge label="NFKBIB:TBP" source="34" target="134"/>
+    <edge label="NFKBIB:NFKB1" source="34" target="69"/>
+    <edge label="NFKBIB:NCOR2" source="34" target="60"/>
+    <edge label="ELN:TP53" source="35" target="85"/>
+    <edge label="ELN:TBP" source="35" target="134"/>
+    <edge label="ELN:TAF9" source="35" target="163"/>
+    <edge label="ELN:GTF2B" source="35" target="88"/>
+    <edge label="HOXB13:POU2F1" source="36" target="229"/>
+    <edge label="HOXB13:ALX4" source="36" target="200"/>
+    <edge label="2010110P09RIK:NFATC3" source="37" target="234"/>
+    <edge label="2010110P09RIK:NFATC1" source="37" target="236"/>
+    <edge label="SFPI1:IRF8" source="38" target="246"/>
+    <edge label="SFPI1:CREBBP" source="38" target="47"/>
+    <edge label="SFPI1:SPIB" source="38" target="75"/>
+    <edge label="TRAM2:GTF2F2" source="39" target="188"/>
+    <edge label="TRAM2:TBP" source="39" target="134"/>
+    <edge label="TRAM2:GTF2B" source="39" target="88"/>
+    <edge label="TRAM2:POLR2A" source="39" target="102"/>
+    <edge label="TCF1:FOS" source="40" target="196"/>
+    <edge label="TCF1:EP300" source="40" target="150"/>
+    <edge label="TCF1:CREBBP" source="40" target="47"/>
+    <edge label="TCF1:POU2F1" source="40" target="229"/>
+    <edge label="TCF1:PCAF" source="40" target="250"/>
+    <edge label="HAP1:HD" source="41" target="44"/>
+    <edge label="HAP1:HTT" source="41" target="170"/>
+    <edge label="HAP1:BRD7" source="41" target="73"/>
+    <edge label="HAP1:TBP" source="41" target="134"/>
+    <edge label="HAP1:BARD1" source="41" target="131"/>
+    <edge label="KLF5:CREBBP" source="42" target="47"/>
+    <edge label="KLF5:SMAD4" source="42" target="48"/>
+    <edge label="KLF5:ESR1" source="42" target="203"/>
+    <edge label="KLF5:SMAD3" source="42" target="49"/>
+    <edge label="KLF5:TBP" source="42" target="134"/>
+    <edge label="KLF5:NFKB1" source="42" target="69"/>
+    <edge label="KLF5:ZBTB17" source="42" target="101"/>
+    <edge label="KLF5:GTF2B" source="42" target="88"/>
+    <edge label="KLF5:GTF2E2" source="42" target="140"/>
+    <edge label="KLF5:SET" source="42" target="103"/>
+    <edge label="KLF5:EP300" source="42" target="150"/>
+    <edge label="KLF5:HDAC2" source="42" target="180"/>
+    <edge label="KLF5:HDAC1" source="42" target="183"/>
+    <edge label="KLF5:GSK3B" source="42" target="128"/>
+    <edge label="KLF5:GTF2F1" source="42" target="186"/>
+    <edge label="KLF5:GTF2F2" source="42" target="188"/>
+    <edge label="KLF5:UBC" source="42" target="216"/>
+    <edge label="KLF5:MYC" source="42" target="76"/>
+    <edge label="DHX9:RELA" source="43" target="146"/>
+    <edge label="DHX9:ESR1" source="43" target="203"/>
+    <edge label="DHX9:PRKDC" source="43" target="223"/>
+    <edge label="DHX9:TBP" source="43" target="134"/>
+    <edge label="DHX9:UBE2I" source="43" target="204"/>
+    <edge label="DHX9:GTF2B" source="43" target="88"/>
+    <edge label="DHX9:BRCA1" source="43" target="176"/>
+    <edge label="DHX9:POLR2A" source="43" target="102"/>
+    <edge label="DHX9:POU5F1" source="43" target="198"/>
+    <edge label="DHX9:MAPK14" source="43" target="127"/>
+    <edge label="DHX9:TRAF6" source="43" target="164"/>
+    <edge label="HD:CTBP1" source="44" target="78"/>
+    <edge label="HD:SP1" source="44" target="242"/>
+    <edge label="HD:CREBBP" source="44" target="47"/>
+    <edge label="HD:TP53" source="44" target="85"/>
+    <edge label="HD:TBP" source="44" target="134"/>
+    <edge label="HD:GAPDH" source="44" target="233"/>
+    <edge label="IKZF1:CTBP1" source="45" target="78"/>
+    <edge label="IKZF1:HDAC2" source="45" target="180"/>
+    <edge label="IKZF1:CSNK2A1" source="45" target="141"/>
+    <edge label="IKZF1:HDAC1" source="45" target="183"/>
+    <edge label="IKZF1:TBP" source="45" target="134"/>
+    <edge label="IKZF1:UBE2I" source="45" target="204"/>
+    <edge label="IKZF1:GTF2B" source="45" target="88"/>
+    <edge label="IKZF1:NCOR2" source="45" target="60"/>
+    <edge label="SUB1:TAF1" source="46" target="165"/>
+    <edge label="SUB1:POU2AF1" source="46" target="145"/>
+    <edge label="SUB1:EP300" source="46" target="150"/>
+    <edge label="SUB1:CSNK2A1" source="46" target="141"/>
+    <edge label="SUB1:HSF1" source="46" target="72"/>
+    <edge label="SUB1:SP1" source="46" target="242"/>
+    <edge label="SUB1:TBP" source="46" target="134"/>
+    <edge label="SUB1:GTF2A1L" source="46" target="174"/>
+    <edge label="SUB1:BRCA1" source="46" target="176"/>
+    <edge label="CREBBP:E2F1" source="47" target="189"/>
+    <edge label="CREBBP:JDP2" source="47" target="132"/>
+    <edge label="CREBBP:THRA" source="47" target="133"/>
+    <edge label="CREBBP:HNF1A" source="47" target="64"/>
+    <edge label="CREBBP:ELF3" source="47" target="65"/>
+    <edge label="CREBBP:GRIP1" source="47" target="67"/>
+    <edge label="CREBBP:SPI1" source="47" target="68"/>
+    <edge label="CREBBP:PAX5" source="47" target="192"/>
+    <edge label="CREBBP:NFKB1" source="47" target="69"/>
+    <edge label="CREBBP:CSNK2A2" source="47" target="136"/>
+    <edge label="CREBBP:FOS" source="47" target="196"/>
+    <edge label="CREBBP:CSNK2A1" source="47" target="141"/>
+    <edge label="CREBBP:HSF1" source="47" target="72"/>
+    <edge label="CREBBP:PRKACA" source="47" target="144"/>
+    <edge label="CREBBP:SPIB" source="47" target="75"/>
+    <edge label="CREBBP:FOSL1" source="47" target="202"/>
+    <edge label="CREBBP:MYC" source="47" target="76"/>
+    <edge label="CREBBP:CTBP1" source="47" target="78"/>
+    <edge label="CREBBP:AR" source="47" target="79"/>
+    <edge label="CREBBP:RELA" source="47" target="146"/>
+    <edge label="CREBBP:ESR1" source="47" target="203"/>
+    <edge label="CREBBP:TP53" source="47" target="85"/>
+    <edge label="CREBBP:FOSB" source="47" target="87"/>
+    <edge label="CREBBP:HMGA1" source="47" target="208"/>
+    <edge label="CREBBP:GTF2B" source="47" target="88"/>
+    <edge label="CREBBP:NCOA1" source="47" target="213"/>
+    <edge label="CREBBP:EP300" source="47" target="150"/>
+    <edge label="CREBBP:NCOA3" source="47" target="214"/>
+    <edge label="CREBBP:NCOA6" source="47" target="215"/>
+    <edge label="CREBBP:UBC" source="47" target="216"/>
+    <edge label="CREBBP:MDM2" source="47" target="217"/>
+    <edge label="CREBBP:NFE2L2" source="47" target="153"/>
+    <edge label="CREBBP:RUVBL1" source="47" target="95"/>
+    <edge label="CREBBP:HMGB1" source="47" target="155"/>
+    <edge label="CREBBP:HMGB2" source="47" target="156"/>
+    <edge label="CREBBP:CREM" source="47" target="99"/>
+    <edge label="CREBBP:NR3C1" source="47" target="226"/>
+    <edge label="CREBBP:ZBTB17" source="47" target="101"/>
+    <edge label="CREBBP:POLR2A" source="47" target="102"/>
+    <edge label="CREBBP:VDR" source="47" target="160"/>
+    <edge label="CREBBP:SET" source="47" target="103"/>
+    <edge label="CREBBP:REL" source="47" target="227"/>
+    <edge label="CREBBP:NPAT" source="47" target="107"/>
+    <edge label="CREBBP:BCL3" source="47" target="109"/>
+    <edge label="CREBBP:BCL6" source="47" target="111"/>
+    <edge label="CREBBP:TRIP4" source="47" target="168"/>
+    <edge label="CREBBP:HTT" source="47" target="170"/>
+    <edge label="CREBBP:CREB1" source="47" target="238"/>
+    <edge label="CREBBP:SMAD4" source="47" target="48"/>
+    <edge label="CREBBP:SMAD3" source="47" target="49"/>
+    <edge label="CREBBP:MAPK10" source="47" target="120"/>
+    <edge label="CREBBP:DDX5" source="47" target="51"/>
+    <edge label="CREBBP:BRCA1" source="47" target="176"/>
+    <edge label="CREBBP:TRIM21" source="47" target="122"/>
+    <edge label="CREBBP:ATF4" source="47" target="179"/>
+    <edge label="CREBBP:HDAC2" source="47" target="180"/>
+    <edge label="CREBBP:HDAC1" source="47" target="183"/>
+    <edge label="CREBBP:SP1" source="47" target="242"/>
+    <edge label="CREBBP:UBTF" source="47" target="126"/>
+    <edge label="CREBBP:ETS1" source="47" target="55"/>
+    <edge label="CREBBP:IRF8" source="47" target="246"/>
+    <edge label="CREBBP:IRF1" source="47" target="247"/>
+    <edge label="CREBBP:PCAF" source="47" target="250"/>
+    <edge label="CREBBP:PARP1" source="47" target="58"/>
+    <edge label="CREBBP:TCF12" source="47" target="59"/>
+    <edge label="CREBBP:NCOR2" source="47" target="60"/>
+    <edge label="CREBBP:NR5A1" source="47" target="130"/>
+    <edge label="SMAD4:AR" source="48" target="79"/>
+    <edge label="SMAD4:COPS5" source="48" target="66"/>
+    <edge label="SMAD4:ESR1" source="48" target="203"/>
+    <edge label="SMAD4:SMAD3" source="48" target="49"/>
+    <edge label="SMAD4:UBE2I" source="48" target="204"/>
+    <edge label="SMAD4:BRCA1" source="48" target="176"/>
+    <edge label="SMAD4:EP300" source="48" target="150"/>
+    <edge label="SMAD4:HDAC1" source="48" target="183"/>
+    <edge label="SMAD4:SP1" source="48" target="242"/>
+    <edge label="SMAD4:SQSTM1" source="48" target="104"/>
+    <edge label="SMAD4:GSK3B" source="48" target="128"/>
+    <edge label="SMAD4:JUND" source="48" target="162"/>
+    <edge label="SMAD4:UBC" source="48" target="216"/>
+    <edge label="SMAD3:GRIP1" source="49" target="67"/>
+    <edge label="SMAD3:NFYC" source="49" target="221"/>
+    <edge label="SMAD3:NR3C1" source="49" target="226"/>
+    <edge label="SMAD3:MEN1" source="49" target="195"/>
+    <edge label="SMAD3:FOS" source="49" target="196"/>
+    <edge label="SMAD3:VDR" source="49" target="160"/>
+    <edge label="SMAD3:SQSTM1" source="49" target="104"/>
+    <edge label="SMAD3:JUND" source="49" target="162"/>
+    <edge label="SMAD3:MYC" source="49" target="76"/>
+    <edge label="SMAD3:PTPN6" source="49" target="166"/>
+    <edge label="SMAD3:AR" source="49" target="79"/>
+    <edge label="SMAD3:ESR1" source="49" target="203"/>
+    <edge label="SMAD3:TP53" source="49" target="85"/>
+    <edge label="SMAD3:DDX5" source="49" target="51"/>
+    <edge label="SMAD3:BRCA1" source="49" target="176"/>
+    <edge label="SMAD3:SLC25A12" source="49" target="178"/>
+    <edge label="SMAD3:ATF3" source="49" target="181"/>
+    <edge label="SMAD3:EP300" source="49" target="150"/>
+    <edge label="SMAD3:NCOA3" source="49" target="214"/>
+    <edge label="SMAD3:HDAC1" source="49" target="183"/>
+    <edge label="SMAD3:SP1" source="49" target="242"/>
+    <edge label="SMAD3:ETS1" source="49" target="55"/>
+    <edge label="SMAD3:MAPK14" source="49" target="127"/>
+    <edge label="SMAD3:GSK3B" source="49" target="128"/>
+    <edge label="SMAD3:NCOA6" source="49" target="215"/>
+    <edge label="SMAD3:UBC" source="49" target="216"/>
+    <edge label="SMAD3:SMURF2" source="49" target="56"/>
+    <edge label="EPRS:ETS1" source="50" target="55"/>
+    <edge label="EPRS:RELA" source="50" target="146"/>
+    <edge label="EPRS:MAPK14" source="50" target="127"/>
+    <edge label="EPRS:POU2F1" source="50" target="229"/>
+    <edge label="EPRS:EEF1D" source="50" target="96"/>
+    <edge label="DDX5:TP53" source="51" target="85"/>
+    <edge label="DDX5:ESR1" source="51" target="203"/>
+    <edge label="DDX5:TBP" source="51" target="134"/>
+    <edge label="DDX5:POLR2A" source="51" target="102"/>
+    <edge label="DDX5:NCOA1" source="51" target="213"/>
+    <edge label="DDX5:HNRNPK" source="51" target="161"/>
+    <edge label="DDX5:EP300" source="51" target="150"/>
+    <edge label="DDX5:HDAC1" source="51" target="183"/>
+    <edge label="DDX5:NCOA3" source="51" target="214"/>
+    <edge label="DDX5:SP1" source="51" target="242"/>
+    <edge label="DDX5:GSK3B" source="51" target="128"/>
+    <edge label="DDX5:TCEA1" source="51" target="112"/>
+    <edge label="PTPN11:PTPN6" source="52" target="166"/>
+    <edge label="PTPN11:IRF8" source="52" target="246"/>
+    <edge label="PTPN11:GAPDH" source="52" target="233"/>
+    <edge label="RNF4:AR" source="53" target="79"/>
+    <edge label="RNF4:SP1" source="53" target="242"/>
+    <edge label="RNF4:UBC" source="53" target="216"/>
+    <edge label="RNF4:ESR1" source="53" target="203"/>
+    <edge label="RNF4:UBE2I" source="53" target="204"/>
+    <edge label="RNF4:TBP" source="53" target="134"/>
+    <edge label="RNF4:HMGA1" source="53" target="208"/>
+    <edge label="WDR62:TBP" source="54" target="134"/>
+    <edge label="ETS1:HMGB1" source="55" target="155"/>
+    <edge label="ETS1:SPI1" source="55" target="68"/>
+    <edge label="ETS1:PAX5" source="55" target="192"/>
+    <edge label="ETS1:NFKB1" source="55" target="69"/>
+    <edge label="ETS1:NR3C1" source="55" target="226"/>
+    <edge label="ETS1:FOS" source="55" target="196"/>
+    <edge label="ETS1:SET" source="55" target="103"/>
+    <edge label="ETS1:JUND" source="55" target="162"/>
+    <edge label="ETS1:TP53" source="55" target="85"/>
+    <edge label="ETS1:UBE2I" source="55" target="204"/>
+    <edge label="ETS1:BRCA1" source="55" target="176"/>
+    <edge label="ETS1:EP300" source="55" target="150"/>
+    <edge label="ETS1:SP1" source="55" target="242"/>
+    <edge label="ETS1:NCOA3" source="55" target="214"/>
+    <edge label="ETS1:MAPK14" source="55" target="127"/>
+    <edge label="ETS1:GSK3B" source="55" target="128"/>
+    <edge label="ETS1:UBC" source="55" target="216"/>
+    <edge label="ETS1:SMARCA2" source="55" target="154"/>
+    <edge label="SMURF2:SQSTM1" source="56" target="104"/>
+    <edge label="SMURF2:IRF8" source="56" target="246"/>
+    <edge label="SMURF2:UBC" source="56" target="216"/>
+    <edge label="MAP6:NR2F1" source="57" target="77"/>
+    <edge label="PARP1:E2F1" source="58" target="189"/>
+    <edge label="PARP1:THRA" source="58" target="133"/>
+    <edge label="PARP1:PRKDC" source="58" target="223"/>
+    <edge label="PARP1:NFKB1" source="58" target="69"/>
+    <edge label="PARP1:POU5F1" source="58" target="198"/>
+    <edge label="PARP1:POU2F1" source="58" target="229"/>
+    <edge label="PARP1:TRAF6" source="58" target="164"/>
+    <edge label="PARP1:NFATC1" source="58" target="236"/>
+    <edge label="PARP1:AR" source="58" target="79"/>
+    <edge label="PARP1:RELA" source="58" target="146"/>
+    <edge label="PARP1:TP53" source="58" target="85"/>
+    <edge label="PARP1:ESR1" source="58" target="203"/>
+    <edge label="PARP1:HMGA1" source="58" target="208"/>
+    <edge label="PARP1:TAF13" source="58" target="91"/>
+    <edge label="PARP1:HDAC2" source="58" target="180"/>
+    <edge label="PARP1:EP300" source="58" target="150"/>
+    <edge label="PARP1:SP1" source="58" target="242"/>
+    <edge label="PARP1:HDAC1" source="58" target="183"/>
+    <edge label="PARP1:GTF2F1" source="58" target="186"/>
+    <edge label="PARP1:NCOA6" source="58" target="215"/>
+    <edge label="TCF12:TAF4" source="59" target="167"/>
+    <edge label="TCF12:EP300" source="59" target="150"/>
+    <edge label="TCF12:TBP" source="59" target="134"/>
+    <edge label="NCOR2:E2F1" source="60" target="189"/>
+    <edge label="NCOR2:THRA" source="60" target="133"/>
+    <edge label="NCOR2:NFKB1" source="60" target="69"/>
+    <edge label="NCOR2:NR3C1" source="60" target="226"/>
+    <edge label="NCOR2:FOS" source="60" target="196"/>
+    <edge label="NCOR2:VDR" source="60" target="160"/>
+    <edge label="NCOR2:CSNK2A1" source="60" target="141"/>
+    <edge label="NCOR2:POU2F1" source="60" target="229"/>
+    <edge label="NCOR2:BCL6" source="60" target="111"/>
+    <edge label="NCOR2:NR2F1" source="60" target="77"/>
+    <edge label="NCOR2:AR" source="60" target="79"/>
+    <edge label="NCOR2:RELA" source="60" target="146"/>
+    <edge label="NCOR2:ESR1" source="60" target="203"/>
+    <edge label="NCOR2:YWHAE" source="60" target="121"/>
+    <edge label="NCOR2:AHR" source="60" target="149"/>
+    <edge label="NCOR2:HDAC2" source="60" target="180"/>
+    <edge label="NCOR2:EP300" source="60" target="150"/>
+    <edge label="NCOR2:HDAC1" source="60" target="183"/>
+    <edge label="NCOR2:NCOA3" source="60" target="214"/>
+    <edge label="NCOR2:SP1" source="60" target="242"/>
+    <edge label="NCOR2:GSK3B" source="60" target="128"/>
+    <edge label="NCOR2:NCOA6" source="60" target="215"/>
+    <edge label="NCOR2:NFE2L2" source="60" target="153"/>
+    <edge label="TAF1B:SET" source="61" target="103"/>
+    <edge label="TAF1B:TAF1A" source="61" target="63"/>
+    <edge label="TAF1B:EP300" source="61" target="150"/>
+    <edge label="TAF1B:HDAC1" source="61" target="183"/>
+    <edge label="TAF1B:UBTF" source="61" target="126"/>
+    <edge label="TAF1B:ESR1" source="61" target="203"/>
+    <edge label="TAF1B:TP53" source="61" target="85"/>
+    <edge label="TAF1B:TBP" source="61" target="134"/>
+    <edge label="TAF1B:MYC" source="61" target="76"/>
+    <edge label="COPS2:RFWD2" source="62" target="211"/>
+    <edge label="COPS2:VDR" source="62" target="160"/>
+    <edge label="COPS2:THRA" source="62" target="133"/>
+    <edge label="COPS2:COPS5" source="62" target="66"/>
+    <edge label="COPS2:IRF8" source="62" target="246"/>
+    <edge label="COPS2:TP53" source="62" target="85"/>
+    <edge label="COPS2:NR2F1" source="62" target="77"/>
+    <edge label="TAF1A:SET" source="63" target="103"/>
+    <edge label="TAF1A:TAF12" source="63" target="92"/>
+    <edge label="TAF1A:UBTF" source="63" target="126"/>
+    <edge label="TAF1A:ESR1" source="63" target="203"/>
+    <edge label="TAF1A:TP53" source="63" target="85"/>
+    <edge label="TAF1A:TBP" source="63" target="134"/>
+    <edge label="HNF1A:FOS" source="64" target="196"/>
+    <edge label="HNF1A:HMGB1" source="64" target="155"/>
+    <edge label="HNF1A:AES" source="64" target="71"/>
+    <edge label="HNF1A:EP300" source="64" target="150"/>
+    <edge label="HNF1A:POU2F1" source="64" target="229"/>
+    <edge label="HNF1A:BCL6" source="64" target="111"/>
+    <edge label="HNF1A:YWHAE" source="64" target="121"/>
+    <edge label="ELF3:EP300" source="65" target="150"/>
+    <edge label="ELF3:TBP" source="65" target="134"/>
+    <edge label="ELF3:NFKB1" source="65" target="69"/>
+    <edge label="ELF3:TAF9" source="65" target="163"/>
+    <edge label="ELF3:EEF1D" source="65" target="96"/>
+    <edge label="ELF3:MYC" source="65" target="76"/>
+    <edge label="COPS5:NCOA1" source="66" target="213"/>
+    <edge label="COPS5:JUND" source="66" target="162"/>
+    <edge label="COPS5:ESR1" source="66" target="203"/>
+    <edge label="COPS5:TP53" source="66" target="85"/>
+    <edge label="COPS5:MDM2" source="66" target="217"/>
+    <edge label="COPS5:BCL3" source="66" target="109"/>
+    <edge label="COPS5:UBE2I" source="66" target="204"/>
+    <edge label="GRIP1:AR" source="67" target="79"/>
+    <edge label="GRIP1:THRA" source="67" target="133"/>
+    <edge label="GRIP1:ESR1" source="67" target="203"/>
+    <edge label="GRIP1:NR3C1" source="67" target="226"/>
+    <edge label="GRIP1:VDR" source="67" target="160"/>
+    <edge label="GRIP1:NCOA1" source="67" target="213"/>
+    <edge label="GRIP1:EP300" source="67" target="150"/>
+    <edge label="GRIP1:HDAC1" source="67" target="183"/>
+    <edge label="GRIP1:UBC" source="67" target="216"/>
+    <edge label="GRIP1:NR2F1" source="67" target="77"/>
+    <edge label="SPI1:CEBPE" source="68" target="237"/>
+    <edge label="SPI1:CREM" source="68" target="99"/>
+    <edge label="SPI1:TBP" source="68" target="134"/>
+    <edge label="SPI1:NFKB1" source="68" target="69"/>
+    <edge label="SPI1:NFYA" source="68" target="225"/>
+    <edge label="SPI1:RB1" source="68" target="207"/>
+    <edge label="SPI1:HMGA1" source="68" target="208"/>
+    <edge label="SPI1:FOS" source="68" target="196"/>
+    <edge label="SPI1:CSNK2A1" source="68" target="141"/>
+    <edge label="SPI1:HDAC1" source="68" target="183"/>
+    <edge label="SPI1:IRF8" source="68" target="246"/>
+    <edge label="SPI1:IRF1" source="68" target="247"/>
+    <edge label="SPI1:SPIB" source="68" target="75"/>
+    <edge label="SPI1:BCL6" source="68" target="111"/>
+    <edge label="SPI1:NFATC1" source="68" target="236"/>
+    <edge label="NFKB1:E2F1" source="69" target="189"/>
+    <edge label="NFKB1:HMGB1" source="69" target="155"/>
+    <edge label="NFKB1:HMGB2" source="69" target="156"/>
+    <edge label="NFKB1:PRKDC" source="69" target="223"/>
+    <edge label="NFKB1:NR3C1" source="69" target="226"/>
+    <edge label="NFKB1:POLR2A" source="69" target="102"/>
+    <edge label="NFKB1:MEN1" source="69" target="195"/>
+    <edge label="NFKB1:FOS" source="69" target="196"/>
+    <edge label="NFKB1:CSNK2A1" source="69" target="141"/>
+    <edge label="NFKB1:REL" source="69" target="227"/>
+    <edge label="NFKB1:BCL3" source="69" target="109"/>
+    <edge label="NFKB1:PRKACA" source="69" target="144"/>
+    <edge label="NFKB1:AR" source="69" target="79"/>
+    <edge label="NFKB1:TRIP4" source="69" target="168"/>
+    <edge label="NFKB1:RELA" source="69" target="146"/>
+    <edge label="NFKB1:ESR1" source="69" target="203"/>
+    <edge label="NFKB1:HMGA1" source="69" target="208"/>
+    <edge label="NFKB1:BRCA1" source="69" target="176"/>
+    <edge label="NFKB1:IRF9" source="69" target="241"/>
+    <edge label="NFKB1:NCOA1" source="69" target="213"/>
+    <edge label="NFKB1:ATF3" source="69" target="181"/>
+    <edge label="NFKB1:HDAC2" source="69" target="180"/>
+    <edge label="NFKB1:EP300" source="69" target="150"/>
+    <edge label="NFKB1:HDAC1" source="69" target="183"/>
+    <edge label="NFKB1:SP1" source="69" target="242"/>
+    <edge label="NFKB1:GSK3B" source="69" target="128"/>
+    <edge label="NFKB1:IRF8" source="69" target="246"/>
+    <edge label="NFKB1:NCOA6" source="69" target="215"/>
+    <edge label="NFKB1:IRF1" source="69" target="247"/>
+    <edge label="NFKB1:IRF2" source="69" target="248"/>
+    <edge label="NFKB1:RUVBL2" source="69" target="94"/>
+    <edge label="NFKB1:RUVBL1" source="69" target="95"/>
+    <edge label="ACTR3:JUND" source="70" target="162"/>
+    <edge label="ACTR3:ESR1" source="70" target="203"/>
+    <edge label="ACTR3:AICDA" source="70" target="93"/>
+    <edge label="ACTR3:TRAF6" source="70" target="164"/>
+    <edge label="AES:GTF2E1" source="71" target="139"/>
+    <edge label="AES:HMGB1" source="71" target="155"/>
+    <edge label="AES:AR" source="71" target="79"/>
+    <edge label="AES:RELA" source="71" target="146"/>
+    <edge label="AES:POU2F1" source="71" target="229"/>
+    <edge label="HSF1:PRKDC" source="72" target="223"/>
+    <edge label="HSF1:TBP" source="72" target="134"/>
+    <edge label="HSF1:PC4" source="72" target="194"/>
+    <edge label="HSF1:CSNK2A2" source="72" target="136"/>
+    <edge label="HSF1:CSNK2A1" source="72" target="141"/>
+    <edge label="HSF1:TAF9" source="72" target="163"/>
+    <edge label="HSF1:TAF1" source="72" target="165"/>
+    <edge label="HSF1:TAF7" source="72" target="171"/>
+    <edge label="HSF1:GTF2B" source="72" target="88"/>
+    <edge label="HSF1:YWHAE" source="72" target="121"/>
+    <edge label="HSF1:SIRT1" source="72" target="240"/>
+    <edge label="HSF1:HDAC2" source="72" target="180"/>
+    <edge label="HSF1:HDAC1" source="72" target="183"/>
+    <edge label="HSF1:MAPK14" source="72" target="127"/>
+    <edge label="HSF1:GSK3B" source="72" target="128"/>
+    <edge label="HSF1:NCOA6" source="72" target="215"/>
+    <edge label="BRD7:BRD2" source="73" target="119"/>
+    <edge label="BRD7:GSK3B" source="73" target="128"/>
+    <edge label="BRD7:POU2F1" source="73" target="229"/>
+    <edge label="BRD7:IRF2" source="73" target="248"/>
+    <edge label="BRD7:UBE2I" source="73" target="204"/>
+    <edge label="BRD7:MYC" source="73" target="76"/>
+    <edge label="BRD7:BRCA1" source="73" target="176"/>
+    <edge label="BRD7:BARD1" source="73" target="131"/>
+    <edge label="MKX:HDAC1" source="74" target="183"/>
+    <edge label="MKX:GTF2A1" source="74" target="197"/>
+    <edge label="MKX:TBP" source="74" target="134"/>
+    <edge label="MKX:GTF2B" source="74" target="88"/>
+    <edge label="SPIB:E2F1" source="75" target="189"/>
+    <edge label="SPIB:TBP" source="75" target="134"/>
+    <edge label="SPIB:RB1" source="75" target="207"/>
+    <edge label="SPIB:CSNK2A2" source="75" target="136"/>
+    <edge label="SPIB:CSNK2A1" source="75" target="141"/>
+    <edge label="SPIB:GSK3B" source="75" target="128"/>
+    <edge label="SPIB:MAPK14" source="75" target="127"/>
+    <edge label="MYC:TBP" source="76" target="134"/>
+    <edge label="MYC:MEN1" source="76" target="195"/>
+    <edge label="MYC:CSNK2A2" source="76" target="136"/>
+    <edge label="MYC:FOS" source="76" target="196"/>
+    <edge label="MYC:CSNK2A1" source="76" target="141"/>
+    <edge label="MYC:RELA" source="76" target="146"/>
+    <edge label="MYC:ESR1" source="76" target="203"/>
+    <edge label="MYC:RB1" source="76" target="207"/>
+    <edge label="MYC:GTF2B" source="76" target="88"/>
+    <edge label="MYC:TAF10" source="76" target="90"/>
+    <edge label="MYC:TAF12" source="76" target="92"/>
+    <edge label="MYC:EP300" source="76" target="150"/>
+    <edge label="MYC:UBC" source="76" target="216"/>
+    <edge label="MYC:RUVBL2" source="76" target="94"/>
+    <edge label="MYC:RUVBL1" source="76" target="95"/>
+    <edge label="MYC:SMARCA2" source="76" target="154"/>
+    <edge label="MYC:PRKDC" source="76" target="223"/>
+    <edge label="MYC:NFYC" source="76" target="221"/>
+    <edge label="MYC:NFYB" source="76" target="224"/>
+    <edge label="MYC:ZBTB17" source="76" target="101"/>
+    <edge label="MYC:POLR2A" source="76" target="102"/>
+    <edge label="MYC:HNRNPK" source="76" target="161"/>
+    <edge label="MYC:SET" source="76" target="103"/>
+    <edge label="MYC:SQSTM1" source="76" target="104"/>
+    <edge label="MYC:TAF9" source="76" target="163"/>
+    <edge label="MYC:GTF3C2" source="76" target="232"/>
+    <edge label="MYC:GTF3C3" source="76" target="235"/>
+    <edge label="MYC:CREB1" source="76" target="238"/>
+    <edge label="MYC:YWHAE" source="76" target="121"/>
+    <edge label="MYC:BRCA1" source="76" target="176"/>
+    <edge label="MYC:SLC25A12" source="76" target="178"/>
+    <edge label="MYC:HDAC2" source="76" target="180"/>
+    <edge label="MYC:PSMC4" source="76" target="182"/>
+    <edge label="MYC:SP1" source="76" target="242"/>
+    <edge label="MYC:UBTF" source="76" target="126"/>
+    <edge label="MYC:HDAC1" source="76" target="183"/>
+    <edge label="MYC:PSMC2" source="76" target="185"/>
+    <edge label="MYC:GSK3B" source="76" target="128"/>
+    <edge label="MYC:MAPK14" source="76" target="127"/>
+    <edge label="MYC:GTF2F1" source="76" target="186"/>
+    <edge label="NR2F1:THRA" source="77" target="133"/>
+    <edge label="NR2F1:ESR1" source="77" target="203"/>
+    <edge label="NR2F1:ISL1" source="77" target="239"/>
+    <edge label="NR2F1:GTF2B" source="77" target="88"/>
+    <edge label="NR2F1:AHR" source="77" target="149"/>
+    <edge label="NR2F1:CBX5" source="77" target="135"/>
+    <edge label="NR2F1:ALIEN" source="77" target="123"/>
+    <edge label="NR2F1:NCOA1" source="77" target="213"/>
+    <edge label="NR2F1:SP1" source="77" target="242"/>
+    <edge label="NR2F1:NCOA3" source="77" target="214"/>
+    <edge label="NR2F1:PHB2" source="77" target="243"/>
+    <edge label="NR2F1:BCL11B" source="77" target="105"/>
+    <edge label="NR2F1:BCL11A" source="77" target="106"/>
+    <edge label="NR2F1:EEF1D" source="77" target="96"/>
+    <edge label="CTBP1:HTT" source="78" target="170"/>
+    <edge label="CTBP1:TP53" source="78" target="85"/>
+    <edge label="CTBP1:TBP" source="78" target="134"/>
+    <edge label="CTBP1:UBE2I" source="78" target="204"/>
+    <edge label="CTBP1:ZNFN1A1" source="78" target="100"/>
+    <edge label="CTBP1:RB1" source="78" target="207"/>
+    <edge label="CTBP1:GTF2B" source="78" target="88"/>
+    <edge label="CTBP1:BRCA1" source="78" target="176"/>
+    <edge label="CTBP1:NRIP1" source="78" target="210"/>
+    <edge label="CTBP1:HDAC2" source="78" target="180"/>
+    <edge label="CTBP1:EP300" source="78" target="150"/>
+    <edge label="CTBP1:HDAC1" source="78" target="183"/>
+    <edge label="CTBP1:SP1" source="78" target="242"/>
+    <edge label="CTBP1:POU5F1" source="78" target="198"/>
+    <edge label="CTBP1:MDM2" source="78" target="217"/>
+    <edge label="CTBP1:EEF1D" source="78" target="96"/>
+    <edge label="AR:PAX5" source="79" target="192"/>
+    <edge label="AR:TBP" source="79" target="134"/>
+    <edge label="AR:PAX3" source="79" target="193"/>
+    <edge label="AR:FOS" source="79" target="196"/>
+    <edge label="AR:POU5F1" source="79" target="198"/>
+    <edge label="AR:RELA" source="79" target="146"/>
+    <edge label="AR:TP53" source="79" target="85"/>
+    <edge label="AR:ESR1" source="79" target="203"/>
+    <edge label="AR:UBE2I" source="79" target="204"/>
+    <edge label="AR:CDK7" source="79" target="205"/>
+    <edge label="AR:RB1" source="79" target="207"/>
+    <edge label="AR:AHR" source="79" target="149"/>
+    <edge label="AR:NRIP1" source="79" target="210"/>
+    <edge label="AR:NCOA1" source="79" target="213"/>
+    <edge label="AR:EP300" source="79" target="150"/>
+    <edge label="AR:NCOA3" source="79" target="214"/>
+    <edge label="AR:NCOA6" source="79" target="215"/>
+    <edge label="AR:UBC" source="79" target="216"/>
+    <edge label="AR:MDM2" source="79" target="217"/>
+    <edge label="AR:RUVBL1" source="79" target="95"/>
+    <edge label="AR:SMARCA2" source="79" target="154"/>
+    <edge label="AR:HMGB1" source="79" target="155"/>
+    <edge label="AR:HMGB2" source="79" target="156"/>
+    <edge label="AR:PRKDC" source="79" target="223"/>
+    <edge label="AR:NR3C1" source="79" target="226"/>
+    <edge label="AR:REL" source="79" target="227"/>
+    <edge label="AR:POU2F2" source="79" target="228"/>
+    <edge label="AR:POU2F1" source="79" target="229"/>
+    <edge label="AR:GAPDH" source="79" target="233"/>
+    <edge label="AR:TRIP4" source="79" target="168"/>
+    <edge label="AR:SIRT1" source="79" target="240"/>
+    <edge label="AR:BRCA1" source="79" target="176"/>
+    <edge label="AR:SP1" source="79" target="242"/>
+    <edge label="AR:HDAC1" source="79" target="183"/>
+    <edge label="AR:GSK3B" source="79" target="128"/>
+    <edge label="AR:MAPK14" source="79" target="127"/>
+    <edge label="AR:GTF2F1" source="79" target="186"/>
+    <edge label="AR:PNRC2" source="79" target="184"/>
+    <edge label="AR:PNRC1" source="79" target="187"/>
+    <edge label="AR:GTF2F2" source="79" target="188"/>
+    <edge label="AR:IRF1" source="79" target="247"/>
+    <edge label="AR:NR5A1" source="79" target="130"/>
+    <edge label="SNAPC2:SNAPC4" source="80" target="83"/>
+    <edge label="SNAPC2:TBP" source="80" target="134"/>
+    <edge label="SNAPC2:TAF9" source="80" target="163"/>
+    <edge label="SNAPC2:GTF2B" source="80" target="88"/>
+    <edge label="BRF2:SNAPC4" source="81" target="83"/>
+    <edge label="BRF2:TBP" source="81" target="134"/>
+    <edge label="BRF2:CHP" source="81" target="113"/>
+    <edge label="SNAPC1:SNAPC4" source="82" target="83"/>
+    <edge label="SNAPC1:TBP" source="82" target="134"/>
+    <edge label="SNAPC1:RB1" source="82" target="207"/>
+    <edge label="SNAPC4:TAF10" source="83" target="90"/>
+    <edge label="SNAPC4:POU2AF1" source="83" target="145"/>
+    <edge label="SNAPC4:MAPK14" source="83" target="127"/>
+    <edge label="SNAPC4:GSK3B" source="83" target="128"/>
+    <edge label="SNAPC4:POU2F1" source="83" target="229"/>
+    <edge label="SNAPC4:TBP" source="83" target="134"/>
+    <edge label="GTF2H4:GTF2E1" source="84" target="139"/>
+    <edge label="GTF2H4:GTF2F1" source="84" target="186"/>
+    <edge label="GTF2H4:TBP" source="84" target="134"/>
+    <edge label="GTF2H4:GTF2B" source="84" target="88"/>
+    <edge label="GTF2H4:BRCA1" source="84" target="176"/>
+    <edge label="GTF2H4:POLR2A" source="84" target="102"/>
+    <edge label="TP53:E2F1" source="85" target="189"/>
+    <edge label="TP53:TBP" source="85" target="134"/>
+    <edge label="TP53:MEN1" source="85" target="195"/>
+    <edge label="TP53:CSNK2A2" source="85" target="136"/>
+    <edge label="TP53:CSNK2A1" source="85" target="141"/>
+    <edge label="TP53:ESR1" source="85" target="203"/>
+    <edge label="TP53:UBE2I" source="85" target="204"/>
+    <edge label="TP53:CDK7" source="85" target="205"/>
+    <edge label="TP53:RB1" source="85" target="207"/>
+    <edge label="TP53:RFWD2" source="85" target="211"/>
+    <edge label="TP53:TAF10" source="85" target="90"/>
+    <edge label="TP53:EP300" source="85" target="150"/>
+    <edge label="TP53:UBC" source="85" target="216"/>
+    <edge label="TP53:MDM2" source="85" target="217"/>
+    <edge label="TP53:HMGB1" source="85" target="155"/>
+    <edge label="TP53:HMGB2" source="85" target="156"/>
+    <edge label="TP53:PRKDC" source="85" target="223"/>
+    <edge label="TP53:NFYB" source="85" target="224"/>
+    <edge label="TP53:NFYA" source="85" target="225"/>
+    <edge label="TP53:NR3C1" source="85" target="226"/>
+    <edge label="TP53:VDR" source="85" target="160"/>
+    <edge label="TP53:TAF9" source="85" target="163"/>
+    <edge label="TP53:CSNK1A1" source="85" target="117"/>
+    <edge label="TP53:TAF1" source="85" target="165"/>
+    <edge label="TP53:TAF6" source="85" target="169"/>
+    <edge label="TP53:HTT" source="85" target="170"/>
+    <edge label="TP53:CREB1" source="85" target="238"/>
+    <edge label="TP53:MAPK10" source="85" target="120"/>
+    <edge label="TP53:SIRT1" source="85" target="240"/>
+    <edge label="TP53:BRCA1" source="85" target="176"/>
+    <edge label="TP53:IRF9" source="85" target="241"/>
+    <edge label="TP53:MNAT1" source="85" target="124"/>
+    <edge label="TP53:HDAC2" source="85" target="180"/>
+    <edge label="TP53:ATF3" source="85" target="181"/>
+    <edge label="TP53:SP1" source="85" target="242"/>
+    <edge label="TP53:HDAC1" source="85" target="183"/>
+    <edge label="TP53:GSK3B" source="85" target="128"/>
+    <edge label="TP53:MAPK14" source="85" target="127"/>
+    <edge label="TP53:SETD7" source="85" target="249"/>
+    <edge label="TP53:BARD1" source="85" target="131"/>
+    <edge label="TLE4:HDAC1" source="86" target="183"/>
+    <edge label="TLE4:POU2F1" source="86" target="229"/>
+    <edge label="TLE4:PAX5" source="86" target="192"/>
+    <edge label="FOSB:CSNK2A1" source="87" target="141"/>
+    <edge label="FOSB:JUND" source="87" target="162"/>
+    <edge label="GTF2B:THRA" source="88" target="133"/>
+    <edge label="GTF2B:TBP" source="88" target="134"/>
+    <edge label="GTF2B:GTF2E1" source="88" target="139"/>
+    <edge label="GTF2B:GTF2E2" source="88" target="140"/>
+    <edge label="GTF2B:GTF2A1" source="88" target="197"/>
+    <edge label="GTF2B:RELA" source="88" target="146"/>
+    <edge label="GTF2B:ESR1" source="88" target="203"/>
+    <edge label="GTF2B:MCM2" source="88" target="206"/>
+    <edge label="GTF2B:TAF11" source="88" target="89"/>
+    <edge label="GTF2B:NCOA1" source="88" target="213"/>
+    <edge label="GTF2B:EP300" source="88" target="150"/>
+    <edge label="GTF2B:NCOA3" source="88" target="214"/>
+    <edge label="GTF2B:ZNFN1A1" source="88" target="100"/>
+    <edge label="GTF2B:POLR2A" source="88" target="102"/>
+    <edge label="GTF2B:VDR" source="88" target="160"/>
+    <edge label="GTF2B:REL" source="88" target="227"/>
+    <edge label="GTF2B:POU2F1" source="88" target="229"/>
+    <edge label="GTF2B:BCL3" source="88" target="109"/>
+    <edge label="GTF2B:TCEA1" source="88" target="112"/>
+    <edge label="GTF2B:POU3F2" source="88" target="231"/>
+    <edge label="GTF2B:TAF9" source="88" target="163"/>
+    <edge label="GTF2B:TAF1" source="88" target="165"/>
+    <edge label="GTF2B:CREB1" source="88" target="238"/>
+    <edge label="GTF2B:YWHAE" source="88" target="121"/>
+    <edge label="GTF2B:ATF4" source="88" target="179"/>
+    <edge label="GTF2B:SP1" source="88" target="242"/>
+    <edge label="GTF2B:PSMC2" source="88" target="185"/>
+    <edge label="GTF2B:GTF2F1" source="88" target="186"/>
+    <edge label="GTF2B:GTF2F2" source="88" target="188"/>
+    <edge label="GTF2B:IRF1" source="88" target="247"/>
+    <edge label="GTF2B:IRF2" source="88" target="248"/>
+    <edge label="GTF2B:NR5A1" source="88" target="130"/>
+    <edge label="TAF11:TAF1" source="89" target="165"/>
+    <edge label="TAF11:TAF4" source="89" target="167"/>
+    <edge label="TAF11:THRA" source="89" target="133"/>
+    <edge label="TAF11:TAF6" source="89" target="169"/>
+    <edge label="TAF11:RELA" source="89" target="146"/>
+    <edge label="TAF11:TAF7" source="89" target="171"/>
+    <edge label="TAF11:NFYC" source="89" target="221"/>
+    <edge label="TAF11:TBP" source="89" target="134"/>
+    <edge label="TAF11:NFYB" source="89" target="224"/>
+    <edge label="TAF11:NFYA" source="89" target="225"/>
+    <edge label="TAF11:POLR2A" source="89" target="102"/>
+    <edge label="TAF11:VDR" source="89" target="160"/>
+    <edge label="TAF11:GTF2E1" source="89" target="139"/>
+    <edge label="TAF11:TAF10" source="89" target="90"/>
+    <edge label="TAF11:TAF13" source="89" target="91"/>
+    <edge label="TAF11:TAF12" source="89" target="92"/>
+    <edge label="TAF11:GTF2F1" source="89" target="186"/>
+    <edge label="TAF11:TAF9" source="89" target="163"/>
+    <edge label="TAF10:TAF1" source="90" target="165"/>
+    <edge label="TAF10:TAF4" source="90" target="167"/>
+    <edge label="TAF10:TAF6" source="90" target="169"/>
+    <edge label="TAF10:TAF7" source="90" target="171"/>
+    <edge label="TAF10:ESR1" source="90" target="203"/>
+    <edge label="TAF10:TBP" source="90" target="134"/>
+    <edge label="TAF10:POLR2A" source="90" target="102"/>
+    <edge label="TAF10:TAF13" source="90" target="91"/>
+    <edge label="TAF10:TAF12" source="90" target="92"/>
+    <edge label="TAF10:ATXN7" source="90" target="244"/>
+    <edge label="TAF10:SETD7" source="90" target="249"/>
+    <edge label="TAF10:GTF3C5" source="90" target="230"/>
+    <edge label="TAF10:PCAF" source="90" target="250"/>
+    <edge label="TAF10:TAF9" source="90" target="163"/>
+    <edge label="TAF13:TAF1" source="91" target="165"/>
+    <edge label="TAF13:TAF4" source="91" target="167"/>
+    <edge label="TAF13:TAF12" source="91" target="92"/>
+    <edge label="TAF13:TAF6" source="91" target="169"/>
+    <edge label="TAF13:TAF7" source="91" target="171"/>
+    <edge label="TAF13:TBP" source="91" target="134"/>
+    <edge label="TAF13:TAF9" source="91" target="163"/>
+    <edge label="TAF12:TAF1" source="92" target="165"/>
+    <edge label="TAF12:TAF4" source="92" target="167"/>
+    <edge label="TAF12:TAF6" source="92" target="169"/>
+    <edge label="TAF12:TAF7" source="92" target="171"/>
+    <edge label="TAF12:NFYC" source="92" target="221"/>
+    <edge label="TAF12:NFYB" source="92" target="224"/>
+    <edge label="TAF12:TBP" source="92" target="134"/>
+    <edge label="TAF12:NFYA" source="92" target="225"/>
+    <edge label="TAF12:ATXN7" source="92" target="244"/>
+    <edge label="TAF12:TAF9" source="92" target="163"/>
+    <edge label="AICDA:IRF8" source="93" target="246"/>
+    <edge label="AICDA:PRKDC" source="93" target="223"/>
+    <edge label="RUVBL2:RELA" source="94" target="146"/>
+    <edge label="RUVBL2:ESR1" source="94" target="203"/>
+    <edge label="RUVBL2:TBP" source="94" target="134"/>
+    <edge label="RUVBL2:YWHAE" source="94" target="121"/>
+    <edge label="RUVBL2:HDAC2" source="94" target="180"/>
+    <edge label="RUVBL2:HDAC1" source="94" target="183"/>
+    <edge label="RUVBL2:BCL3" source="94" target="109"/>
+    <edge label="RUVBL2:TAF9" source="94" target="163"/>
+    <edge label="RUVBL2:RUVBL1" source="94" target="95"/>
+    <edge label="RUVBL2:TRAF6" source="94" target="164"/>
+    <edge label="RUVBL1:RELA" source="95" target="146"/>
+    <edge label="RUVBL1:ESR1" source="95" target="203"/>
+    <edge label="RUVBL1:PRKDC" source="95" target="223"/>
+    <edge label="RUVBL1:UBE2I" source="95" target="204"/>
+    <edge label="RUVBL1:TBP" source="95" target="134"/>
+    <edge label="RUVBL1:TAF9" source="95" target="163"/>
+    <edge label="RUVBL1:TRAF6" source="95" target="164"/>
+    <edge label="RUVBL1:SMARCA2" source="95" target="154"/>
+    <edge label="EEF1D:FOS" source="96" target="196"/>
+    <edge label="EEF1D:JDP2" source="96" target="132"/>
+    <edge label="EEF1D:SET" source="96" target="103"/>
+    <edge label="EEF1D:CSNK2A1" source="96" target="141"/>
+    <edge label="EEF1D:TRAF6" source="96" target="164"/>
+    <edge label="EEF1D:TRIM21" source="96" target="122"/>
+    <edge label="NPPA:ESR1" source="97" target="203"/>
+    <edge label="NACA:CSNK2A2" source="98" target="136"/>
+    <edge label="NACA:FOS" source="98" target="196"/>
+    <edge label="NACA:GSK3B" source="98" target="128"/>
+    <edge label="NACA:TBP" source="98" target="134"/>
+    <edge label="CREM:CSNK1A1" source="99" target="117"/>
+    <edge label="CREM:CSNK2A2" source="99" target="136"/>
+    <edge label="CREM:TAF4" source="99" target="167"/>
+    <edge label="CREM:CSNK2A1" source="99" target="141"/>
+    <edge label="CREM:HDAC1" source="99" target="183"/>
+    <edge label="CREM:CREB1" source="99" target="238"/>
+    <edge label="CREM:GSK3B" source="99" target="128"/>
+    <edge label="CREM:PRKACA" source="99" target="144"/>
+    <edge label="CREM:TBP" source="99" target="134"/>
+    <edge label="ZNFN1A1:HDAC2" source="100" target="180"/>
+    <edge label="ZNFN1A1:HDAC1" source="100" target="183"/>
+    <edge label="ZNFN1A1:TBP" source="100" target="134"/>
+    <edge label="ZNFN1A1:UBE2I" source="100" target="204"/>
+    <edge label="ZBTB17:EP300" source="101" target="150"/>
+    <edge label="ZBTB17:IRF8" source="101" target="246"/>
+    <edge label="ZBTB17:ESR1" source="101" target="203"/>
+    <edge label="ZBTB17:HCFC1" source="101" target="222"/>
+    <edge label="POLR2A:PRKDC" source="102" target="223"/>
+    <edge label="POLR2A:TBP" source="102" target="134"/>
+    <edge label="POLR2A:MEN1" source="102" target="195"/>
+    <edge label="POLR2A:VDR" source="102" target="160"/>
+    <edge label="POLR2A:GTF2E1" source="102" target="139"/>
+    <edge label="POLR2A:GTF2E2" source="102" target="140"/>
+    <edge label="POLR2A:TCEA1" source="102" target="112"/>
+    <edge label="POLR2A:CDK7" source="102" target="205"/>
+    <edge label="POLR2A:BRCA1" source="102" target="176"/>
+    <edge label="POLR2A:EP300" source="102" target="150"/>
+    <edge label="POLR2A:MAPK14" source="102" target="127"/>
+    <edge label="POLR2A:GSK3B" source="102" target="128"/>
+    <edge label="POLR2A:GTF2F1" source="102" target="186"/>
+    <edge label="POLR2A:GTF2F2" source="102" target="188"/>
+    <edge label="POLR2A:UBC" source="102" target="216"/>
+    <edge label="POLR2A:SMARCA2" source="102" target="154"/>
+    <edge label="POLR2A:BARD1" source="102" target="131"/>
+    <edge label="SET:HMGB2" source="103" target="156"/>
+    <edge label="SET:TBP" source="103" target="134"/>
+    <edge label="SET:NR3C1" source="103" target="226"/>
+    <edge label="SET:FOS" source="103" target="196"/>
+    <edge label="SET:EP300" source="103" target="150"/>
+    <edge label="SET:UBTF" source="103" target="126"/>
+    <edge label="SET:MDM2" source="103" target="217"/>
+    <edge label="SET:TRAF6" source="103" target="164"/>
+    <edge label="SET:GAPDH" source="103" target="233"/>
+    <edge label="SQSTM1:HTT" source="104" target="170"/>
+    <edge label="SQSTM1:TRIM21" source="104" target="122"/>
+    <edge label="SQSTM1:GSK3B" source="104" target="128"/>
+    <edge label="SQSTM1:MAPK14" source="104" target="127"/>
+    <edge label="SQSTM1:IRF8" source="104" target="246"/>
+    <edge label="SQSTM1:UBC" source="104" target="216"/>
+    <edge label="SQSTM1:TRAF6" source="104" target="164"/>
+    <edge label="SQSTM1:GTF3C3" source="104" target="235"/>
+    <edge label="BCL11B:HDAC2" source="105" target="180"/>
+    <edge label="BCL11B:SP1" source="105" target="242"/>
+    <edge label="BCL11B:HDAC1" source="105" target="183"/>
+    <edge label="BCL11B:CBX5" source="105" target="135"/>
+    <edge label="BCL11A:HDAC1" source="106" target="183"/>
+    <edge label="BCL11A:BCL6" source="106" target="111"/>
+    <edge label="BCL11A:SIRT1" source="106" target="240"/>
+    <edge label="NPAT:POU2F1" source="107" target="229"/>
+    <edge label="NPAT:STIP1" source="107" target="158"/>
+    <edge label="NPAT:GAPDH" source="107" target="233"/>
+    <edge label="PPP3CB:NFATC3" source="108" target="234"/>
+    <edge label="PPP3CB:NFATC1" source="108" target="236"/>
+    <edge label="BCL3:RELA" source="109" target="146"/>
+    <edge label="BCL3:TBP" source="109" target="134"/>
+    <edge label="BCL3:FOS" source="109" target="196"/>
+    <edge label="BCL3:NCOA1" source="109" target="213"/>
+    <edge label="BCL3:EP300" source="109" target="150"/>
+    <edge label="BCL3:REL" source="109" target="227"/>
+    <edge label="BCL3:GTF2A1" source="109" target="197"/>
+    <edge label="BCL3:HDAC1" source="109" target="183"/>
+    <edge label="BCL3:GSK3B" source="109" target="128"/>
+    <edge label="BCL3:NCOA6" source="109" target="215"/>
+    <edge label="BCL3:UBC" source="109" target="216"/>
+    <edge label="BCL3:BARD1" source="109" target="131"/>
+    <edge label="PPP3CC:NFATC3" source="110" target="234"/>
+    <edge label="PPP3CC:NFATC1" source="110" target="236"/>
+    <edge label="BCL6:EP300" source="111" target="150"/>
+    <edge label="BCL6:HDAC2" source="111" target="180"/>
+    <edge label="BCL6:SP1" source="111" target="242"/>
+    <edge label="BCL6:HDAC1" source="111" target="183"/>
+    <edge label="BCL6:JUND" source="111" target="162"/>
+    <edge label="TCEA1:GTF2E1" source="112" target="139"/>
+    <edge label="TCEA1:GTF2F1" source="112" target="186"/>
+    <edge label="TCEA1:MAPK14" source="112" target="127"/>
+    <edge label="TCEA1:GTF2F2" source="112" target="188"/>
+    <edge label="TCEA1:TBP" source="112" target="134"/>
+    <edge label="CHP:NFATC3" source="113" target="234"/>
+    <edge label="CHP:NFATC1" source="113" target="236"/>
+    <edge label="PPP3CA:PPP3R1" source="114" target="219"/>
+    <edge label="PPP3CA:NR3C1" source="114" target="226"/>
+    <edge label="PPP3CA:NFATC3" source="114" target="234"/>
+    <edge label="PPP3CA:NFATC1" source="114" target="236"/>
+    <edge label="ETV6:MAPK14" source="115" target="127"/>
+    <edge label="ETV6:IRF8" source="115" target="246"/>
+    <edge label="ETV6:UBC" source="115" target="216"/>
+    <edge label="ETV6:UBE2I" source="115" target="204"/>
+    <edge label="TLX2:IRF9" source="116" target="241"/>
+    <edge label="TLX2:POU2F1" source="116" target="229"/>
+    <edge label="TLX2:GTF2A1L" source="116" target="174"/>
+    <edge label="CSNK1A1:HMGB1" source="117" target="155"/>
+    <edge label="CSNK1A1:HMGB2" source="117" target="156"/>
+    <edge label="CSNK1A1:NFATC3" source="117" target="234"/>
+    <edge label="POLR3F:PNRC1" source="118" target="187"/>
+    <edge label="POLR3F:TBP" source="118" target="134"/>
+    <edge label="BRD2:E2F1" source="119" target="189"/>
+    <edge label="BRD2:MAPK14" source="119" target="127"/>
+    <edge label="BRD2:GSK3B" source="119" target="128"/>
+    <edge label="BRD2:TBP" source="119" target="134"/>
+    <edge label="MAPK10:PRKCQ" source="120" target="212"/>
+    <edge label="MAPK10:HNRNPK" source="120" target="161"/>
+    <edge label="MAPK10:HDAC1" source="120" target="183"/>
+    <edge label="MAPK10:JUND" source="120" target="162"/>
+    <edge label="YWHAE:TAF7" source="121" target="171"/>
+    <edge label="YWHAE:TBP" source="121" target="134"/>
+    <edge label="YWHAE:TAF9" source="121" target="163"/>
+    <edge label="TRIM21:NCOA1" source="122" target="213"/>
+    <edge label="TRIM21:NCOA3" source="122" target="214"/>
+    <edge label="TRIM21:IRF8" source="122" target="246"/>
+    <edge label="TRIM21:UBC" source="122" target="216"/>
+    <edge label="ALIEN:THRA" source="123" target="133"/>
+    <edge label="MNAT1:E2F1" source="124" target="189"/>
+    <edge label="MNAT1:GTF2E2" source="124" target="140"/>
+    <edge label="MNAT1:POU5F1" source="124" target="198"/>
+    <edge label="MNAT1:POU2F2" source="124" target="228"/>
+    <edge label="MNAT1:POU2F1" source="124" target="229"/>
+    <edge label="MNAT1:ESR1" source="124" target="203"/>
+    <edge label="MNAT1:RB1" source="124" target="207"/>
+    <edge label="MNAT1:CDK7" source="124" target="205"/>
+    <edge label="MNAT1:BRCA1" source="124" target="176"/>
+    <edge label="PKNOX1:POU2F1" source="125" target="229"/>
+    <edge label="PKNOX1:PAX6" source="125" target="191"/>
+    <edge label="PKNOX1:PBX1" source="125" target="129"/>
+    <edge label="UBTF:TAF1" source="126" target="165"/>
+    <edge label="UBTF:ESR1" source="126" target="203"/>
+    <edge label="UBTF:TBP" source="126" target="134"/>
+    <edge label="UBTF:RB1" source="126" target="207"/>
+    <edge label="UBTF:CSNK2A1" source="126" target="141"/>
+    <edge label="UBTF:GSK3B" source="126" target="128"/>
+    <edge label="UBTF:MAPK14" source="126" target="127"/>
+    <edge label="MAPK14:E2F1" source="127" target="189"/>
+    <edge label="MAPK14:JDP2" source="127" target="132"/>
+    <edge label="MAPK14:NR3C1" source="127" target="226"/>
+    <edge label="MAPK14:FOS" source="127" target="196"/>
+    <edge label="MAPK14:JUND" source="127" target="162"/>
+    <edge label="MAPK14:TRAF6" source="127" target="164"/>
+    <edge label="MAPK14:KDM5A" source="127" target="201"/>
+    <edge label="MAPK14:NFATC1" source="127" target="236"/>
+    <edge label="MAPK14:TAF6" source="127" target="169"/>
+    <edge label="MAPK14:CREB1" source="127" target="238"/>
+    <edge label="MAPK14:RELA" source="127" target="146"/>
+    <edge label="MAPK14:ESR1" source="127" target="203"/>
+    <edge label="MAPK14:RB1" source="127" target="207"/>
+    <edge label="MAPK14:SIRT1" source="127" target="240"/>
+    <edge label="MAPK14:DDIT3" source="127" target="148"/>
+    <edge label="MAPK14:NCOA1" source="127" target="213"/>
+    <edge label="MAPK14:NCOA3" source="127" target="214"/>
+    <edge label="MAPK14:GTF2F1" source="127" target="186"/>
+    <edge label="MAPK14:NR5A1" source="127" target="130"/>
+    <edge label="GSK3B:E2F1" source="128" target="189"/>
+    <edge label="GSK3B:FOSL2" source="128" target="190"/>
+    <edge label="GSK3B:PAX3" source="128" target="193"/>
+    <edge label="GSK3B:PRKACA" source="128" target="144"/>
+    <edge label="GSK3B:KDM5A" source="128" target="201"/>
+    <edge label="GSK3B:RELA" source="128" target="146"/>
+    <edge label="GSK3B:ESR1" source="128" target="203"/>
+    <edge label="GSK3B:MCM2" source="128" target="206"/>
+    <edge label="GSK3B:RB1" source="128" target="207"/>
+    <edge label="GSK3B:HMGA1" source="128" target="208"/>
+    <edge label="GSK3B:DDIT3" source="128" target="148"/>
+    <edge label="GSK3B:NCOA1" source="128" target="213"/>
+    <edge label="GSK3B:NCOA3" source="128" target="214"/>
+    <edge label="GSK3B:MDM2" source="128" target="217"/>
+    <edge label="GSK3B:NFE2L2" source="128" target="153"/>
+    <edge label="GSK3B:SMARCA2" source="128" target="154"/>
+    <edge label="GSK3B:NR3C1" source="128" target="226"/>
+    <edge label="GSK3B:JUND" source="128" target="162"/>
+    <edge label="GSK3B:NFATC3" source="128" target="234"/>
+    <edge label="GSK3B:NFATC1" source="128" target="236"/>
+    <edge label="GSK3B:TAF6" source="128" target="169"/>
+    <edge label="GSK3B:CEBPE" source="128" target="237"/>
+    <edge label="GSK3B:CREB1" source="128" target="238"/>
+    <edge label="GSK3B:SIRT1" source="128" target="240"/>
+    <edge label="GSK3B:BRCA1" source="128" target="176"/>
+    <edge label="GSK3B:ATF4" source="128" target="179"/>
+    <edge label="GSK3B:ATXN7" source="128" target="244"/>
+    <edge label="GSK3B:GTF2F1" source="128" target="186"/>
+    <edge label="GSK3B:NR5A1" source="128" target="130"/>
+    <edge label="PBX1:HDAC1" source="129" target="183"/>
+    <edge label="PBX1:POU2F1" source="129" target="229"/>
+    <edge label="PBX1:PAX6" source="129" target="191"/>
+    <edge label="PBX1:NR3C1" source="129" target="226"/>
+    <edge label="NR5A1:SOX2" source="130" target="157"/>
+    <edge label="NR5A1:NFYA" source="130" target="225"/>
+    <edge label="NR5A1:CDK7" source="130" target="205"/>
+    <edge label="NR5A1:CXXC1" source="130" target="159"/>
+    <edge label="NR5A1:NRIP1" source="130" target="210"/>
+    <edge label="NR5A1:NCOA1" source="130" target="213"/>
+    <edge label="NR5A1:SP1" source="130" target="242"/>
+    <edge label="NR5A1:PNRC2" source="130" target="184"/>
+    <edge label="NR5A1:EDF1" source="130" target="151"/>
+    <edge label="BARD1:RELA" source="131" target="146"/>
+    <edge label="BARD1:POU2F1" source="131" target="229"/>
+    <edge label="BARD1:BRCA1" source="131" target="176"/>
+    <edge label="JDP2:EP300" source="132" target="150"/>
+    <edge label="JDP2:JUND" source="132" target="162"/>
+    <edge label="JDP2:UBC" source="132" target="216"/>
+    <edge label="THRA:PRKDC" source="133" target="223"/>
+    <edge label="THRA:CSNK2A2" source="133" target="136"/>
+    <edge label="THRA:CSNK2A1" source="133" target="141"/>
+    <edge label="THRA:POU2F1" source="133" target="229"/>
+    <edge label="THRA:CREB1" source="133" target="238"/>
+    <edge label="THRA:TAF7" source="133" target="171"/>
+    <edge label="THRA:ESR1" source="133" target="203"/>
+    <edge label="THRA:CDK7" source="133" target="205"/>
+    <edge label="THRA:NRIP1" source="133" target="210"/>
+    <edge label="THRA:NCOA1" source="133" target="213"/>
+    <edge label="THRA:EP300" source="133" target="150"/>
+    <edge label="THRA:HDAC2" source="133" target="180"/>
+    <edge label="THRA:NCOA3" source="133" target="214"/>
+    <edge label="THRA:NCOA6" source="133" target="215"/>
+    <edge label="THRA:UBC" source="133" target="216"/>
+    <edge label="TBP:CBX5" source="134" target="135"/>
+    <edge label="TBP:GTF2E1" source="134" target="139"/>
+    <edge label="TBP:GTF2E2" source="134" target="140"/>
+    <edge label="TBP:RELA" source="134" target="146"/>
+    <edge label="TBP:AHR" source="134" target="149"/>
+    <edge label="TBP:EDF1" source="134" target="151"/>
+    <edge label="TBP:SMARCA2" source="134" target="154"/>
+    <edge label="TBP:HMGB1" source="134" target="155"/>
+    <edge label="TBP:CXXC1" source="134" target="159"/>
+    <edge label="TBP:HNRNPK" source="134" target="161"/>
+    <edge label="TBP:JUND" source="134" target="162"/>
+    <edge label="TBP:TAF9" source="134" target="163"/>
+    <edge label="TBP:TAF1" source="134" target="165"/>
+    <edge label="TBP:TAF4" source="134" target="167"/>
+    <edge label="TBP:TRIP4" source="134" target="168"/>
+    <edge label="TBP:TAF6" source="134" target="169"/>
+    <edge label="TBP:HTT" source="134" target="170"/>
+    <edge label="TBP:TAF7" source="134" target="171"/>
+    <edge label="TBP:TEAD1" source="134" target="172"/>
+    <edge label="TBP:GTF2A1L" source="134" target="174"/>
+    <edge label="TBP:FOXP3" source="134" target="175"/>
+    <edge label="TBP:ALL1" source="134" target="177"/>
+    <edge label="TBP:ATF4" source="134" target="179"/>
+    <edge label="TBP:HDAC1" source="134" target="183"/>
+    <edge label="TBP:PSMC2" source="134" target="185"/>
+    <edge label="TBP:GTF2F1" source="134" target="186"/>
+    <edge label="TBP:GTF2F2" source="134" target="188"/>
+    <edge label="TBP:E2F1" source="134" target="189"/>
+    <edge label="TBP:PAX6" source="134" target="191"/>
+    <edge label="TBP:PAX5" source="134" target="192"/>
+    <edge label="TBP:PAX3" source="134" target="193"/>
+    <edge label="TBP:PC4" source="134" target="194"/>
+    <edge label="TBP:FOS" source="134" target="196"/>
+    <edge label="TBP:GTF2A1" source="134" target="197"/>
+    <edge label="TBP:KDM5A" source="134" target="201"/>
+    <edge label="TBP:ESR1" source="134" target="203"/>
+    <edge label="TBP:MCM2" source="134" target="206"/>
+    <edge label="TBP:RB1" source="134" target="207"/>
+    <edge label="TBP:NCOA1" source="134" target="213"/>
+    <edge label="TBP:NCOA3" source="134" target="214"/>
+    <edge label="TBP:NCOA6" source="134" target="215"/>
+    <edge label="TBP:MDM2" source="134" target="217"/>
+    <edge label="TBP:NFYC" source="134" target="221"/>
+    <edge label="TBP:NFYB" source="134" target="224"/>
+    <edge label="TBP:NR3C1" source="134" target="226"/>
+    <edge label="TBP:REL" source="134" target="227"/>
+    <edge label="TBP:POU2F2" source="134" target="228"/>
+    <edge label="TBP:POU2F1" source="134" target="229"/>
+    <edge label="TBP:GTF3C5" source="134" target="230"/>
+    <edge label="TBP:POU3F2" source="134" target="231"/>
+    <edge label="TBP:GTF3C2" source="134" target="232"/>
+    <edge label="TBP:GTF3C3" source="134" target="235"/>
+    <edge label="TBP:SP1" source="134" target="242"/>
+    <edge label="TBP:ATXN7" source="134" target="244"/>
+    <edge label="TBP:SETD7" source="134" target="249"/>
+    <edge label="TBP:PCAF" source="134" target="250"/>
+    <edge label="CBX5:TAF4" source="135" target="167"/>
+    <edge label="CBX5:CSNK2A1" source="135" target="141"/>
+    <edge label="CBX5:HDAC1" source="135" target="183"/>
+    <edge label="CBX5:SP1" source="135" target="242"/>
+    <edge label="CBX5:PAX3" source="135" target="193"/>
+    <edge label="CBX5:RB1" source="135" target="207"/>
+    <edge label="CSNK2A2:VDR" source="136" target="160"/>
+    <edge label="CSNK2A2:FOS" source="136" target="196"/>
+    <edge label="CSNK2A2:GTF2A1" source="136" target="197"/>
+    <edge label="CSNK2A2:RELA" source="136" target="146"/>
+    <edge label="CSNK2A2:ESR1" source="136" target="203"/>
+    <edge label="CSNK2A2:GTF2A1L" source="136" target="174"/>
+    <edge label="CSNK2A2:MCM2" source="136" target="206"/>
+    <edge label="CSNK2A2:HMGA1" source="136" target="208"/>
+    <edge label="CSNK2A2:DDIT3" source="136" target="148"/>
+    <edge label="CSNK2A2:HDAC2" source="136" target="180"/>
+    <edge label="CSNK2A2:SP1" source="136" target="242"/>
+    <edge label="CSNK2A2:HDAC1" source="136" target="183"/>
+    <edge label="BATF:FOS" source="137" target="196"/>
+    <edge label="BATF:ATF4" source="137" target="179"/>
+    <edge label="BATF:JUND" source="137" target="162"/>
+    <edge label="BATF:DDIT3" source="137" target="148"/>
+    <edge label="HOXC6:HMGB1" source="138" target="155"/>
+    <edge label="HOXC6:JUND" source="138" target="162"/>
+    <edge label="GTF2E1:TAF1" source="139" target="165"/>
+    <edge label="GTF2E1:TAF6" source="139" target="169"/>
+    <edge label="GTF2E1:BRCA1" source="139" target="176"/>
+    <edge label="GTF2E1:GTF2E2" source="139" target="140"/>
+    <edge label="GTF2E1:GTF2A1" source="139" target="197"/>
+    <edge label="GTF2E1:GTF2F1" source="139" target="186"/>
+    <edge label="GTF2E1:GTF2F2" source="139" target="188"/>
+    <edge label="GTF2E1:MDM2" source="139" target="217"/>
+    <edge label="GTF2E2:FOS" source="140" target="196"/>
+    <edge label="GTF2E2:GTF2A1" source="140" target="197"/>
+    <edge label="GTF2E2:GTF2F1" source="140" target="186"/>
+    <edge label="GTF2E2:GTF2F2" source="140" target="188"/>
+    <edge label="GTF2E2:MDM2" source="140" target="217"/>
+    <edge label="CSNK2A1:PAX3" source="141" target="193"/>
+    <edge label="CSNK2A1:FOS" source="141" target="196"/>
+    <edge label="CSNK2A1:GTF2A1" source="141" target="197"/>
+    <edge label="CSNK2A1:RELA" source="141" target="146"/>
+    <edge label="CSNK2A1:ESR1" source="141" target="203"/>
+    <edge label="CSNK2A1:MCM2" source="141" target="206"/>
+    <edge label="CSNK2A1:HMGA1" source="141" target="208"/>
+    <edge label="CSNK2A1:DDIT3" source="141" target="148"/>
+    <edge label="CSNK2A1:MDM2" source="141" target="217"/>
+    <edge label="CSNK2A1:SMARCA2" source="141" target="154"/>
+    <edge label="CSNK2A1:STIP1" source="141" target="158"/>
+    <edge label="CSNK2A1:NR3C1" source="141" target="226"/>
+    <edge label="CSNK2A1:VDR" source="141" target="160"/>
+    <edge label="CSNK2A1:HNRNPK" source="141" target="161"/>
+    <edge label="CSNK2A1:NFATC1" source="141" target="236"/>
+    <edge label="CSNK2A1:CREB1" source="141" target="238"/>
+    <edge label="CSNK2A1:TAF7" source="141" target="171"/>
+    <edge label="CSNK2A1:GTF2A1L" source="141" target="174"/>
+    <edge label="CSNK2A1:SIRT1" source="141" target="240"/>
+    <edge label="CSNK2A1:BRCA1" source="141" target="176"/>
+    <edge label="CSNK2A1:HDAC2" source="141" target="180"/>
+    <edge label="CSNK2A1:SP1" source="141" target="242"/>
+    <edge label="CSNK2A1:HDAC1" source="141" target="183"/>
+    <edge label="CSNK2A1:GTF2F1" source="141" target="186"/>
+    <edge label="CSNK2A1:GTF2F2" source="141" target="188"/>
+    <edge label="CSNK2A1:IRF1" source="141" target="247"/>
+    <edge label="CSNK2A1:IRF2" source="141" target="248"/>
+    <edge label="HOXC9:IRF9" source="142" target="241"/>
+    <edge label="HOXC9:POU2F1" source="142" target="229"/>
+    <edge label="HOXC9:GTF2A1L" source="142" target="174"/>
+    <edge label="HOXC4:POU2F1" source="143" target="229"/>
+    <edge label="HOXC4:PRKDC" source="143" target="223"/>
+    <edge label="PRKACA:RELA" source="144" target="146"/>
+    <edge label="PRKACA:CREB1" source="144" target="238"/>
+    <edge label="PRKACA:ESR1" source="144" target="203"/>
+    <edge label="PRKACA:NR3C1" source="144" target="226"/>
+    <edge label="PRKACA:FOS" source="144" target="196"/>
+    <edge label="PRKACA:ATF4" source="144" target="179"/>
+    <edge label="PRKACA:HDAC1" source="144" target="183"/>
+    <edge label="PRKACA:POU2F1" source="144" target="229"/>
+    <edge label="PRKACA:IRF2" source="144" target="248"/>
+    <edge label="PRKACA:NFATC1" source="144" target="236"/>
+    <edge label="POU2AF1:PC4" source="145" target="194"/>
+    <edge label="POU2AF1:POU2F2" source="145" target="228"/>
+    <edge label="POU2AF1:POU2F1" source="145" target="229"/>
+    <edge label="RELA:MEN1" source="146" target="195"/>
+    <edge label="RELA:FOS" source="146" target="196"/>
+    <edge label="RELA:ESR1" source="146" target="203"/>
+    <edge label="RELA:AHR" source="146" target="149"/>
+    <edge label="RELA:EP300" source="146" target="150"/>
+    <edge label="RELA:NCOA3" source="146" target="214"/>
+    <edge label="RELA:NCOA6" source="146" target="215"/>
+    <edge label="RELA:UBC" source="146" target="216"/>
+    <edge label="RELA:HMGB1" source="146" target="155"/>
+    <edge label="RELA:HCFC1" source="146" target="222"/>
+    <edge label="RELA:PRKDC" source="146" target="223"/>
+    <edge label="RELA:NR3C1" source="146" target="226"/>
+    <edge label="RELA:REL" source="146" target="227"/>
+    <edge label="RELA:POU2F1" source="146" target="229"/>
+    <edge label="RELA:TAF9" source="146" target="163"/>
+    <edge label="RELA:TAF1" source="146" target="165"/>
+    <edge label="RELA:TRIP4" source="146" target="168"/>
+    <edge label="RELA:TAF6" source="146" target="169"/>
+    <edge label="RELA:SIRT1" source="146" target="240"/>
+    <edge label="RELA:BRCA1" source="146" target="176"/>
+    <edge label="RELA:IRF9" source="146" target="241"/>
+    <edge label="RELA:ATF4" source="146" target="179"/>
+    <edge label="RELA:HDAC2" source="146" target="180"/>
+    <edge label="RELA:ATF3" source="146" target="181"/>
+    <edge label="RELA:SP1" source="146" target="242"/>
+    <edge label="RELA:HDAC1" source="146" target="183"/>
+    <edge label="RELA:PHB2" source="146" target="243"/>
+    <edge label="RELA:IRF8" source="146" target="246"/>
+    <edge label="RELA:IRF1" source="146" target="247"/>
+    <edge label="RELA:IRF2" source="146" target="248"/>
+    <edge label="RELA:SETD7" source="146" target="249"/>
+    <edge label="CHP2:NFATC3" source="147" target="234"/>
+    <edge label="CHP2:NFATC1" source="147" target="236"/>
+    <edge label="DDIT3:FOSL2" source="148" target="190"/>
+    <edge label="DDIT3:CEBPE" source="148" target="237"/>
+    <edge label="DDIT3:FOS" source="148" target="196"/>
+    <edge label="DDIT3:ATF4" source="148" target="179"/>
+    <edge label="DDIT3:ATF3" source="148" target="181"/>
+    <edge label="DDIT3:JUND" source="148" target="162"/>
+    <edge label="DDIT3:UBC" source="148" target="216"/>
+    <edge label="DDIT3:FOSL1" source="148" target="202"/>
+    <edge label="AHR:TAF4" source="149" target="167"/>
+    <edge label="AHR:TAF7" source="149" target="171"/>
+    <edge label="AHR:ESR1" source="149" target="203"/>
+    <edge label="AHR:RB1" source="149" target="207"/>
+    <edge label="AHR:NRIP1" source="149" target="210"/>
+    <edge label="AHR:NCOA1" source="149" target="213"/>
+    <edge label="AHR:EP300" source="149" target="150"/>
+    <edge label="AHR:SP1" source="149" target="242"/>
+    <edge label="AHR:GTF2F1" source="149" target="186"/>
+    <edge label="AHR:GTF2F2" source="149" target="188"/>
+    <edge label="EP300:PAX6" source="150" target="191"/>
+    <edge label="EP300:PAX5" source="150" target="192"/>
+    <edge label="EP300:PC4" source="150" target="194"/>
+    <edge label="EP300:YAP1" source="150" target="199"/>
+    <edge label="EP300:FOSL1" source="150" target="202"/>
+    <edge label="EP300:ESR1" source="150" target="203"/>
+    <edge label="EP300:UBE2I" source="150" target="204"/>
+    <edge label="EP300:RB1" source="150" target="207"/>
+    <edge label="EP300:NCOA1" source="150" target="213"/>
+    <edge label="EP300:NCOA3" source="150" target="214"/>
+    <edge label="EP300:NCOA6" source="150" target="215"/>
+    <edge label="EP300:MDM2" source="150" target="217"/>
+    <edge label="EP300:NFYB" source="150" target="224"/>
+    <edge label="EP300:NR3C1" source="150" target="226"/>
+    <edge label="EP300:VDR" source="150" target="160"/>
+    <edge label="EP300:REL" source="150" target="227"/>
+    <edge label="EP300:JUND" source="150" target="162"/>
+    <edge label="EP300:GTF3C5" source="150" target="230"/>
+    <edge label="EP300:POU3F2" source="150" target="231"/>
+    <edge label="EP300:GTF3C2" source="150" target="232"/>
+    <edge label="EP300:GTF3C3" source="150" target="235"/>
+    <edge label="EP300:NFATC1" source="150" target="236"/>
+    <edge label="EP300:TRIP4" source="150" target="168"/>
+    <edge label="EP300:CREB1" source="150" target="238"/>
+    <edge label="EP300:SIRT1" source="150" target="240"/>
+    <edge label="EP300:BRCA1" source="150" target="176"/>
+    <edge label="EP300:ATF4" source="150" target="179"/>
+    <edge label="EP300:HDAC1" source="150" target="183"/>
+    <edge label="EP300:SP1" source="150" target="242"/>
+    <edge label="EP300:ATXN7" source="150" target="244"/>
+    <edge label="EP300:IRF1" source="150" target="247"/>
+    <edge label="EP300:IRF2" source="150" target="248"/>
+    <edge label="EDF1:FOS" source="151" target="196"/>
+    <edge label="EDF1:TAF1" source="151" target="165"/>
+    <edge label="EDF1:CREB1" source="151" target="238"/>
+    <edge label="NFE2L1:ATF4" source="152" target="179"/>
+    <edge label="NFE2L1:JUND" source="152" target="162"/>
+    <edge label="NFE2L1:HCFC1" source="152" target="222"/>
+    <edge label="NFE2L2:ATF4" source="153" target="179"/>
+    <edge label="NFE2L2:JUND" source="153" target="162"/>
+    <edge label="NFE2L2:UBC" source="153" target="216"/>
+    <edge label="NFE2L2:PRKDC" source="153" target="223"/>
+    <edge label="SMARCA2:TAF1" source="154" target="165"/>
+    <edge label="SMARCA2:TAF6" source="154" target="169"/>
+    <edge label="SMARCA2:ESR1" source="154" target="203"/>
+    <edge label="SMARCA2:NR3C1" source="154" target="226"/>
+    <edge label="SMARCA2:BRCA1" source="154" target="176"/>
+    <edge label="SMARCA2:ALL1" source="154" target="177"/>
+    <edge label="SMARCA2:HDAC2" source="154" target="180"/>
+    <edge label="SMARCA2:HDAC1" source="154" target="183"/>
+    <edge label="SMARCA2:TAF9" source="154" target="163"/>
+    <edge label="HMGB1:TAF1" source="155" target="165"/>
+    <edge label="HMGB1:ESR1" source="155" target="203"/>
+    <edge label="HMGB1:PRKDC" source="155" target="223"/>
+    <edge label="HMGB1:RB1" source="155" target="207"/>
+    <edge label="HMGB1:NR3C1" source="155" target="226"/>
+    <edge label="HMGB1:HMGA1" source="155" target="208"/>
+    <edge label="HMGB1:HNRNPK" source="155" target="161"/>
+    <edge label="HMGB1:GTF2A1" source="155" target="197"/>
+    <edge label="HMGB1:POU5F1" source="155" target="198"/>
+    <edge label="HMGB1:UBC" source="155" target="216"/>
+    <edge label="HMGB1:IRF2" source="155" target="248"/>
+    <edge label="HMGB2:ESR1" source="156" target="203"/>
+    <edge label="HMGB2:PRKDC" source="156" target="223"/>
+    <edge label="HMGB2:NR3C1" source="156" target="226"/>
+    <edge label="HMGB2:HMGA1" source="156" target="208"/>
+    <edge label="HMGB2:POU5F1" source="156" target="198"/>
+    <edge label="HMGB2:POU2F2" source="156" target="228"/>
+    <edge label="HMGB2:POU2F1" source="156" target="229"/>
+    <edge label="HMGB2:TRAF6" source="156" target="164"/>
+    <edge label="SOX2:HDAC2" source="157" target="180"/>
+    <edge label="SOX2:HDAC1" source="157" target="183"/>
+    <edge label="SOX2:POU5F1" source="157" target="198"/>
+    <edge label="SOX2:PAX6" source="157" target="191"/>
+    <edge label="SOX2:POU2F1" source="157" target="229"/>
+    <edge label="SOX2:ALX4" source="157" target="200"/>
+    <edge label="STIP1:POU2F1" source="158" target="229"/>
+    <edge label="STIP1:TRAF6" source="158" target="164"/>
+    <edge label="STIP1:GAPDH" source="158" target="233"/>
+    <edge label="CXXC1:MEN1" source="159" target="195"/>
+    <edge label="VDR:FOS" source="160" target="196"/>
+    <edge label="VDR:POU2F1" source="160" target="229"/>
+    <edge label="VDR:KDM5A" source="160" target="201"/>
+    <edge label="VDR:TAF7" source="160" target="171"/>
+    <edge label="VDR:CDK7" source="160" target="205"/>
+    <edge label="VDR:RB1" source="160" target="207"/>
+    <edge label="VDR:NRIP1" source="160" target="210"/>
+    <edge label="VDR:NCOA1" source="160" target="213"/>
+    <edge label="VDR:HDAC2" source="160" target="180"/>
+    <edge label="VDR:NCOA3" source="160" target="214"/>
+    <edge label="VDR:NCOA6" source="160" target="215"/>
+    <edge label="HNRNPK:UBC" source="161" target="216"/>
+    <edge label="HNRNPK:ESR1" source="161" target="203"/>
+    <edge label="HNRNPK:UBE2I" source="161" target="204"/>
+    <edge label="JUND:FOSL2" source="162" target="190"/>
+    <edge label="JUND:MEN1" source="162" target="195"/>
+    <edge label="JUND:FOS" source="162" target="196"/>
+    <edge label="JUND:FOSL1" source="162" target="202"/>
+    <edge label="JUND:ESR1" source="162" target="203"/>
+    <edge label="JUND:SIRT1" source="162" target="240"/>
+    <edge label="JUND:BRCA1" source="162" target="176"/>
+    <edge label="JUND:RFWD2" source="162" target="211"/>
+    <edge label="JUND:SLC25A12" source="162" target="178"/>
+    <edge label="JUND:PRKCQ" source="162" target="212"/>
+    <edge label="JUND:ATF3" source="162" target="181"/>
+    <edge label="JUND:HBZ" source="162" target="245"/>
+    <edge label="JUND:MDM2" source="162" target="217"/>
+    <edge label="TAF9:TAF1" source="163" target="165"/>
+    <edge label="TAF9:TAF4" source="163" target="167"/>
+    <edge label="TAF9:TAF6" source="163" target="169"/>
+    <edge label="TAF9:TAF7" source="163" target="171"/>
+    <edge label="TAF9:HCFC1" source="163" target="222"/>
+    <edge label="TAF9:ALL1" source="163" target="177"/>
+    <edge label="TAF9:ATXN7" source="163" target="244"/>
+    <edge label="TRAF6:PTPN6" source="164" target="166"/>
+    <edge label="TRAF6:PSMC4" source="164" target="182"/>
+    <edge label="TRAF6:HDAC1" source="164" target="183"/>
+    <edge label="TRAF6:PHB2" source="164" target="243"/>
+    <edge label="TRAF6:PSMC2" source="164" target="185"/>
+    <edge label="TRAF6:IRF8" source="164" target="246"/>
+    <edge label="TRAF6:UBC" source="164" target="216"/>
+    <edge label="TAF1:PAX6" source="165" target="191"/>
+    <edge label="TAF1:PC4" source="165" target="194"/>
+    <edge label="TAF1:FOS" source="165" target="196"/>
+    <edge label="TAF1:GTF2A1" source="165" target="197"/>
+    <edge label="TAF1:TAF4" source="165" target="167"/>
+    <edge label="TAF1:TAF6" source="165" target="169"/>
+    <edge label="TAF1:CREB1" source="165" target="238"/>
+    <edge label="TAF1:TAF7" source="165" target="171"/>
+    <edge label="TAF1:RB1" source="165" target="207"/>
+    <edge label="TAF1:ALL1" source="165" target="177"/>
+    <edge label="TAF1:GTF2F1" source="165" target="186"/>
+    <edge label="TAF1:MDM2" source="165" target="217"/>
+    <edge label="TAF1:PCAF" source="165" target="250"/>
+    <edge label="PTPN6:IRF8" source="166" target="246"/>
+    <edge label="PTPN6:IRF1" source="166" target="247"/>
+    <edge label="PTPN6:ESR1" source="166" target="203"/>
+    <edge label="TAF4:TAF6" source="167" target="169"/>
+    <edge label="TAF4:HTT" source="167" target="170"/>
+    <edge label="TAF4:CREB1" source="167" target="238"/>
+    <edge label="TAF4:TAF7" source="167" target="171"/>
+    <edge label="TAF4:GTF2A1" source="167" target="197"/>
+    <edge label="TAF4:SP1" source="167" target="242"/>
+    <edge label="TAF4:PCAF" source="167" target="250"/>
+    <edge label="TRIP4:NCOA1" source="168" target="213"/>
+    <edge label="TRIP4:GTF2A1" source="168" target="197"/>
+    <edge label="TRIP4:ESR1" source="168" target="203"/>
+    <edge label="TAF6:NFYC" source="169" target="221"/>
+    <edge label="TAF6:NFYB" source="169" target="224"/>
+    <edge label="TAF6:NFYA" source="169" target="225"/>
+    <edge label="TAF6:GTF2A1" source="169" target="197"/>
+    <edge label="TAF6:YAP1" source="169" target="199"/>
+    <edge label="TAF6:TAF7" source="169" target="171"/>
+    <edge label="TAF6:ALL1" source="169" target="177"/>
+    <edge label="TAF6:HDAC2" source="169" target="180"/>
+    <edge label="TAF6:HDAC1" source="169" target="183"/>
+    <edge label="TAF6:SETD7" source="169" target="249"/>
+    <edge label="HTT:SP1" source="170" target="242"/>
+    <edge label="HTT:UBC" source="170" target="216"/>
+    <edge label="HTT:GAPDH" source="170" target="233"/>
+    <edge label="TAF7:SETD7" source="171" target="249"/>
+    <edge label="TEAD1:NCOA1" source="172" target="213"/>
+    <edge label="TEAD1:POU2F1" source="172" target="229"/>
+    <edge label="TEAD1:YAP1" source="172" target="199"/>
+    <edge label="TEAD2:NCOA1" source="173" target="213"/>
+    <edge label="TEAD2:YAP1" source="173" target="199"/>
+    <edge label="GTF2A1L:ATF4" source="174" target="179"/>
+    <edge label="GTF2A1L:CEBPE" source="174" target="237"/>
+    <edge label="FOXP3:HDAC2" source="175" target="180"/>
+    <edge label="FOXP3:REL" source="175" target="227"/>
+    <edge label="FOXP3:NFATC1" source="175" target="236"/>
+    <edge label="BRCA1:E2F1" source="176" target="189"/>
+    <edge label="BRCA1:PRKDC" source="176" target="223"/>
+    <edge label="BRCA1:NFYA" source="176" target="225"/>
+    <edge label="BRCA1:POU2F1" source="176" target="229"/>
+    <edge label="BRCA1:CREB1" source="176" target="238"/>
+    <edge label="BRCA1:ESR1" source="176" target="203"/>
+    <edge label="BRCA1:UBE2I" source="176" target="204"/>
+    <edge label="BRCA1:RB1" source="176" target="207"/>
+    <edge label="BRCA1:CDK7" source="176" target="205"/>
+    <edge label="BRCA1:HDAC2" source="176" target="180"/>
+    <edge label="BRCA1:NCOA3" source="176" target="214"/>
+    <edge label="BRCA1:HDAC1" source="176" target="183"/>
+    <edge label="BRCA1:SP1" source="176" target="242"/>
+    <edge label="BRCA1:GTF2F1" source="176" target="186"/>
+    <edge label="BRCA1:UBC" source="176" target="216"/>
+    <edge label="ALL1:HDAC2" source="177" target="180"/>
+    <edge label="ALL1:HDAC1" source="177" target="183"/>
+    <edge label="ATF4:FOS" source="179" target="196"/>
+    <edge label="ATF4:ATF3" source="179" target="181"/>
+    <edge label="ATF4:GTF2F2" source="179" target="188"/>
+    <edge label="ATF4:UBC" source="179" target="216"/>
+    <edge label="HDAC2:HCFC1" source="180" target="222"/>
+    <edge label="HDAC2:NR3C1" source="180" target="226"/>
+    <edge label="HDAC2:MEN1" source="180" target="195"/>
+    <edge label="HDAC2:KDM5A" source="180" target="201"/>
+    <edge label="HDAC2:CREB1" source="180" target="238"/>
+    <edge label="HDAC2:ESR1" source="180" target="203"/>
+    <edge label="HDAC2:RB1" source="180" target="207"/>
+    <edge label="HDAC2:NRIP1" source="180" target="210"/>
+    <edge label="HDAC2:HDAC1" source="180" target="183"/>
+    <edge label="HDAC2:SP1" source="180" target="242"/>
+    <edge label="HDAC2:PHB2" source="180" target="243"/>
+    <edge label="ATF3:MDM2" source="181" target="217"/>
+    <edge label="PSMC4:PSMC2" source="182" target="185"/>
+    <edge label="HDAC1:E2F1" source="183" target="189"/>
+    <edge label="HDAC1:PAX3" source="183" target="193"/>
+    <edge label="HDAC1:MEN1" source="183" target="195"/>
+    <edge label="HDAC1:POU5F1" source="183" target="198"/>
+    <edge label="HDAC1:FOSL1" source="183" target="202"/>
+    <edge label="HDAC1:ESR1" source="183" target="203"/>
+    <edge label="HDAC1:UBE2I" source="183" target="204"/>
+    <edge label="HDAC1:RB1" source="183" target="207"/>
+    <edge label="HDAC1:NRIP1" source="183" target="210"/>
+    <edge label="HDAC1:UBC" source="183" target="216"/>
+    <edge label="HDAC1:MDM2" source="183" target="217"/>
+    <edge label="HDAC1:NFYC" source="183" target="221"/>
+    <edge label="HDAC1:HCFC1" source="183" target="222"/>
+    <edge label="HDAC1:NR3C1" source="183" target="226"/>
+    <edge label="HDAC1:POU2F1" source="183" target="229"/>
+    <edge label="HDAC1:CREB1" source="183" target="238"/>
+    <edge label="HDAC1:SP1" source="183" target="242"/>
+    <edge label="HDAC1:PHB2" source="183" target="243"/>
+    <edge label="PNRC2:ESR1" source="184" target="203"/>
+    <edge label="PSMC2:GTF2F1" source="185" target="186"/>
+    <edge label="PSMC2:ATXN7" source="185" target="244"/>
+    <edge label="GTF2F1:FOS" source="186" target="196"/>
+    <edge label="GTF2F1:GTF2A1" source="186" target="197"/>
+    <edge label="GTF2F1:GTF2F2" source="186" target="188"/>
+    <edge label="GTF2F2:CREB1" source="188" target="238"/>
+    <edge label="GTF2F2:HMGA1" source="188" target="208"/>
+    <edge label="GTF2F2:FOS" source="188" target="196"/>
+    <edge label="E2F1:PRKDC" source="189" target="223"/>
+    <edge label="E2F1:HCFC1" source="189" target="222"/>
+    <edge label="E2F1:CEBPE" source="189" target="237"/>
+    <edge label="E2F1:RB1" source="189" target="207"/>
+    <edge label="E2F1:CDK7" source="189" target="205"/>
+    <edge label="E2F1:SIRT1" source="189" target="240"/>
+    <edge label="E2F1:NCOA3" source="189" target="214"/>
+    <edge label="E2F1:SP1" source="189" target="242"/>
+    <edge label="E2F1:NCOA6" source="189" target="215"/>
+    <edge label="E2F1:UBC" source="189" target="216"/>
+    <edge label="E2F1:MDM2" source="189" target="217"/>
+    <edge label="FOSL2:FOS" source="190" target="196"/>
+    <edge label="PAX6:RB1" source="191" target="207"/>
+    <edge label="PAX5:RB1" source="192" target="207"/>
+    <edge label="PAX3:UBC" source="193" target="216"/>
+    <edge label="PAX3:POU3F2" source="193" target="231"/>
+    <edge label="PAX3:RB1" source="193" target="207"/>
+    <edge label="MEN1:ESR1" source="195" target="203"/>
+    <edge label="MEN1:HCFC1" source="195" target="222"/>
+    <edge label="MEN1:UBC" source="195" target="216"/>
+    <edge label="FOS:NR3C1" source="196" target="226"/>
+    <edge label="FOS:NFATC3" source="196" target="234"/>
+    <edge label="FOS:ESR1" source="196" target="203"/>
+    <edge label="FOS:RB1" source="196" target="207"/>
+    <edge label="FOS:SIRT1" source="196" target="240"/>
+    <edge label="FOS:NCOA1" source="196" target="213"/>
+    <edge label="FOS:NCOA3" source="196" target="214"/>
+    <edge label="FOS:NCOA6" source="196" target="215"/>
+    <edge label="GTF2A1:CREB1" source="197" target="238"/>
+    <edge label="GTF2A1:NCOA6" source="197" target="215"/>
+    <edge label="POU5F1:CREB1" source="198" target="238"/>
+    <edge label="POU5F1:NFYC" source="198" target="221"/>
+    <edge label="POU5F1:HCFC1" source="198" target="222"/>
+    <edge label="POU5F1:SP1" source="198" target="242"/>
+    <edge label="ALX4:CEBPE" source="200" target="237"/>
+    <edge label="KDM5A:ESR1" source="201" target="203"/>
+    <edge label="KDM5A:RB1" source="201" target="207"/>
+    <edge label="KDM5A:NR3C1" source="201" target="226"/>
+    <edge label="FOSL1:UBC" source="202" target="216"/>
+    <edge label="ESR1:UBE2I" source="203" target="204"/>
+    <edge label="ESR1:CDK7" source="203" target="205"/>
+    <edge label="ESR1:NRIP1" source="203" target="210"/>
+    <edge label="ESR1:NCOA1" source="203" target="213"/>
+    <edge label="ESR1:NCOA3" source="203" target="214"/>
+    <edge label="ESR1:NCOA6" source="203" target="215"/>
+    <edge label="ESR1:UBC" source="203" target="216"/>
+    <edge label="ESR1:MDM2" source="203" target="217"/>
+    <edge label="ESR1:PRKDC" source="203" target="223"/>
+    <edge label="ESR1:POU2F2" source="203" target="228"/>
+    <edge label="ESR1:POU2F1" source="203" target="229"/>
+    <edge label="ESR1:GAPDH" source="203" target="233"/>
+    <edge label="ESR1:ISL1" source="203" target="239"/>
+    <edge label="ESR1:SP1" source="203" target="242"/>
+    <edge label="ESR1:PHB2" source="203" target="243"/>
+    <edge label="ESR1:SETD7" source="203" target="249"/>
+    <edge label="UBE2I:NR3C1" source="204" target="226"/>
+    <edge label="UBE2I:REL" source="204" target="227"/>
+    <edge label="UBE2I:CEBPE" source="204" target="237"/>
+    <edge label="UBE2I:CREB1" source="204" target="238"/>
+    <edge label="UBE2I:MDM2" source="204" target="217"/>
+    <edge label="CDK7:MCM2" source="205" target="206"/>
+    <edge label="CDK7:POU2F1" source="205" target="229"/>
+    <edge label="RB1:GTF3C2" source="207" target="232"/>
+    <edge label="RB1:CEBPE" source="207" target="237"/>
+    <edge label="RB1:SP1" source="207" target="242"/>
+    <edge label="RB1:NCOA6" source="207" target="215"/>
+    <edge label="RB1:MDM2" source="207" target="217"/>
+    <edge label="HMGA1:PRKDC" source="208" target="223"/>
+    <edge label="HMGA1:NFYA" source="208" target="225"/>
+    <edge label="HMGA1:SP1" source="208" target="242"/>
+    <edge label="HMGA1:POU2F2" source="208" target="228"/>
+    <edge label="HMGA1:IRF1" source="208" target="247"/>
+    <edge label="HMGA1:POU2F1" source="208" target="229"/>
+    <edge label="NRIP1:NR3C1" source="210" target="226"/>
+    <edge label="NRIP1:PCAF" source="210" target="250"/>
+    <edge label="RFWD2:UBC" source="211" target="216"/>
+    <edge label="NCOA1:NR3C1" source="213" target="226"/>
+    <edge label="NCOA1:NCOA3" source="213" target="214"/>
+    <edge label="NCOA1:PCAF" source="213" target="250"/>
+    <edge label="NCOA3:NR3C1" source="214" target="226"/>
+    <edge label="NCOA3:UBC" source="214" target="216"/>
+    <edge label="NCOA6:PRKDC" source="215" target="223"/>
+    <edge label="NCOA6:NR3C1" source="215" target="226"/>
+    <edge label="UBC:NR3C1" source="216" target="226"/>
+    <edge label="UBC:SP1" source="216" target="242"/>
+    <edge label="UBC:IRF8" source="216" target="246"/>
+    <edge label="UBC:IRF1" source="216" target="247"/>
+    <edge label="UBC:MDM2" source="216" target="217"/>
+    <edge label="MDM2:PRKDC" source="217" target="223"/>
+    <edge label="MDM2:NR3C1" source="217" target="226"/>
+    <edge label="MDM2:GAPDH" source="217" target="233"/>
+    <edge label="MDM2:IRF2" source="217" target="248"/>
+    <edge label="MDM2:PCAF" source="217" target="250"/>
+    <edge label="TXNRD1:POU2F2" source="218" target="228"/>
+    <edge label="TXNRD1:POU2F1" source="218" target="229"/>
+    <edge label="PPP3R1:CREB1" source="219" target="238"/>
+    <edge label="PPP3R1:NFATC3" source="219" target="234"/>
+    <edge label="PPP3R1:NFATC1" source="219" target="236"/>
+    <edge label="PPP3R2:NFATC3" source="220" target="234"/>
+    <edge label="PPP3R2:NFATC1" source="220" target="236"/>
+    <edge label="NFYC:SP1" source="221" target="242"/>
+    <edge label="NFYC:NFYB" source="221" target="224"/>
+    <edge label="NFYC:NFYA" source="221" target="225"/>
+    <edge label="HCFC1:SP1" source="222" target="242"/>
+    <edge label="HCFC1:POU2F1" source="222" target="229"/>
+    <edge label="HCFC1:SETD7" source="222" target="249"/>
+    <edge label="PRKDC:NR3C1" source="223" target="226"/>
+    <edge label="PRKDC:POU2F1" source="223" target="229"/>
+    <edge label="PRKDC:SP1" source="223" target="242"/>
+    <edge label="NFYB:SP1" source="224" target="242"/>
+    <edge label="NFYB:NFYA" source="224" target="225"/>
+    <edge label="NFYA:SP1" source="225" target="242"/>
+    <edge label="NFYA:POU2F1" source="225" target="229"/>
+    <edge label="NR3C1:POU2F2" source="226" target="228"/>
+    <edge label="NR3C1:POU2F1" source="226" target="229"/>
+    <edge label="NR3C1:CREB1" source="226" target="238"/>
+    <edge label="REL:SP1" source="227" target="242"/>
+    <edge label="REL:IRF8" source="227" target="246"/>
+    <edge label="REL:GAPDH" source="227" target="233"/>
+    <edge label="REL:NFATC1" source="227" target="236"/>
+    <edge label="POU2F2:GAPDH" source="228" target="233"/>
+    <edge label="POU2F1:GAPDH" source="229" target="233"/>
+    <edge label="POU2F1:CEBPE" source="229" target="237"/>
+    <edge label="POU2F1:CREB1" source="229" target="238"/>
+    <edge label="POU2F1:IRF9" source="229" target="241"/>
+    <edge label="POU2F1:SP1" source="229" target="242"/>
+    <edge label="GTF3C5:GTF3C2" source="230" target="232"/>
+    <edge label="GTF3C5:GTF3C3" source="230" target="235"/>
+    <edge label="GTF3C2:GTF3C3" source="232" target="235"/>
+    <edge label="NFATC1:IRF8" source="236" target="246"/>
+    <edge label="IRF9:IRF1" source="241" target="247"/>
+    <edge label="SP1:HBZ" source="242" target="245"/>
+    <edge label="IRF8:IRF1" source="246" target="247"/>
+    <edge label="IRF8:IRF2" source="246" target="248"/>
+    <edge label="IRF1:PCAF" source="247" target="250"/>
+    <edge label="IRF2:PCAF" source="248" target="250"/>
+</graph>

@@ -1,0 +1,16 @@
+Term	P-value	Genes
+gastric_cancer	0.00315096718757622	KLF6,CDH1
+ovarian_cancer	0.09111512314100335	CDH1
+arrhythmogenic_right_ventricular_dysplasia	0.09111512314100335	PKP2
+corneal_dystrophy	0.09732264648885994	TGFBI
+microcephaly	0.09732264648885994	MYCN
+aneurysm	0.12176609592517988	COL4A1
+orofacial_cleft	0.12778139663761603	CDH1
+lung_cancer	0.13969884739604604	MAP3K8
+alzheimer_disease	0.16884242826486545	SORL1
+systemic_lupus_erythematosus	0.180244284292834	PDCD1
+breast_cancer	0.180244284292834	CDH1
+prostate_cancer	0.19150259918057708	KLF6
+cataract	0.2816307708292021	SORD
+leukemia	0.42267212315913366	FLT3
+mental_retardation	0.5543722322287679	VLDLR
