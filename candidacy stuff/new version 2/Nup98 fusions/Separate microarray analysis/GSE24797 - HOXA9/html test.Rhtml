@@ -1,0 +1,93 @@
+<html>
+
+<head>
+<title>Title</title>
+</head>
+
+<body>
+
+<p>This is an R HTML document. When you click the <b>Knit HTML</b> button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
+
+<!--begin.rcode
+source("http://bioconductor.org/biocLite.R")
+library(simpleaffy)
+celfiles <- read.affy(covdesc="phenodata.txt", path="data")
+celfiles
+celfiles.gcrma <- gcrma(celfiles)
+celfiles.gcrma
+library(RColorBrewer)
+cols <- brewer.pal(9, "Set1")
+library(affyPLM)
+celfiles.qc <- fitPLM(celfiles) 
+par(mfrow=c(1,2)) 
+RLE(celfiles.qc, main="RLE", col=cols) 
+NUSE(celfiles.qc, main="NUSE", col=cols)
+eset <- exprs(celfiles.gcrma) 
+distance <- dist(t(eset),method="maximum") 
+clusters <- hclust(distance) 
+plot(clusters) 
+celfiles.filtered <- nsFilter(celfiles.gcrma, require.entrez=FALSE, remove.dupEntrez=FALSE) 
+celfiles.filtered$filter.log
+samples <- celfiles.gcrma$Target 
+samples
+samples <- as.factor(samples) 
+samples
+design <- model.matrix(~0 + samples) 
+colnames(design) <- c("GMP", "GMPGFP", "HSC", "NHA9GMP") 
+design
+library(limma) 
+fit <- lmFit(exprs(celfiles.filtered$eset), design)
+contrast.matrix <- makeContrasts(NHA9GMPvsGMP = NHA9GMP - GMP, NHA9GMPvsGMPGFP = NHA9GMP - GMPGFP, NHA9GMPvsHSC <- NHA9GMP - HSC, levels=design) 
+contrast.matrix
+NHA9_fits <- contrasts.fit(fit, contrast.matrix) 
+NHA9_ebFit <- eBayes(NHA9_fits)
+probeset.list.NHA9GMPvsGMP <- topTable(NHA9_ebFit, coef=1, number=10000, lfc=1)
+probeset.list.NHA9GMPvsGMPGFP <- topTable(NHA9_ebFit, coef=2, number=10000, lfc=1)
+probeset.list.NHA9GMPvsHSC <- topTable(NHA9_ebFit, coef=3, number=10000, lfc=1)
+biocLite("mouse430a2.db")
+library(mouse430a2.db)
+library(annotate)
+View(probeset.list.NHA9GMPvsGMP)
+gene.symbols1 <- getSYMBOL(probeset.list.NHA9GMPvsGMP$ID, "mouse430a2")
+View(probeset.list.NHA9GMPvsGMP)
+View(probeset.list.NHA9GMPvsGMPGFP)
+View(probeset.list.NHA9GMPvsHSC)
+gene.symbols1 <- getSYMBOL(probeset.list.NHA9GMPvsGMP$ID, "mouse430a2")
+gene.symbols2 <- getSYMBOL(probeset.list.NHA9GMPvsGMPGFP$ID, "mouse430a2")
+gene.symbols3 <- getSYMBOL(probeset.list.NHA9GMPvsHSC$ID, "mouse430a2")
+NHA9GMPvsGMPFC2Ann <- cbind(probeset.list.NHA9GMPvsGMP, gene.symbols1)
+NHA9GMPvsGMPGFPFC2Ann <- cbind(probeset.list.NHA9GMPvsGMPGFP, gene.symbols2)
+NHA9GMPvsHSCFC2Ann <- cbind(probeset.list.NHA9GMPvsHSC, gene.symbols3)
+write.table(NHA9GMPvsGMPFC2Ann, "NHA9GMP vs GMP FC2 Ann.txt", sep="\t", quote=FALSE)
+write.table(NHA9GMPvsGMPGFPFC2Ann , "NHA9GMP vs GMPGFP FC2 Ann.txt", sep="\t", quote=FALSE)
+write.table(NHA9GMPvsHSCFC2Ann , "NHA9GMP vs HSC FC2 Ann.txt", sep="\t", quote=FALSE)
+NHA9GMPvsGMP <- topTable(NHA9_ebFit, coef=1, number=1000000, sort.by="logFC")
+NHA9GMPvsGMPGFP <- topTable(NHA9_ebFit, coef=2, number=1000000, sort.by="logFC")
+NHA9GMPvsHSC <- topTable(NHA9_ebFit, coef=3, number=1000000, sort.by="logFC")
+gene.symbols1 <- getSYMBOL(NHA9GMPvsGMP$ID, "mouse430a2") 
+gene.symbols2 <- getSYMBOL(NHA9GMPvsGMPGFP$ID, "mouse430a2")
+gene.symbols3 <- getSYMBOL(NHA9GMPvsHSC$ID, "mouse430a2")
+NHA9GMPvsGMPAllAnn <- cbind(NHA9GMPvsGMP, gene.symbols1) 
+NHA9GMPvsGMPGFPAllAnn <- cbind(NHA9GMPvsGMPGFP, gene.symbols2) 
+NHA9GMPvsHSCAllAnn <- cbind(NHA9GMPvsHSC, gene.symbols3)
+write.table(NHA9GMPvsGMPAllAnn, "NHA9GMP vs GMP All Ann.txt", sep="\t", quote=FALSE) 
+write.table(NHA9GMPvsGMPGFPAllAnn , "NHA9GMP vs GMPGFP All Ann.txt", sep="\t", quote=FALSE) 
+write.table(NHA9GMPvsHSCAllAnn , "NHA9GMP vs HSC All Ann.txt", sep="\t", quote=FALSE)
+NHA9GMPvsGMP$threshold = as.factor(abs(NHA9GMPvsGMP$logFC) > 1 & NHA9GMPvsGMP$P.Value < 0.05)
+NHA9GMPvsGMPGFP$threshold = as.factor(abs(NHA9GMPvsGMPGFP$logFC) > 1 & NHA9GMPvsGMPGFP$P.Value < 0.05)
+NHA9GMPvsHSC$threshold = as.factor(abs(NHA9GMPvsHSC$logFC) > 1 & NHA9GMPvsHSC$P.Value < 0.05)
+par(mar=c(3,3,2,1), mgp=c(2,.7,0), tck=-.01)
+plot(NHA9GMPvsGMP$logFC, -log10(NHA9GMPvsGMP$P.Value), xlim=c(-10, 10), ylim=c(0, 18), xlab="log2 fold change", ylab="-log10 p-value", pch=19, cex=0.5, col=NHA9GMPvsGMP$threshold)
+par(mar=c(3,3,2,1), mgp=c(2,.7,0), tck=-.01)
+plot(NHA9GMPvsGMPGFP$logFC, -log10(NHA9GMPvsGMPGFP$P.Value), xlim=c(-5, 5), ylim=c(0, 10), xlab="log2 fold change", ylab="-log10 p-value", pch=19, cex=0.5, col=NHA9GMPvsGMPGFP$threshold)
+plot(NHA9GMPvsHSC$logFC, -log10(NHA9GMPvsHSC$P.Value), xlim=c(-10, 10), ylim=c(0, 15), xlab="log2 fold change", ylab="-log10 p-value", pch=19, cex=0.5, col=NHA9GMPvsHSC$threshold)
+end.rcode-->
+
+<p>You can also embed plots, for example:</p>
+
+<!--begin.rcode fig.width=7, fig.height=6
+plot(cars)
+end.rcode-->
+
+</body>
+</html>

@@ -1,0 +1,327 @@
+<html>
+
+<head>
+<style type="text/css">.knitr.inline {
+  background-color: #f7f7f7;
+  border:solid 1px #B0B0B0;
+}
+.error {
+	font-weight: bold;
+	color: #FF0000;
+}, 
+.warning {
+	font-weight: bold;
+} 
+.message {
+	font-style: italic;
+} 
+.source, .output, .warning, .error, .message {
+	padding: 0em 1em;
+  border:solid 1px #F7F7F7;
+}
+.source {
+  background-color: #f7f7f7;
+}
+.rimage.left {
+  text-align: left;
+}
+.rimage.right {
+  text-align: right;
+}
+.rimage.center {
+  text-align: center;
+}
+
+.source {
+  color: #333333;
+}
+.background {
+  color: #F7F7F7;
+}
+
+.number {
+  color: #000000;
+}
+
+.functioncall {
+  color: #800054;
+  font-weight: bolder;
+}
+
+.string {
+  color: #9999FF;
+}
+
+.keyword {
+  font-weight: bolder;
+  color: black;
+}
+
+.argument {
+  color: #B04005;
+}
+
+.comment {
+  color: #2E9957;
+}
+
+.roxygencomment {
+  color: #707AB3;
+}
+
+.formalargs {
+  color: #B04005;
+}
+
+.eqformalargs {
+  color: #B04005;
+}
+
+.assignement {
+  font-weight: bolder;
+  color: #000000;
+}
+
+.package {
+  color: #96B525;
+}
+
+.slot {
+  font-style: italic;
+}
+
+.symbol {
+  color: #000000;
+}
+
+.prompt {
+  color: #333333;
+}
+</style>
+<title>Title</title>
+</head>
+
+<body>
+
+<p>This is an R HTML document. When you click the <b>Knit HTML</b> button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
+
+<div class="chunk" id="unnamed-chunk-1"><div class="rcode"><div class="source"><pre class="knitr r"><span class="functioncall">source</span>(<span class="string">"http://bioconductor.org/biocLite.R"</span>)
+</pre></div><div class="message"><pre class="knitr r">## Bioconductor version 2.11 (BiocInstaller 1.8.3), ?biocLite for help
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">library</span>(simpleaffy)
+</pre></div><div class="message"><pre class="knitr r">## Loading required package: BiocGenerics
+</pre></div><div class="message"><pre class="knitr r">## Attaching package: 'BiocGenerics'
+</pre></div><div class="message"><pre class="knitr r">## The following object(s) are masked from 'package:stats':
+## 
+## xtabs
+</pre></div><div class="message"><pre class="knitr r">## The following object(s) are masked from 'package:base':
+## 
+## anyDuplicated, cbind, colnames, duplicated, eval, Filter, Find, get,
+## intersect, lapply, Map, mapply, mget, order, paste, pmax, pmax.int, pmin,
+## pmin.int, Position, rbind, Reduce, rep.int, rownames, sapply, setdiff,
+## table, tapply, union, unique
+</pre></div><div class="message"><pre class="knitr r">## Loading required package: Biobase
+</pre></div><div class="message"><pre class="knitr r">## Welcome to Bioconductor
+## 
+## Vignettes contain introductory material; view with 'browseVignettes()'. To
+## cite Bioconductor, see 'citation("Biobase")', and for packages
+## 'citation("pkgname")'.
+</pre></div><div class="message"><pre class="knitr r">## Loading required package: affy
+</pre></div><div class="message"><pre class="knitr r">## Loading required package: genefilter
+</pre></div><div class="message"><pre class="knitr r">## Loading required package: gcrma
+</pre></div><div class="message"><pre class="knitr r">## No methods found in "Biobase" for requests: geneNames
+</pre></div><div class="source"><pre class="knitr r">celfiles &lt;- <span class="functioncall">read.affy</span>(covdesc = <span class="string">"phenodata.txt"</span>, path = <span class="string">"data"</span>)
+celfiles
+</pre></div><div class="message"><pre class="knitr r">## Loading required package: AnnotationDbi
+</pre></div><div class="message"><pre class="knitr r">## </pre></div><div class="output"><pre class="knitr r">## AffyBatch object
+## size of arrays=732x732 features (22 kb)
+## cdf=Mouse430A_2 (22690 affyids)
+## number of samples=13
+## number of genes=22690
+## annotation=mouse430a2
+## notes=
+</pre></div><div class="source"><pre class="knitr r">celfiles.gcrma &lt;- <span class="functioncall">gcrma</span>(celfiles)
+</pre></div><div class="output"><pre class="knitr r">## Adjusting for optical effect.............Done.
+## Computing affinities[1] "Checking to see if your internet connection works..."
+</pre></div><div class="error"><pre class="knitr r">## Error: You do not have write access to C:/Program Files/RStudio/R/library
+## Please check your permissions or provide a different 'lib' parameter.
+</pre></div><div class="source"><pre class="knitr r">celfiles.gcrma
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'celfiles.gcrma' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">library</span>(RColorBrewer)
+cols &lt;- <span class="functioncall">brewer.pal</span>(9, <span class="string">"Set1"</span>)
+<span class="functioncall">library</span>(affyPLM)
+</pre></div><div class="message"><pre class="knitr r">## Loading required package: preprocessCore
+</pre></div><div class="source"><pre class="knitr r">celfiles.qc &lt;- <span class="functioncall">fitPLM</span>(celfiles)
+<span class="functioncall">par</span>(mfrow = <span class="functioncall">c</span>(1, 2))
+<span class="functioncall">RLE</span>(celfiles.qc, main = <span class="string">"RLE"</span>, col = cols)
+<span class="functioncall">NUSE</span>(celfiles.qc, main = <span class="string">"NUSE"</span>, col = cols)
+</pre></div></div><div class="rimage default"><img src="figure/unnamed-chunk-1.png" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" class="plot" /></div><div class="rcode">
+<div class="source"><pre class="knitr r">eset &lt;- <span class="functioncall">exprs</span>(celfiles.gcrma)
+</pre></div><div class="error"><pre class="knitr r">## Error: error in evaluating the argument 'object' in selecting a method for
+## function 'exprs': Error: object 'celfiles.gcrma' not found
+</pre></div><div class="source"><pre class="knitr r">distance &lt;- <span class="functioncall">dist</span>(<span class="functioncall">t</span>(eset), method = <span class="string">"maximum"</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'eset' not found
+</pre></div><div class="source"><pre class="knitr r">clusters &lt;- <span class="functioncall">hclust</span>(distance)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'distance' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">plot</span>(clusters)
+</pre></div><div class="error"><pre class="knitr r">## Error: error in evaluating the argument 'x' in selecting a method for
+## function 'plot': Error: object 'clusters' not found
+</pre></div><div class="source"><pre class="knitr r">celfiles.filtered &lt;- <span class="functioncall">nsFilter</span>(celfiles.gcrma, require.entrez = <span class="keyword">FALSE</span>, remove.dupEntrez = <span class="keyword">FALSE</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: error in evaluating the argument 'eset' in selecting a method for
+## function 'nsFilter': Error: object 'celfiles.gcrma' not found
+</pre></div><div class="source"><pre class="knitr r">celfiles.filtered$filter.log
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'celfiles.filtered' not found
+</pre></div><div class="source"><pre class="knitr r">samples &lt;- celfiles.gcrma$Target
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'celfiles.gcrma' not found
+</pre></div><div class="source"><pre class="knitr r">samples
+</pre></div><div class="output"><pre class="knitr r">## standardGeneric for "samples" defined from package "Biobase"
+## 
+## function (object) 
+## standardGeneric("samples")
+## <environment: 0x00000000113bf698>
+## Methods may be defined for arguments: object
+## Use  showMethods("samples")  for currently available ones.
+</pre></div><div class="source"><pre class="knitr r">samples &lt;- <span class="functioncall">as.factor</span>(samples)
+</pre></div><div class="error"><pre class="knitr r">## Error: unique() applies only to vectors
+</pre></div><div class="source"><pre class="knitr r">samples
+</pre></div><div class="output"><pre class="knitr r">## standardGeneric for "samples" defined from package "Biobase"
+## 
+## function (object) 
+## standardGeneric("samples")
+## <environment: 0x00000000113bf698>
+## Methods may be defined for arguments: object
+## Use  showMethods("samples")  for currently available ones.
+</pre></div><div class="source"><pre class="knitr r">design &lt;- <span class="functioncall">model.matrix</span>(~0 + samples)
+</pre></div><div class="error"><pre class="knitr r">## Error: object is not a matrix
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">colnames</span>(design) &lt;- <span class="functioncall">c</span>(<span class="string">"GMP"</span>, <span class="string">"GMPGFP"</span>, <span class="string">"HSC"</span>, <span class="string">"NHA9GMP"</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: attempt to set colnames on object with less than two dimensions
+</pre></div><div class="source"><pre class="knitr r">design
+</pre></div><div class="output"><pre class="knitr r">## standardGeneric for "design" defined from package "Biobase"
+## 
+## function (object, ...) 
+## standardGeneric("design")
+## <environment: 0x000000000cd606e0>
+## Methods may be defined for arguments: object
+## Use  showMethods("design")  for currently available ones.
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">library</span>(limma)
+fit &lt;- <span class="functioncall">lmFit</span>(<span class="functioncall">exprs</span>(celfiles.filtered$eset), design)
+</pre></div><div class="error"><pre class="knitr r">## Error: error in evaluating the argument 'object' in selecting a method for
+## function 'exprs': Error: object 'celfiles.filtered' not found
+</pre></div><div class="source"><pre class="knitr r">contrast.matrix &lt;- <span class="functioncall">makeContrasts</span>(NHA9GMPvsGMP = NHA9GMP - GMP, NHA9GMPvsGMPGFP = NHA9GMP - 
+    GMPGFP, NHA9GMPvsHSC &lt;- NHA9GMP - HSC, levels = design)
+</pre></div><div class="error"><pre class="knitr r">## Error: argument is of length zero
+</pre></div><div class="source"><pre class="knitr r">contrast.matrix
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'contrast.matrix' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9_fits &lt;- <span class="functioncall">contrasts.fit</span>(fit, contrast.matrix)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'fit' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9_ebFit &lt;- <span class="functioncall">eBayes</span>(NHA9_fits)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9_fits' not found
+</pre></div><div class="source"><pre class="knitr r">probeset.list.NHA9GMPvsGMP &lt;- <span class="functioncall">topTable</span>(NHA9_ebFit, coef = 1, number = 10000, 
+    lfc = 1)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9_ebFit' not found
+</pre></div><div class="source"><pre class="knitr r">probeset.list.NHA9GMPvsGMPGFP &lt;- <span class="functioncall">topTable</span>(NHA9_ebFit, coef = 2, number = 10000, 
+    lfc = 1)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9_ebFit' not found
+</pre></div><div class="source"><pre class="knitr r">probeset.list.NHA9GMPvsHSC &lt;- <span class="functioncall">topTable</span>(NHA9_ebFit, coef = 3, number = 10000, 
+    lfc = 1)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9_ebFit' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">biocLite</span>(<span class="string">"mouse430a2.db"</span>)
+</pre></div><div class="message"><pre class="knitr r">## BioC_mirror: http://bioconductor.org
+</pre></div><div class="message"><pre class="knitr r">## Using Bioconductor version 2.11 (BiocInstaller 1.8.3), R version 2.15.
+</pre></div><div class="message"><pre class="knitr r">## Installing package(s) 'mouse430a2.db'
+</pre></div><div class="warning"><pre class="knitr r">## Warning: 'lib = "C:/Program Files/RStudio/R/library"' is not writable
+</pre></div><div class="error"><pre class="knitr r">## Error: unable to install packages
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">library</span>(mouse430a2.db)
+</pre></div><div class="message"><pre class="knitr r">## Loading required package: org.Mm.eg.db
+</pre></div><div class="message"><pre class="knitr r">## Loading required package: DBI
+</pre></div><div class="message"><pre class="knitr r">## </pre></div><div class="message"><pre class="knitr r">## </pre></div><div class="source"><pre class="knitr r"><span class="functioncall">library</span>(annotate)
+<span class="functioncall">View</span>(probeset.list.NHA9GMPvsGMP)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'probeset.list.NHA9GMPvsGMP' not found
+</pre></div><div class="source"><pre class="knitr r">gene.symbols1 &lt;- <span class="functioncall">getSYMBOL</span>(probeset.list.NHA9GMPvsGMP$ID, <span class="string">"mouse430a2"</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'probeset.list.NHA9GMPvsGMP' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">View</span>(probeset.list.NHA9GMPvsGMP)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'probeset.list.NHA9GMPvsGMP' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">View</span>(probeset.list.NHA9GMPvsGMPGFP)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'probeset.list.NHA9GMPvsGMPGFP' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">View</span>(probeset.list.NHA9GMPvsHSC)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'probeset.list.NHA9GMPvsHSC' not found
+</pre></div><div class="source"><pre class="knitr r">gene.symbols1 &lt;- <span class="functioncall">getSYMBOL</span>(probeset.list.NHA9GMPvsGMP$ID, <span class="string">"mouse430a2"</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'probeset.list.NHA9GMPvsGMP' not found
+</pre></div><div class="source"><pre class="knitr r">gene.symbols2 &lt;- <span class="functioncall">getSYMBOL</span>(probeset.list.NHA9GMPvsGMPGFP$ID, <span class="string">"mouse430a2"</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'probeset.list.NHA9GMPvsGMPGFP' not found
+</pre></div><div class="source"><pre class="knitr r">gene.symbols3 &lt;- <span class="functioncall">getSYMBOL</span>(probeset.list.NHA9GMPvsHSC$ID, <span class="string">"mouse430a2"</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'probeset.list.NHA9GMPvsHSC' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9GMPvsGMPFC2Ann &lt;- <span class="functioncall">cbind</span>(probeset.list.NHA9GMPvsGMP, gene.symbols1)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'probeset.list.NHA9GMPvsGMP' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9GMPvsGMPGFPFC2Ann &lt;- <span class="functioncall">cbind</span>(probeset.list.NHA9GMPvsGMPGFP, gene.symbols2)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'probeset.list.NHA9GMPvsGMPGFP' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9GMPvsHSCFC2Ann &lt;- <span class="functioncall">cbind</span>(probeset.list.NHA9GMPvsHSC, gene.symbols3)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'probeset.list.NHA9GMPvsHSC' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">write.table</span>(NHA9GMPvsGMPFC2Ann, <span class="string">"NHA9GMP vs GMP FC2 Ann.txt"</span>, sep = <span class="string">"\t"</span>, quote = <span class="keyword">FALSE</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsGMPFC2Ann' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">write.table</span>(NHA9GMPvsGMPGFPFC2Ann, <span class="string">"NHA9GMP vs GMPGFP FC2 Ann.txt"</span>, sep = <span class="string">"\t"</span>, 
+    quote = <span class="keyword">FALSE</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsGMPGFPFC2Ann' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">write.table</span>(NHA9GMPvsHSCFC2Ann, <span class="string">"NHA9GMP vs HSC FC2 Ann.txt"</span>, sep = <span class="string">"\t"</span>, quote = <span class="keyword">FALSE</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsHSCFC2Ann' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9GMPvsGMP &lt;- <span class="functioncall">topTable</span>(NHA9_ebFit, coef = 1, number = 1e+06, sort.by = <span class="string">"logFC"</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9_ebFit' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9GMPvsGMPGFP &lt;- <span class="functioncall">topTable</span>(NHA9_ebFit, coef = 2, number = 1e+06, sort.by = <span class="string">"logFC"</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9_ebFit' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9GMPvsHSC &lt;- <span class="functioncall">topTable</span>(NHA9_ebFit, coef = 3, number = 1e+06, sort.by = <span class="string">"logFC"</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9_ebFit' not found
+</pre></div><div class="source"><pre class="knitr r">gene.symbols1 &lt;- <span class="functioncall">getSYMBOL</span>(NHA9GMPvsGMP$ID, <span class="string">"mouse430a2"</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsGMP' not found
+</pre></div><div class="source"><pre class="knitr r">gene.symbols2 &lt;- <span class="functioncall">getSYMBOL</span>(NHA9GMPvsGMPGFP$ID, <span class="string">"mouse430a2"</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsGMPGFP' not found
+</pre></div><div class="source"><pre class="knitr r">gene.symbols3 &lt;- <span class="functioncall">getSYMBOL</span>(NHA9GMPvsHSC$ID, <span class="string">"mouse430a2"</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsHSC' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9GMPvsGMPAllAnn &lt;- <span class="functioncall">cbind</span>(NHA9GMPvsGMP, gene.symbols1)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsGMP' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9GMPvsGMPGFPAllAnn &lt;- <span class="functioncall">cbind</span>(NHA9GMPvsGMPGFP, gene.symbols2)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsGMPGFP' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9GMPvsHSCAllAnn &lt;- <span class="functioncall">cbind</span>(NHA9GMPvsHSC, gene.symbols3)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsHSC' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">write.table</span>(NHA9GMPvsGMPAllAnn, <span class="string">"NHA9GMP vs GMP All Ann.txt"</span>, sep = <span class="string">"\t"</span>, quote = <span class="keyword">FALSE</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsGMPAllAnn' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">write.table</span>(NHA9GMPvsGMPGFPAllAnn, <span class="string">"NHA9GMP vs GMPGFP All Ann.txt"</span>, sep = <span class="string">"\t"</span>, 
+    quote = <span class="keyword">FALSE</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsGMPGFPAllAnn' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">write.table</span>(NHA9GMPvsHSCAllAnn, <span class="string">"NHA9GMP vs HSC All Ann.txt"</span>, sep = <span class="string">"\t"</span>, quote = <span class="keyword">FALSE</span>)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsHSCAllAnn' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9GMPvsGMP$threshold = <span class="functioncall">as.factor</span>(<span class="functioncall">abs</span>(NHA9GMPvsGMP$logFC) &gt; 1 &amp; NHA9GMPvsGMP$P.Value &lt; 
+    0.05)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsGMP' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9GMPvsGMPGFP$threshold = <span class="functioncall">as.factor</span>(<span class="functioncall">abs</span>(NHA9GMPvsGMPGFP$logFC) &gt; 1 &amp; NHA9GMPvsGMPGFP$P.Value &lt; 
+    0.05)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsGMPGFP' not found
+</pre></div><div class="source"><pre class="knitr r">NHA9GMPvsHSC$threshold = <span class="functioncall">as.factor</span>(<span class="functioncall">abs</span>(NHA9GMPvsHSC$logFC) &gt; 1 &amp; NHA9GMPvsHSC$P.Value &lt; 
+    0.05)
+</pre></div><div class="error"><pre class="knitr r">## Error: object 'NHA9GMPvsHSC' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">par</span>(mar = <span class="functioncall">c</span>(3, 3, 2, 1), mgp = <span class="functioncall">c</span>(2, 0.7, 0), tck = -0.01)
+<span class="functioncall">plot</span>(NHA9GMPvsGMP$logFC, -<span class="functioncall">log10</span>(NHA9GMPvsGMP$P.Value), xlim = <span class="functioncall">c</span>(-10, 10), ylim = <span class="functioncall">c</span>(0, 
+    18), xlab = <span class="string">"log2 fold change"</span>, ylab = <span class="string">"-log10 p-value"</span>, pch = 19, cex = 0.5, 
+    col = NHA9GMPvsGMP$threshold)
+</pre></div><div class="error"><pre class="knitr r">## Error: error in evaluating the argument 'x' in selecting a method for
+## function 'plot': Error: object 'NHA9GMPvsGMP' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">par</span>(mar = <span class="functioncall">c</span>(3, 3, 2, 1), mgp = <span class="functioncall">c</span>(2, 0.7, 0), tck = -0.01)
+<span class="functioncall">plot</span>(NHA9GMPvsGMPGFP$logFC, -<span class="functioncall">log10</span>(NHA9GMPvsGMPGFP$P.Value), xlim = <span class="functioncall">c</span>(-5, 5), 
+    ylim = <span class="functioncall">c</span>(0, 10), xlab = <span class="string">"log2 fold change"</span>, ylab = <span class="string">"-log10 p-value"</span>, pch = 19, 
+    cex = 0.5, col = NHA9GMPvsGMPGFP$threshold)
+</pre></div><div class="error"><pre class="knitr r">## Error: error in evaluating the argument 'x' in selecting a method for
+## function 'plot': Error: object 'NHA9GMPvsGMPGFP' not found
+</pre></div><div class="source"><pre class="knitr r"><span class="functioncall">plot</span>(NHA9GMPvsHSC$logFC, -<span class="functioncall">log10</span>(NHA9GMPvsHSC$P.Value), xlim = <span class="functioncall">c</span>(-10, 10), ylim = <span class="functioncall">c</span>(0, 
+    15), xlab = <span class="string">"log2 fold change"</span>, ylab = <span class="string">"-log10 p-value"</span>, pch = 19, cex = 0.5, 
+    col = NHA9GMPvsHSC$threshold)
+</pre></div><div class="error"><pre class="knitr r">## Error: error in evaluating the argument 'x' in selecting a method for
+## function 'plot': Error: object 'NHA9GMPvsHSC' not found
+</pre></div></div></div>
+
+
+<p>You can also embed plots, for example:</p>
+
+<div class="chunk" id="unnamed-chunk-2"><div class="rcode"><div class="source"><pre class="knitr r"><span class="functioncall">plot</span>(cars)
+</pre></div></div><div class="rimage default"><img src="figure/unnamed-chunk-2.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" class="plot" /></div></div>
+
+
+</body>
+</html>
